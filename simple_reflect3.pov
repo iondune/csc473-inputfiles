@@ -21,6 +21,6 @@ sphere { <4, 1, 0>, 1
 }
 
 plane {<0, 1, 0>, -4
-      pigment {color rgb <0.29, 0.25, 0.49>}
-		finish {ambient 0.4 diffuse 0.8 reflection 0.9}
+  pigment {color rgb <0.29, 0.25, 0.49>}
+  finish {ambient 0.4 diffuse 0.8 reflection 0.7}
 }
