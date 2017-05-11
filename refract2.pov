@@ -14,7 +14,7 @@ sphere { <0, 0, 0>, 3
   translate <0, 0, 0>
 }
 
-sphere { <2, 1, -4>, 2.3
+sphere { <2, 1, -5>, 2.3
   pigment { color rgb <0.38, 0.69, 0.40>}
   finish {ambient 0.4 diffuse 0.8}
 }
