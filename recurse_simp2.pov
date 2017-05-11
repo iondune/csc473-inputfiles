@@ -32,3 +32,4 @@ finish {ambient 0.4 diffuse 0.8 reflection 0.2}}
 sphere { <5.5, -3, -1>, 2
 pigment {color rgbf <1.0, 1.0, 1.0, 0.8>}
 finish {ambient 0.2 diffuse 0.8 reflection 0.1 refraction 1.0 ior 1.333}}
+
