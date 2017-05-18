@@ -11,7 +11,7 @@ camera {
 light_source {<-100, 100, 100> color rgb <1.5, 1.5, 1.5>}
 
 sphere { <0, -2, 7>, 1.75
-  pigment { color rgbf <1.0, 1.0, 1.0> }
+  pigment { color rgbf <1.0, 1.0, 1.0, 0.9> }
   finish {ambient 0.2 diffuse 0.4 specular 0.7 roughness 0.02 ior 1.6 reflection 0.7}
 }
 
