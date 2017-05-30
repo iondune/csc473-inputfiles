@@ -3097,11 +3097,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.4655, 7.99063, 2.79195>, 0.07412, <-2.28769, 8.72481, 2>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -3349,11 +3344,6 @@ sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.465497, 7.19868, 1.51055>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<0.465497, 7.68813, 1.20805>, 0.07412, <-0.465497, 7.19868, 1.51055>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -6063,11 +6053,6 @@ sphere {<0, 0, 0>, 1
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.5345, 10.3013, 0.208049>
   pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-3.28769, 11.3379, 1>, 0.07412, <-2.71231, 10.8485, 0.208049>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
@@ -9742,11 +9727,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.75319, 13.3104, -2.48945>, 0.07412, <-4.4655, 13.7063, -1.51055>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -10358,11 +10338,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2, 13.5551, -1.20805>, 0.07412, <2.75319, 13.6129, -2>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -10530,11 +10505,6 @@ sphere {<0, 0, 0>, 1
   scale <0.07412, 0.07412, 0.07412>
   translate <1.5345, 12.9144, -2.79195>
   pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2.75319, 12.5184, -2>, 0.07412, <2, 12.5762, -2.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
@@ -12571,11 +12541,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.4655, 13.2169, 2.79195>, 0.07412, <-2.28769, 13.9511, 2>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -12643,11 +12608,6 @@ sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.24681, 13.3104, 1.51055>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2.28769, 13.4616, 1.20805>, 0.07412, <-1.24681, 13.3104, 1.51055>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -19413,11 +19373,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3, 16.4707, -1.48945>, 0.07412, <3.4655, 16.3195, -0.510547>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -21232,11 +21187,6 @@ sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.06901, 15.6788, 1>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4.71231, 15.2828, 1.79195>, 0.07412, <4.06901, 15.6788, 1>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -23445,20 +23395,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.71231, 15.2828, 5.79195>, 0.07412, <-3.28769, 14.7933, 5>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.71231, 15.2828, 5.79195>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2.5345, 16.3195, 5.48945>, 0.07412, <-2.71231, 15.2828, 5.79195>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -23471,20 +23411,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3, 16.4707, 4.51055>, 0.07412, <-2.5345, 16.3195, 5.48945>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-3, 16.4707, 4.51055>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-3.4655, 15.5275, 4.20805>, 0.07412, <-3, 16.4707, 4.51055>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -23497,20 +23427,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.24681, 15.1315, 5>, 0.07412, <-3, 15.1893, 4.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.24681, 15.1315, 5>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2.5345, 15.83, 5.79195>, 0.07412, <-2.24681, 15.1315, 5>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -23523,20 +23443,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.4655, 16.3195, 5.48945>, 0.07412, <-2.5345, 15.83, 5.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-3.4655, 16.3195, 5.48945>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-3.75319, 15.9235, 4.51055>, 0.07412, <-3.4655, 16.3195, 5.48945>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -23549,11 +23459,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3, 15.1893, 4.20805>, 0.07412, <-3.75319, 15.9235, 4.51055>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -23562,20 +23467,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.0690053, 15.6788, 5>, 0.07412, <-0.712307, 14.7933, 5>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.0690053, 15.6788, 5>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-0.712307, 16.5642, 5>, 0.07412, <-0.0690053, 15.6788, 5>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -23588,20 +23483,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.75319, 16.226, 5>, 0.07412, <-0.712307, 16.5642, 5>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.75319, 16.226, 5>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.75319, 15.1315, 5>, 0.07412, <-1.75319, 16.226, 5>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -23614,11 +23499,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.712307, 14.7933, 5>, 0.07412, <-1.75319, 15.1315, 5>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -23627,20 +23507,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.246809, 16.226, 5>, 0.07412, <-0.534503, 15.5275, 4.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.246809, 16.226, 5>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1, 16.1682, 5.79195>, 0.07412, <-0.246809, 16.226, 5>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -23653,20 +23523,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.75319, 15.434, 5.48945>, 0.07412, <-1, 16.1682, 5.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.75319, 15.434, 5.48945>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.4655, 15.0381, 4.51055>, 0.07412, <-1.75319, 15.434, 5.48945>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -23679,11 +23539,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.534503, 15.5275, 4.20805>, 0.07412, <-1.4655, 15.0381, 4.51055>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -23692,20 +23547,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.28769, 16.5642, 5>, 0.07412, <-0.712307, 16.0747, 4.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.28769, 16.5642, 5>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.4655, 15.83, 5.79195>, 0.07412, <-1.28769, 16.5642, 5>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -23718,20 +23563,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1, 14.8868, 5.48945>, 0.07412, <-1.4655, 15.83, 5.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1, 14.8868, 5.48945>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-0.534503, 15.0381, 4.51055>, 0.07412, <-1, 14.8868, 5.48945>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -23744,11 +23579,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.712307, 16.0747, 4.20805>, 0.07412, <-0.534503, 15.0381, 4.51055>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -23757,20 +23587,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.93099, 15.6788, 5>, 0.07412, <-1.28769, 16.0747, 4.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.93099, 15.6788, 5>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.28769, 15.2828, 5.79195>, 0.07412, <-1.93099, 15.6788, 5>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -23783,20 +23603,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.246809, 15.434, 5.48945>, 0.07412, <-1.28769, 15.2828, 5.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.246809, 15.434, 5.48945>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-0.246809, 15.9235, 4.51055>, 0.07412, <-0.246809, 15.434, 5.48945>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -23809,11 +23619,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.28769, 16.0747, 4.20805>, 0.07412, <-0.246809, 15.9235, 4.51055>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -23822,20 +23627,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.28769, 14.7933, 5>, 0.07412, <-1.4655, 15.5275, 4.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.28769, 14.7933, 5>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-0.712307, 15.2828, 5.79195>, 0.07412, <-1.28769, 14.7933, 5>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -23848,20 +23643,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.534503, 16.3195, 5.48945>, 0.07412, <-0.712307, 15.2828, 5.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.534503, 16.3195, 5.48945>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1, 16.4707, 4.51055>, 0.07412, <-0.534503, 16.3195, 5.48945>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -23874,11 +23659,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.4655, 15.5275, 4.20805>, 0.07412, <-1, 16.4707, 4.51055>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -23887,20 +23667,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.246809, 15.1315, 5>, 0.07412, <-1, 15.1893, 4.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.246809, 15.1315, 5>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-0.534503, 15.83, 5.79195>, 0.07412, <-0.246809, 15.1315, 5>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -23913,20 +23683,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.4655, 16.3195, 5.48945>, 0.07412, <-0.534503, 15.83, 5.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.4655, 16.3195, 5.48945>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.75319, 15.9235, 4.51055>, 0.07412, <-1.4655, 16.3195, 5.48945>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -23939,11 +23699,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1, 15.1893, 4.20805>, 0.07412, <-1.75319, 15.9235, 4.51055>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -23952,20 +23707,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.93099, 15.6788, 5>, 0.07412, <1.28769, 14.7933, 5>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.93099, 15.6788, 5>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1.28769, 16.5642, 5>, 0.07412, <1.93099, 15.6788, 5>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -23978,20 +23723,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.246809, 16.226, 5>, 0.07412, <1.28769, 16.5642, 5>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <0.246809, 16.226, 5>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<0.246809, 15.1315, 5>, 0.07412, <0.246809, 16.226, 5>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -24004,11 +23739,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.28769, 14.7933, 5>, 0.07412, <0.246809, 15.1315, 5>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -24017,20 +23747,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.75319, 16.226, 5>, 0.07412, <1.4655, 15.5275, 4.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.75319, 16.226, 5>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1, 16.1682, 5.79195>, 0.07412, <1.75319, 16.226, 5>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -24043,20 +23763,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.246809, 15.434, 5.48945>, 0.07412, <1, 16.1682, 5.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <0.246809, 15.434, 5.48945>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<0.534503, 15.0381, 4.51055>, 0.07412, <0.246809, 15.434, 5.48945>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -24069,11 +23779,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.4655, 15.5275, 4.20805>, 0.07412, <0.534503, 15.0381, 4.51055>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -24082,20 +23787,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.712307, 16.5642, 5>, 0.07412, <1.28769, 16.0747, 4.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <0.712307, 16.5642, 5>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<0.534503, 15.83, 5.79195>, 0.07412, <0.712307, 16.5642, 5>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -24108,20 +23803,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1, 14.8868, 5.48945>, 0.07412, <0.534503, 15.83, 5.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1, 14.8868, 5.48945>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1.4655, 15.0381, 4.51055>, 0.07412, <1, 14.8868, 5.48945>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -24134,11 +23819,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.28769, 16.0747, 4.20805>, 0.07412, <1.4655, 15.0381, 4.51055>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -24147,20 +23827,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.0690053, 15.6788, 5>, 0.07412, <0.712307, 16.0747, 4.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <0.0690053, 15.6788, 5>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<0.712307, 15.2828, 5.79195>, 0.07412, <0.0690053, 15.6788, 5>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -24173,20 +23843,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.75319, 15.434, 5.48945>, 0.07412, <0.712307, 15.2828, 5.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.75319, 15.434, 5.48945>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1.75319, 15.9235, 4.51055>, 0.07412, <1.75319, 15.434, 5.48945>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -24199,11 +23859,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.712307, 16.0747, 4.20805>, 0.07412, <1.75319, 15.9235, 4.51055>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -24212,20 +23867,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.712307, 14.7933, 5>, 0.07412, <0.534503, 15.5275, 4.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <0.712307, 14.7933, 5>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1.28769, 15.2828, 5.79195>, 0.07412, <0.712307, 14.7933, 5>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -24238,20 +23883,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.4655, 16.3195, 5.48945>, 0.07412, <1.28769, 15.2828, 5.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.4655, 16.3195, 5.48945>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1, 16.4707, 4.51055>, 0.07412, <1.4655, 16.3195, 5.48945>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -24264,11 +23899,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.534503, 15.5275, 4.20805>, 0.07412, <1, 16.4707, 4.51055>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -24277,20 +23907,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.75319, 15.1315, 5>, 0.07412, <1, 15.1893, 4.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.75319, 15.1315, 5>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1.4655, 15.83, 5.79195>, 0.07412, <1.75319, 15.1315, 5>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -24303,20 +23923,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.534503, 16.3195, 5.48945>, 0.07412, <1.4655, 15.83, 5.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <0.534503, 16.3195, 5.48945>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<0.246809, 15.9235, 4.51055>, 0.07412, <0.534503, 16.3195, 5.48945>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -24329,11 +23939,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1, 15.1893, 4.20805>, 0.07412, <0.246809, 15.9235, 4.51055>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -24342,20 +23947,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.93099, 15.6788, 5>, 0.07412, <3.28769, 14.7933, 5>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.93099, 15.6788, 5>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3.28769, 16.5642, 5>, 0.07412, <3.93099, 15.6788, 5>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -24368,20 +23963,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.24681, 16.226, 5>, 0.07412, <3.28769, 16.5642, 5>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2.24681, 16.226, 5>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2.24681, 15.1315, 5>, 0.07412, <2.24681, 16.226, 5>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -24394,11 +23979,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.28769, 14.7933, 5>, 0.07412, <2.24681, 15.1315, 5>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -24407,20 +23987,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.75319, 16.226, 5>, 0.07412, <3.4655, 15.5275, 4.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.75319, 16.226, 5>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3, 16.1682, 5.79195>, 0.07412, <3.75319, 16.226, 5>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -24433,20 +24003,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.24681, 15.434, 5.48945>, 0.07412, <3, 16.1682, 5.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2.24681, 15.434, 5.48945>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2.5345, 15.0381, 4.51055>, 0.07412, <2.24681, 15.434, 5.48945>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -24459,11 +24019,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.4655, 15.5275, 4.20805>, 0.07412, <2.5345, 15.0381, 4.51055>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -24472,20 +24027,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.71231, 16.5642, 5>, 0.07412, <3.28769, 16.0747, 4.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2.71231, 16.5642, 5>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2.5345, 15.83, 5.79195>, 0.07412, <2.71231, 16.5642, 5>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -24498,20 +24043,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3, 14.8868, 5.48945>, 0.07412, <2.5345, 15.83, 5.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3, 14.8868, 5.48945>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3.4655, 15.0381, 4.51055>, 0.07412, <3, 14.8868, 5.48945>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -24524,11 +24059,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.28769, 16.0747, 4.20805>, 0.07412, <3.4655, 15.0381, 4.51055>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -24537,20 +24067,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.06901, 15.6788, 5>, 0.07412, <2.71231, 16.0747, 4.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2.06901, 15.6788, 5>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2.71231, 15.2828, 5.79195>, 0.07412, <2.06901, 15.6788, 5>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -24563,20 +24083,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.75319, 15.434, 5.48945>, 0.07412, <2.71231, 15.2828, 5.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.75319, 15.434, 5.48945>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3.75319, 15.9235, 4.51055>, 0.07412, <3.75319, 15.434, 5.48945>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -24589,11 +24099,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.71231, 16.0747, 4.20805>, 0.07412, <3.75319, 15.9235, 4.51055>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -24602,20 +24107,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.71231, 14.7933, 5>, 0.07412, <2.5345, 15.5275, 4.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2.71231, 14.7933, 5>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3.28769, 15.2828, 5.79195>, 0.07412, <2.71231, 14.7933, 5>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -24628,20 +24123,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.4655, 16.3195, 5.48945>, 0.07412, <3.28769, 15.2828, 5.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.4655, 16.3195, 5.48945>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3, 16.4707, 4.51055>, 0.07412, <3.4655, 16.3195, 5.48945>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -24654,11 +24139,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.5345, 15.5275, 4.20805>, 0.07412, <3, 16.4707, 4.51055>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -24667,20 +24147,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.75319, 15.1315, 5>, 0.07412, <3, 15.1893, 4.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.75319, 15.1315, 5>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3.4655, 15.83, 5.79195>, 0.07412, <3.75319, 15.1315, 5>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -24693,20 +24163,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.5345, 16.3195, 5.48945>, 0.07412, <3.4655, 15.83, 5.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2.5345, 16.3195, 5.48945>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2.24681, 15.9235, 4.51055>, 0.07412, <2.5345, 16.3195, 5.48945>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -24719,11 +24179,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3, 15.1893, 4.20805>, 0.07412, <2.24681, 15.9235, 4.51055>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -24732,20 +24187,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.93099, 15.6788, 5>, 0.07412, <5.28769, 14.7933, 5>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.93099, 15.6788, 5>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<5.28769, 16.5642, 5>, 0.07412, <5.93099, 15.6788, 5>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -24758,20 +24203,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.24681, 16.226, 5>, 0.07412, <5.28769, 16.5642, 5>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.24681, 16.226, 5>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4.24681, 15.1315, 5>, 0.07412, <4.24681, 16.226, 5>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -24784,11 +24219,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.28769, 14.7933, 5>, 0.07412, <4.24681, 15.1315, 5>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -24797,20 +24227,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.75319, 16.226, 5>, 0.07412, <5.4655, 15.5275, 4.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.75319, 16.226, 5>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<5, 16.1682, 5.79195>, 0.07412, <5.75319, 16.226, 5>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -24823,20 +24243,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.24681, 15.434, 5.48945>, 0.07412, <5, 16.1682, 5.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.24681, 15.434, 5.48945>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4.5345, 15.0381, 4.51055>, 0.07412, <4.24681, 15.434, 5.48945>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -24849,11 +24259,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.4655, 15.5275, 4.20805>, 0.07412, <4.5345, 15.0381, 4.51055>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -24862,20 +24267,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.71231, 16.5642, 5>, 0.07412, <5.28769, 16.0747, 4.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.71231, 16.5642, 5>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4.5345, 15.83, 5.79195>, 0.07412, <4.71231, 16.5642, 5>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -24888,20 +24283,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5, 14.8868, 5.48945>, 0.07412, <4.5345, 15.83, 5.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5, 14.8868, 5.48945>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<5.4655, 15.0381, 4.51055>, 0.07412, <5, 14.8868, 5.48945>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -24914,11 +24299,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.28769, 16.0747, 4.20805>, 0.07412, <5.4655, 15.0381, 4.51055>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -24927,20 +24307,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.06901, 15.6788, 5>, 0.07412, <4.71231, 16.0747, 4.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.06901, 15.6788, 5>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4.71231, 15.2828, 5.79195>, 0.07412, <4.06901, 15.6788, 5>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -24953,20 +24323,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.75319, 15.434, 5.48945>, 0.07412, <4.71231, 15.2828, 5.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.75319, 15.434, 5.48945>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<5.75319, 15.9235, 4.51055>, 0.07412, <5.75319, 15.434, 5.48945>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -24979,11 +24339,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.71231, 16.0747, 4.20805>, 0.07412, <5.75319, 15.9235, 4.51055>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -24992,20 +24347,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.71231, 14.7933, 5>, 0.07412, <4.5345, 15.5275, 4.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.71231, 14.7933, 5>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<5.28769, 15.2828, 5.79195>, 0.07412, <4.71231, 14.7933, 5>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -25018,20 +24363,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.4655, 16.3195, 5.48945>, 0.07412, <5.28769, 15.2828, 5.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.4655, 16.3195, 5.48945>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<5, 16.4707, 4.51055>, 0.07412, <5.4655, 16.3195, 5.48945>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -25044,11 +24379,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.5345, 15.5275, 4.20805>, 0.07412, <5, 16.4707, 4.51055>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -25057,20 +24387,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.75319, 15.1315, 5>, 0.07412, <5, 15.1893, 4.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.75319, 15.1315, 5>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<5.4655, 15.83, 5.79195>, 0.07412, <5.75319, 15.1315, 5>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -25083,20 +24403,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.5345, 16.3195, 5.48945>, 0.07412, <5.4655, 15.83, 5.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.5345, 16.3195, 5.48945>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4.24681, 15.9235, 4.51055>, 0.07412, <4.5345, 16.3195, 5.48945>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -25109,11 +24419,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5, 15.1893, 4.20805>, 0.07412, <4.24681, 15.9235, 4.51055>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -25122,20 +24427,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.06901, 18.2919, -6>, 0.07412, <-5.71231, 17.4065, -6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-5.06901, 18.2919, -6>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-5.71231, 19.1773, -6>, 0.07412, <-5.06901, 18.2919, -6>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -25148,20 +24443,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.75319, 18.8391, -6>, 0.07412, <-5.71231, 19.1773, -6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.75319, 18.8391, -6>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6.75319, 17.7447, -6>, 0.07412, <-6.75319, 18.8391, -6>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -25174,11 +24459,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.71231, 17.4065, -6>, 0.07412, <-6.75319, 17.7447, -6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -25187,20 +24467,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.24681, 18.8391, -6>, 0.07412, <-5.5345, 18.1406, -6.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-5.24681, 18.8391, -6>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6, 18.7813, -5.20805>, 0.07412, <-5.24681, 18.8391, -6>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -25213,20 +24483,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.75319, 18.0472, -5.51055>, 0.07412, <-6, 18.7813, -5.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.75319, 18.0472, -5.51055>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6.4655, 17.6512, -6.48945>, 0.07412, <-6.75319, 18.0472, -5.51055>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -25239,11 +24499,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.5345, 18.1406, -6.79195>, 0.07412, <-6.4655, 17.6512, -6.48945>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -25252,20 +24507,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.28769, 19.1773, -6>, 0.07412, <-5.71231, 18.6879, -6.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.28769, 19.1773, -6>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6.4655, 18.4431, -5.20805>, 0.07412, <-6.28769, 19.1773, -6>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -25278,20 +24523,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6, 17.4999, -5.51055>, 0.07412, <-6.4655, 18.4431, -5.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6, 17.4999, -5.51055>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-5.5345, 17.6512, -6.48945>, 0.07412, <-6, 17.4999, -5.51055>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -25304,11 +24539,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.71231, 18.6879, -6.79195>, 0.07412, <-5.5345, 17.6512, -6.48945>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -25317,20 +24547,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.93099, 18.2919, -6>, 0.07412, <-6.28769, 18.6879, -6.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.93099, 18.2919, -6>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6.28769, 17.8959, -5.20805>, 0.07412, <-6.93099, 18.2919, -6>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -25343,20 +24563,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.24681, 18.0472, -5.51055>, 0.07412, <-6.28769, 17.8959, -5.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-5.24681, 18.0472, -5.51055>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-5.24681, 18.5366, -6.48945>, 0.07412, <-5.24681, 18.0472, -5.51055>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -25369,11 +24579,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.28769, 18.6879, -6.79195>, 0.07412, <-5.24681, 18.5366, -6.48945>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -25382,20 +24587,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.28769, 17.4065, -6>, 0.07412, <-6.4655, 18.1406, -6.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.28769, 17.4065, -6>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-5.71231, 17.8959, -5.20805>, 0.07412, <-6.28769, 17.4065, -6>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -25408,20 +24603,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.5345, 18.9326, -5.51055>, 0.07412, <-5.71231, 17.8959, -5.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-5.5345, 18.9326, -5.51055>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6, 19.0838, -6.48945>, 0.07412, <-5.5345, 18.9326, -5.51055>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -25434,11 +24619,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.4655, 18.1406, -6.79195>, 0.07412, <-6, 19.0838, -6.48945>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -25447,20 +24627,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.24681, 17.7447, -6>, 0.07412, <-6, 17.8024, -6.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-5.24681, 17.7447, -6>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-5.5345, 18.4431, -5.20805>, 0.07412, <-5.24681, 17.7447, -6>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -25473,20 +24643,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.4655, 18.9326, -5.51055>, 0.07412, <-5.5345, 18.4431, -5.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.4655, 18.9326, -5.51055>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6.75319, 18.5366, -6.48945>, 0.07412, <-6.4655, 18.9326, -5.51055>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -25499,11 +24659,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6, 17.8024, -6.79195>, 0.07412, <-6.75319, 18.5366, -6.48945>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -25512,20 +24667,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.06901, 18.2919, -6>, 0.07412, <-3.71231, 17.4065, -6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-3.06901, 18.2919, -6>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-3.71231, 19.1773, -6>, 0.07412, <-3.06901, 18.2919, -6>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -25538,20 +24683,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.75319, 18.8391, -6>, 0.07412, <-3.71231, 19.1773, -6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.75319, 18.8391, -6>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4.75319, 17.7447, -6>, 0.07412, <-4.75319, 18.8391, -6>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -25564,11 +24699,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.71231, 17.4065, -6>, 0.07412, <-4.75319, 17.7447, -6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -25577,20 +24707,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.24681, 18.8391, -6>, 0.07412, <-3.5345, 18.1406, -6.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-3.24681, 18.8391, -6>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4, 18.7813, -5.20805>, 0.07412, <-3.24681, 18.8391, -6>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -25603,20 +24723,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.75319, 18.0472, -5.51055>, 0.07412, <-4, 18.7813, -5.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.75319, 18.0472, -5.51055>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4.4655, 17.6512, -6.48945>, 0.07412, <-4.75319, 18.0472, -5.51055>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -25629,11 +24739,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.5345, 18.1406, -6.79195>, 0.07412, <-4.4655, 17.6512, -6.48945>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -25642,20 +24747,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.28769, 19.1773, -6>, 0.07412, <-3.71231, 18.6879, -6.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.28769, 19.1773, -6>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4.4655, 18.4431, -5.20805>, 0.07412, <-4.28769, 19.1773, -6>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -25668,20 +24763,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4, 17.4999, -5.51055>, 0.07412, <-4.4655, 18.4431, -5.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4, 17.4999, -5.51055>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-3.5345, 17.6512, -6.48945>, 0.07412, <-4, 17.4999, -5.51055>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -25694,11 +24779,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.71231, 18.6879, -6.79195>, 0.07412, <-3.5345, 17.6512, -6.48945>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -25707,20 +24787,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.93099, 18.2919, -6>, 0.07412, <-4.28769, 18.6879, -6.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.93099, 18.2919, -6>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4.28769, 17.8959, -5.20805>, 0.07412, <-4.93099, 18.2919, -6>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -25733,20 +24803,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.24681, 18.0472, -5.51055>, 0.07412, <-4.28769, 17.8959, -5.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-3.24681, 18.0472, -5.51055>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-3.24681, 18.5366, -6.48945>, 0.07412, <-3.24681, 18.0472, -5.51055>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -25759,11 +24819,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.28769, 18.6879, -6.79195>, 0.07412, <-3.24681, 18.5366, -6.48945>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -25772,20 +24827,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.28769, 17.4065, -6>, 0.07412, <-4.4655, 18.1406, -6.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.28769, 17.4065, -6>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-3.71231, 17.8959, -5.20805>, 0.07412, <-4.28769, 17.4065, -6>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -25798,20 +24843,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.5345, 18.9326, -5.51055>, 0.07412, <-3.71231, 17.8959, -5.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-3.5345, 18.9326, -5.51055>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4, 19.0838, -6.48945>, 0.07412, <-3.5345, 18.9326, -5.51055>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -25824,11 +24859,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.4655, 18.1406, -6.79195>, 0.07412, <-4, 19.0838, -6.48945>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -25837,20 +24867,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.24681, 17.7447, -6>, 0.07412, <-4, 17.8024, -6.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-3.24681, 17.7447, -6>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-3.5345, 18.4431, -5.20805>, 0.07412, <-3.24681, 17.7447, -6>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -25863,20 +24883,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.4655, 18.9326, -5.51055>, 0.07412, <-3.5345, 18.4431, -5.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.4655, 18.9326, -5.51055>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4.75319, 18.5366, -6.48945>, 0.07412, <-4.4655, 18.9326, -5.51055>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -25889,11 +24899,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4, 17.8024, -6.79195>, 0.07412, <-4.75319, 18.5366, -6.48945>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -25902,20 +24907,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.06901, 18.2919, -6>, 0.07412, <-1.71231, 17.4065, -6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.06901, 18.2919, -6>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.71231, 19.1773, -6>, 0.07412, <-1.06901, 18.2919, -6>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -25928,20 +24923,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.75319, 18.8391, -6>, 0.07412, <-1.71231, 19.1773, -6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.75319, 18.8391, -6>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2.75319, 17.7447, -6>, 0.07412, <-2.75319, 18.8391, -6>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -25954,11 +24939,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.71231, 17.4065, -6>, 0.07412, <-2.75319, 17.7447, -6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -25967,20 +24947,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.24681, 18.8391, -6>, 0.07412, <-1.5345, 18.1406, -6.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.24681, 18.8391, -6>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2, 18.7813, -5.20805>, 0.07412, <-1.24681, 18.8391, -6>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -25993,20 +24963,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.75319, 18.0472, -5.51055>, 0.07412, <-2, 18.7813, -5.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.75319, 18.0472, -5.51055>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2.4655, 17.6512, -6.48945>, 0.07412, <-2.75319, 18.0472, -5.51055>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -26019,11 +24979,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.5345, 18.1406, -6.79195>, 0.07412, <-2.4655, 17.6512, -6.48945>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -26032,20 +24987,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.28769, 19.1773, -6>, 0.07412, <-1.71231, 18.6879, -6.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.28769, 19.1773, -6>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2.4655, 18.4431, -5.20805>, 0.07412, <-2.28769, 19.1773, -6>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -26058,20 +25003,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2, 17.4999, -5.51055>, 0.07412, <-2.4655, 18.4431, -5.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2, 17.4999, -5.51055>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.5345, 17.6512, -6.48945>, 0.07412, <-2, 17.4999, -5.51055>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -26084,11 +25019,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.71231, 18.6879, -6.79195>, 0.07412, <-1.5345, 17.6512, -6.48945>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -26097,20 +25027,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.93099, 18.2919, -6>, 0.07412, <-2.28769, 18.6879, -6.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.93099, 18.2919, -6>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2.28769, 17.8959, -5.20805>, 0.07412, <-2.93099, 18.2919, -6>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -26123,20 +25043,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.24681, 18.0472, -5.51055>, 0.07412, <-2.28769, 17.8959, -5.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.24681, 18.0472, -5.51055>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.24681, 18.5366, -6.48945>, 0.07412, <-1.24681, 18.0472, -5.51055>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -26149,11 +25059,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.28769, 18.6879, -6.79195>, 0.07412, <-1.24681, 18.5366, -6.48945>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -26162,20 +25067,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.28769, 17.4065, -6>, 0.07412, <-2.4655, 18.1406, -6.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.28769, 17.4065, -6>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.71231, 17.8959, -5.20805>, 0.07412, <-2.28769, 17.4065, -6>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -26188,20 +25083,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.5345, 18.9326, -5.51055>, 0.07412, <-1.71231, 17.8959, -5.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.5345, 18.9326, -5.51055>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2, 19.0838, -6.48945>, 0.07412, <-1.5345, 18.9326, -5.51055>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -26214,11 +25099,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.4655, 18.1406, -6.79195>, 0.07412, <-2, 19.0838, -6.48945>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -26227,20 +25107,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.24681, 17.7447, -6>, 0.07412, <-2, 17.8024, -6.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.24681, 17.7447, -6>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.5345, 18.4431, -5.20805>, 0.07412, <-1.24681, 17.7447, -6>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -26253,20 +25123,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.4655, 18.9326, -5.51055>, 0.07412, <-1.5345, 18.4431, -5.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.4655, 18.9326, -5.51055>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2.75319, 18.5366, -6.48945>, 0.07412, <-2.4655, 18.9326, -5.51055>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -26279,11 +25139,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2, 17.8024, -6.79195>, 0.07412, <-2.75319, 18.5366, -6.48945>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -26292,20 +25147,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.930995, 18.2919, -6>, 0.07412, <0.287693, 17.4065, -6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <0.930995, 18.2919, -6>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<0.287693, 19.1773, -6>, 0.07412, <0.930995, 18.2919, -6>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -26318,20 +25163,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.753191, 18.8391, -6>, 0.07412, <0.287693, 19.1773, -6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.753191, 18.8391, -6>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-0.753191, 17.7447, -6>, 0.07412, <-0.753191, 18.8391, -6>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -26344,11 +25179,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.287693, 17.4065, -6>, 0.07412, <-0.753191, 17.7447, -6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -26357,20 +25187,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.753191, 18.8391, -6>, 0.07412, <0.465497, 18.1406, -6.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <0.753191, 18.8391, -6>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.94289e-16, 18.7813, -5.20805>, 0.07412, <0.753191, 18.8391, -6>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -26383,20 +25203,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.753191, 18.0472, -5.51055>, 0.07412, <-1.94289e-16, 18.7813, -5.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.753191, 18.0472, -5.51055>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-0.465497, 17.6512, -6.48945>, 0.07412, <-0.753191, 18.0472, -5.51055>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -26409,11 +25219,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.465497, 18.1406, -6.79195>, 0.07412, <-0.465497, 17.6512, -6.48945>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -26422,20 +25227,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.287693, 19.1773, -6>, 0.07412, <0.287693, 18.6879, -6.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.287693, 19.1773, -6>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-0.465497, 18.4431, -5.20805>, 0.07412, <-0.287693, 19.1773, -6>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -26448,20 +25243,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.66533e-16, 17.4999, -5.51055>, 0.07412, <-0.465497, 18.4431, -5.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.66533e-16, 17.4999, -5.51055>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<0.465497, 17.6512, -6.48945>, 0.07412, <-1.66533e-16, 17.4999, -5.51055>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -26474,11 +25259,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.287693, 18.6879, -6.79195>, 0.07412, <0.465497, 17.6512, -6.48945>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -26487,20 +25267,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.930995, 18.2919, -6>, 0.07412, <-0.287693, 18.6879, -6.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.930995, 18.2919, -6>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-0.287693, 17.8959, -5.20805>, 0.07412, <-0.930995, 18.2919, -6>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -26513,20 +25283,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.753191, 18.0472, -5.51055>, 0.07412, <-0.287693, 17.8959, -5.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <0.753191, 18.0472, -5.51055>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<0.753191, 18.5366, -6.48945>, 0.07412, <0.753191, 18.0472, -5.51055>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -26539,11 +25299,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.287693, 18.6879, -6.79195>, 0.07412, <0.753191, 18.5366, -6.48945>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -26552,20 +25307,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.287693, 17.4065, -6>, 0.07412, <-0.465497, 18.1406, -6.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.287693, 17.4065, -6>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<0.287693, 17.8959, -5.20805>, 0.07412, <-0.287693, 17.4065, -6>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -26578,20 +25323,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.465497, 18.9326, -5.51055>, 0.07412, <0.287693, 17.8959, -5.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <0.465497, 18.9326, -5.51055>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.66533e-16, 19.0838, -6.48945>, 0.07412, <0.465497, 18.9326, -5.51055>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -26604,11 +25339,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.465497, 18.1406, -6.79195>, 0.07412, <-1.66533e-16, 19.0838, -6.48945>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -26617,20 +25347,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.753191, 17.7447, -6>, 0.07412, <-1.94289e-16, 17.8024, -6.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <0.753191, 17.7447, -6>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<0.465497, 18.4431, -5.20805>, 0.07412, <0.753191, 17.7447, -6>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -26643,20 +25363,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.465497, 18.9326, -5.51055>, 0.07412, <0.465497, 18.4431, -5.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.465497, 18.9326, -5.51055>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-0.753191, 18.5366, -6.48945>, 0.07412, <-0.465497, 18.9326, -5.51055>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -26669,11 +25379,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.94289e-16, 17.8024, -6.79195>, 0.07412, <-0.753191, 18.5366, -6.48945>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -26682,20 +25387,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.93099, 18.2919, -6>, 0.07412, <2.28769, 17.4065, -6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2.93099, 18.2919, -6>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2.28769, 19.1773, -6>, 0.07412, <2.93099, 18.2919, -6>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -26708,20 +25403,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.24681, 18.8391, -6>, 0.07412, <2.28769, 19.1773, -6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.24681, 18.8391, -6>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1.24681, 17.7447, -6>, 0.07412, <1.24681, 18.8391, -6>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -26734,11 +25419,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.28769, 17.4065, -6>, 0.07412, <1.24681, 17.7447, -6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -26747,20 +25427,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.75319, 18.8391, -6>, 0.07412, <2.4655, 18.1406, -6.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2.75319, 18.8391, -6>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2, 18.7813, -5.20805>, 0.07412, <2.75319, 18.8391, -6>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -26773,20 +25443,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.24681, 18.0472, -5.51055>, 0.07412, <2, 18.7813, -5.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.24681, 18.0472, -5.51055>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1.5345, 17.6512, -6.48945>, 0.07412, <1.24681, 18.0472, -5.51055>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -26799,11 +25459,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.4655, 18.1406, -6.79195>, 0.07412, <1.5345, 17.6512, -6.48945>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -26812,20 +25467,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.71231, 19.1773, -6>, 0.07412, <2.28769, 18.6879, -6.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.71231, 19.1773, -6>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1.5345, 18.4431, -5.20805>, 0.07412, <1.71231, 19.1773, -6>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -26838,20 +25483,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2, 17.4999, -5.51055>, 0.07412, <1.5345, 18.4431, -5.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2, 17.4999, -5.51055>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2.4655, 17.6512, -6.48945>, 0.07412, <2, 17.4999, -5.51055>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -26864,11 +25499,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.28769, 18.6879, -6.79195>, 0.07412, <2.4655, 17.6512, -6.48945>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -26877,20 +25507,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.06901, 18.2919, -6>, 0.07412, <1.71231, 18.6879, -6.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.06901, 18.2919, -6>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1.71231, 17.8959, -5.20805>, 0.07412, <1.06901, 18.2919, -6>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -26903,20 +25523,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.75319, 18.0472, -5.51055>, 0.07412, <1.71231, 17.8959, -5.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2.75319, 18.0472, -5.51055>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2.75319, 18.5366, -6.48945>, 0.07412, <2.75319, 18.0472, -5.51055>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -26929,11 +25539,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.71231, 18.6879, -6.79195>, 0.07412, <2.75319, 18.5366, -6.48945>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -26942,20 +25547,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.71231, 17.4065, -6>, 0.07412, <1.5345, 18.1406, -6.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.71231, 17.4065, -6>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2.28769, 17.8959, -5.20805>, 0.07412, <1.71231, 17.4065, -6>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -26968,20 +25563,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.4655, 18.9326, -5.51055>, 0.07412, <2.28769, 17.8959, -5.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2.4655, 18.9326, -5.51055>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2, 19.0838, -6.48945>, 0.07412, <2.4655, 18.9326, -5.51055>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -26994,11 +25579,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.5345, 18.1406, -6.79195>, 0.07412, <2, 19.0838, -6.48945>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -27007,20 +25587,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.75319, 17.7447, -6>, 0.07412, <2, 17.8024, -6.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2.75319, 17.7447, -6>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2.4655, 18.4431, -5.20805>, 0.07412, <2.75319, 17.7447, -6>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -27033,20 +25603,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.5345, 18.9326, -5.51055>, 0.07412, <2.4655, 18.4431, -5.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.5345, 18.9326, -5.51055>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1.24681, 18.5366, -6.48945>, 0.07412, <1.5345, 18.9326, -5.51055>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -27059,11 +25619,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2, 17.8024, -6.79195>, 0.07412, <1.24681, 18.5366, -6.48945>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -27072,20 +25627,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.93099, 18.2919, -6>, 0.07412, <4.28769, 17.4065, -6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.93099, 18.2919, -6>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4.28769, 19.1773, -6>, 0.07412, <4.93099, 18.2919, -6>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -27098,20 +25643,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.24681, 18.8391, -6>, 0.07412, <4.28769, 19.1773, -6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.24681, 18.8391, -6>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3.24681, 17.7447, -6>, 0.07412, <3.24681, 18.8391, -6>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -27124,11 +25659,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.28769, 17.4065, -6>, 0.07412, <3.24681, 17.7447, -6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -27137,20 +25667,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.75319, 18.8391, -6>, 0.07412, <4.4655, 18.1406, -6.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.75319, 18.8391, -6>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4, 18.7813, -5.20805>, 0.07412, <4.75319, 18.8391, -6>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -27163,20 +25683,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.24681, 18.0472, -5.51055>, 0.07412, <4, 18.7813, -5.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.24681, 18.0472, -5.51055>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3.5345, 17.6512, -6.48945>, 0.07412, <3.24681, 18.0472, -5.51055>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -27189,11 +25699,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.4655, 18.1406, -6.79195>, 0.07412, <3.5345, 17.6512, -6.48945>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -27202,20 +25707,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.71231, 19.1773, -6>, 0.07412, <4.28769, 18.6879, -6.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.71231, 19.1773, -6>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3.5345, 18.4431, -5.20805>, 0.07412, <3.71231, 19.1773, -6>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -27228,20 +25723,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4, 17.4999, -5.51055>, 0.07412, <3.5345, 18.4431, -5.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4, 17.4999, -5.51055>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4.4655, 17.6512, -6.48945>, 0.07412, <4, 17.4999, -5.51055>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -27254,11 +25739,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.28769, 18.6879, -6.79195>, 0.07412, <4.4655, 17.6512, -6.48945>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -27267,20 +25747,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.06901, 18.2919, -6>, 0.07412, <3.71231, 18.6879, -6.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.06901, 18.2919, -6>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3.71231, 17.8959, -5.20805>, 0.07412, <3.06901, 18.2919, -6>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -27293,20 +25763,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.75319, 18.0472, -5.51055>, 0.07412, <3.71231, 17.8959, -5.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.75319, 18.0472, -5.51055>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4.75319, 18.5366, -6.48945>, 0.07412, <4.75319, 18.0472, -5.51055>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -27319,11 +25779,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.71231, 18.6879, -6.79195>, 0.07412, <4.75319, 18.5366, -6.48945>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -27332,20 +25787,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.71231, 17.4065, -6>, 0.07412, <3.5345, 18.1406, -6.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.71231, 17.4065, -6>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4.28769, 17.8959, -5.20805>, 0.07412, <3.71231, 17.4065, -6>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -27358,20 +25803,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.4655, 18.9326, -5.51055>, 0.07412, <4.28769, 17.8959, -5.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.4655, 18.9326, -5.51055>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4, 19.0838, -6.48945>, 0.07412, <4.4655, 18.9326, -5.51055>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -27384,11 +25819,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.5345, 18.1406, -6.79195>, 0.07412, <4, 19.0838, -6.48945>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -27397,20 +25827,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.75319, 17.7447, -6>, 0.07412, <4, 17.8024, -6.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.75319, 17.7447, -6>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4.4655, 18.4431, -5.20805>, 0.07412, <4.75319, 17.7447, -6>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -27423,20 +25843,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.5345, 18.9326, -5.51055>, 0.07412, <4.4655, 18.4431, -5.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.5345, 18.9326, -5.51055>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3.24681, 18.5366, -6.48945>, 0.07412, <3.5345, 18.9326, -5.51055>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -27449,11 +25859,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4, 17.8024, -6.79195>, 0.07412, <3.24681, 18.5366, -6.48945>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -27462,20 +25867,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.93099, 18.2919, -6>, 0.07412, <6.28769, 17.4065, -6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6.93099, 18.2919, -6>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6.28769, 19.1773, -6>, 0.07412, <6.93099, 18.2919, -6>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -27488,20 +25883,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.24681, 18.8391, -6>, 0.07412, <6.28769, 19.1773, -6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.24681, 18.8391, -6>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<5.24681, 17.7447, -6>, 0.07412, <5.24681, 18.8391, -6>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -27514,11 +25899,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.28769, 17.4065, -6>, 0.07412, <5.24681, 17.7447, -6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -27527,20 +25907,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.75319, 18.8391, -6>, 0.07412, <6.4655, 18.1406, -6.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6.75319, 18.8391, -6>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6, 18.7813, -5.20805>, 0.07412, <6.75319, 18.8391, -6>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -27553,20 +25923,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.24681, 18.0472, -5.51055>, 0.07412, <6, 18.7813, -5.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.24681, 18.0472, -5.51055>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<5.5345, 17.6512, -6.48945>, 0.07412, <5.24681, 18.0472, -5.51055>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -27579,11 +25939,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.4655, 18.1406, -6.79195>, 0.07412, <5.5345, 17.6512, -6.48945>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -27592,20 +25947,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.71231, 19.1773, -6>, 0.07412, <6.28769, 18.6879, -6.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.71231, 19.1773, -6>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<5.5345, 18.4431, -5.20805>, 0.07412, <5.71231, 19.1773, -6>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -27618,20 +25963,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6, 17.4999, -5.51055>, 0.07412, <5.5345, 18.4431, -5.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6, 17.4999, -5.51055>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6.4655, 17.6512, -6.48945>, 0.07412, <6, 17.4999, -5.51055>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -27644,11 +25979,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.28769, 18.6879, -6.79195>, 0.07412, <6.4655, 17.6512, -6.48945>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -27657,20 +25987,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.06901, 18.2919, -6>, 0.07412, <5.71231, 18.6879, -6.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.06901, 18.2919, -6>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<5.71231, 17.8959, -5.20805>, 0.07412, <5.06901, 18.2919, -6>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -27683,20 +26003,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.75319, 18.0472, -5.51055>, 0.07412, <5.71231, 17.8959, -5.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6.75319, 18.0472, -5.51055>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6.75319, 18.5366, -6.48945>, 0.07412, <6.75319, 18.0472, -5.51055>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -27709,11 +26019,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.71231, 18.6879, -6.79195>, 0.07412, <6.75319, 18.5366, -6.48945>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -27722,20 +26027,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.71231, 17.4065, -6>, 0.07412, <5.5345, 18.1406, -6.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.71231, 17.4065, -6>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6.28769, 17.8959, -5.20805>, 0.07412, <5.71231, 17.4065, -6>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -27748,20 +26043,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.4655, 18.9326, -5.51055>, 0.07412, <6.28769, 17.8959, -5.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6.4655, 18.9326, -5.51055>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6, 19.0838, -6.48945>, 0.07412, <6.4655, 18.9326, -5.51055>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -27774,11 +26059,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.5345, 18.1406, -6.79195>, 0.07412, <6, 19.0838, -6.48945>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -27787,20 +26067,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.75319, 17.7447, -6>, 0.07412, <6, 17.8024, -6.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6.75319, 17.7447, -6>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6.4655, 18.4431, -5.20805>, 0.07412, <6.75319, 17.7447, -6>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -27813,20 +26083,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.5345, 18.9326, -5.51055>, 0.07412, <6.4655, 18.4431, -5.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.5345, 18.9326, -5.51055>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<5.24681, 18.5366, -6.48945>, 0.07412, <5.5345, 18.9326, -5.51055>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -27839,11 +26099,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6, 17.8024, -6.79195>, 0.07412, <5.24681, 18.5366, -6.48945>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -27852,20 +26107,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.06901, 18.2919, -4>, 0.07412, <-5.71231, 17.4065, -4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-5.06901, 18.2919, -4>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-5.71231, 19.1773, -4>, 0.07412, <-5.06901, 18.2919, -4>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -27878,20 +26123,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.75319, 18.8391, -4>, 0.07412, <-5.71231, 19.1773, -4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.75319, 18.8391, -4>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6.75319, 17.7447, -4>, 0.07412, <-6.75319, 18.8391, -4>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -27904,11 +26139,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.71231, 17.4065, -4>, 0.07412, <-6.75319, 17.7447, -4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -27917,20 +26147,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.24681, 18.8391, -4>, 0.07412, <-5.5345, 18.1406, -4.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-5.24681, 18.8391, -4>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6, 18.7813, -3.20805>, 0.07412, <-5.24681, 18.8391, -4>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -27943,20 +26163,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.75319, 18.0472, -3.51055>, 0.07412, <-6, 18.7813, -3.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.75319, 18.0472, -3.51055>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6.4655, 17.6512, -4.48945>, 0.07412, <-6.75319, 18.0472, -3.51055>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -27969,11 +26179,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.5345, 18.1406, -4.79195>, 0.07412, <-6.4655, 17.6512, -4.48945>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -27982,20 +26187,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.28769, 19.1773, -4>, 0.07412, <-5.71231, 18.6879, -4.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.28769, 19.1773, -4>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6.4655, 18.4431, -3.20805>, 0.07412, <-6.28769, 19.1773, -4>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -28008,20 +26203,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6, 17.4999, -3.51055>, 0.07412, <-6.4655, 18.4431, -3.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6, 17.4999, -3.51055>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-5.5345, 17.6512, -4.48945>, 0.07412, <-6, 17.4999, -3.51055>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -28034,11 +26219,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.71231, 18.6879, -4.79195>, 0.07412, <-5.5345, 17.6512, -4.48945>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -28047,20 +26227,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.93099, 18.2919, -4>, 0.07412, <-6.28769, 18.6879, -4.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.93099, 18.2919, -4>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6.28769, 17.8959, -3.20805>, 0.07412, <-6.93099, 18.2919, -4>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -28073,20 +26243,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.24681, 18.0472, -3.51055>, 0.07412, <-6.28769, 17.8959, -3.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-5.24681, 18.0472, -3.51055>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-5.24681, 18.5366, -4.48945>, 0.07412, <-5.24681, 18.0472, -3.51055>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -28099,11 +26259,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.28769, 18.6879, -4.79195>, 0.07412, <-5.24681, 18.5366, -4.48945>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -28112,20 +26267,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.28769, 17.4065, -4>, 0.07412, <-6.4655, 18.1406, -4.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.28769, 17.4065, -4>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-5.71231, 17.8959, -3.20805>, 0.07412, <-6.28769, 17.4065, -4>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -28138,20 +26283,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.5345, 18.9326, -3.51055>, 0.07412, <-5.71231, 17.8959, -3.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-5.5345, 18.9326, -3.51055>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6, 19.0838, -4.48945>, 0.07412, <-5.5345, 18.9326, -3.51055>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -28164,11 +26299,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.4655, 18.1406, -4.79195>, 0.07412, <-6, 19.0838, -4.48945>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -28177,20 +26307,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.24681, 17.7447, -4>, 0.07412, <-6, 17.8024, -4.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-5.24681, 17.7447, -4>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-5.5345, 18.4431, -3.20805>, 0.07412, <-5.24681, 17.7447, -4>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -28203,20 +26323,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.4655, 18.9326, -3.51055>, 0.07412, <-5.5345, 18.4431, -3.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.4655, 18.9326, -3.51055>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6.75319, 18.5366, -4.48945>, 0.07412, <-6.4655, 18.9326, -3.51055>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -28229,11 +26339,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6, 17.8024, -4.79195>, 0.07412, <-6.75319, 18.5366, -4.48945>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -28242,20 +26347,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.06901, 18.2919, -4>, 0.07412, <-3.71231, 17.4065, -4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-3.06901, 18.2919, -4>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-3.71231, 19.1773, -4>, 0.07412, <-3.06901, 18.2919, -4>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -28268,20 +26363,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.75319, 18.8391, -4>, 0.07412, <-3.71231, 19.1773, -4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.75319, 18.8391, -4>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4.75319, 17.7447, -4>, 0.07412, <-4.75319, 18.8391, -4>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -28294,11 +26379,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.71231, 17.4065, -4>, 0.07412, <-4.75319, 17.7447, -4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -28307,20 +26387,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.24681, 18.8391, -4>, 0.07412, <-3.5345, 18.1406, -4.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-3.24681, 18.8391, -4>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4, 18.7813, -3.20805>, 0.07412, <-3.24681, 18.8391, -4>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -28333,20 +26403,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.75319, 18.0472, -3.51055>, 0.07412, <-4, 18.7813, -3.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.75319, 18.0472, -3.51055>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4.4655, 17.6512, -4.48945>, 0.07412, <-4.75319, 18.0472, -3.51055>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -28359,11 +26419,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.5345, 18.1406, -4.79195>, 0.07412, <-4.4655, 17.6512, -4.48945>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -28372,20 +26427,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.28769, 19.1773, -4>, 0.07412, <-3.71231, 18.6879, -4.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.28769, 19.1773, -4>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4.4655, 18.4431, -3.20805>, 0.07412, <-4.28769, 19.1773, -4>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -28398,20 +26443,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4, 17.4999, -3.51055>, 0.07412, <-4.4655, 18.4431, -3.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4, 17.4999, -3.51055>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-3.5345, 17.6512, -4.48945>, 0.07412, <-4, 17.4999, -3.51055>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -28424,11 +26459,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.71231, 18.6879, -4.79195>, 0.07412, <-3.5345, 17.6512, -4.48945>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -28437,20 +26467,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.93099, 18.2919, -4>, 0.07412, <-4.28769, 18.6879, -4.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.93099, 18.2919, -4>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4.28769, 17.8959, -3.20805>, 0.07412, <-4.93099, 18.2919, -4>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -28463,20 +26483,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.24681, 18.0472, -3.51055>, 0.07412, <-4.28769, 17.8959, -3.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-3.24681, 18.0472, -3.51055>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-3.24681, 18.5366, -4.48945>, 0.07412, <-3.24681, 18.0472, -3.51055>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -28489,11 +26499,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.28769, 18.6879, -4.79195>, 0.07412, <-3.24681, 18.5366, -4.48945>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -28502,20 +26507,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.28769, 17.4065, -4>, 0.07412, <-4.4655, 18.1406, -4.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.28769, 17.4065, -4>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-3.71231, 17.8959, -3.20805>, 0.07412, <-4.28769, 17.4065, -4>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -28528,20 +26523,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.5345, 18.9326, -3.51055>, 0.07412, <-3.71231, 17.8959, -3.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-3.5345, 18.9326, -3.51055>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4, 19.0838, -4.48945>, 0.07412, <-3.5345, 18.9326, -3.51055>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -28554,11 +26539,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.4655, 18.1406, -4.79195>, 0.07412, <-4, 19.0838, -4.48945>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -28567,20 +26547,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.24681, 17.7447, -4>, 0.07412, <-4, 17.8024, -4.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-3.24681, 17.7447, -4>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-3.5345, 18.4431, -3.20805>, 0.07412, <-3.24681, 17.7447, -4>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -28593,20 +26563,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.4655, 18.9326, -3.51055>, 0.07412, <-3.5345, 18.4431, -3.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.4655, 18.9326, -3.51055>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4.75319, 18.5366, -4.48945>, 0.07412, <-4.4655, 18.9326, -3.51055>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -28619,11 +26579,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4, 17.8024, -4.79195>, 0.07412, <-4.75319, 18.5366, -4.48945>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -28632,20 +26587,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.06901, 18.2919, -4>, 0.07412, <-1.71231, 17.4065, -4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.06901, 18.2919, -4>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.71231, 19.1773, -4>, 0.07412, <-1.06901, 18.2919, -4>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -28658,20 +26603,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.75319, 18.8391, -4>, 0.07412, <-1.71231, 19.1773, -4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.75319, 18.8391, -4>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2.75319, 17.7447, -4>, 0.07412, <-2.75319, 18.8391, -4>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -28684,11 +26619,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.71231, 17.4065, -4>, 0.07412, <-2.75319, 17.7447, -4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -28697,20 +26627,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.24681, 18.8391, -4>, 0.07412, <-1.5345, 18.1406, -4.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.24681, 18.8391, -4>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2, 18.7813, -3.20805>, 0.07412, <-1.24681, 18.8391, -4>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -28723,20 +26643,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.75319, 18.0472, -3.51055>, 0.07412, <-2, 18.7813, -3.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.75319, 18.0472, -3.51055>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2.4655, 17.6512, -4.48945>, 0.07412, <-2.75319, 18.0472, -3.51055>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -28749,11 +26659,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.5345, 18.1406, -4.79195>, 0.07412, <-2.4655, 17.6512, -4.48945>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -28762,20 +26667,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.28769, 19.1773, -4>, 0.07412, <-1.71231, 18.6879, -4.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.28769, 19.1773, -4>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2.4655, 18.4431, -3.20805>, 0.07412, <-2.28769, 19.1773, -4>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -28788,20 +26683,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2, 17.4999, -3.51055>, 0.07412, <-2.4655, 18.4431, -3.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2, 17.4999, -3.51055>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.5345, 17.6512, -4.48945>, 0.07412, <-2, 17.4999, -3.51055>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -28814,11 +26699,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.71231, 18.6879, -4.79195>, 0.07412, <-1.5345, 17.6512, -4.48945>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -28827,20 +26707,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.93099, 18.2919, -4>, 0.07412, <-2.28769, 18.6879, -4.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.93099, 18.2919, -4>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2.28769, 17.8959, -3.20805>, 0.07412, <-2.93099, 18.2919, -4>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -28853,20 +26723,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.24681, 18.0472, -3.51055>, 0.07412, <-2.28769, 17.8959, -3.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.24681, 18.0472, -3.51055>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.24681, 18.5366, -4.48945>, 0.07412, <-1.24681, 18.0472, -3.51055>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -28879,11 +26739,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.28769, 18.6879, -4.79195>, 0.07412, <-1.24681, 18.5366, -4.48945>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -28892,20 +26747,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.28769, 17.4065, -4>, 0.07412, <-2.4655, 18.1406, -4.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.28769, 17.4065, -4>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.71231, 17.8959, -3.20805>, 0.07412, <-2.28769, 17.4065, -4>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -28918,20 +26763,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.5345, 18.9326, -3.51055>, 0.07412, <-1.71231, 17.8959, -3.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.5345, 18.9326, -3.51055>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2, 19.0838, -4.48945>, 0.07412, <-1.5345, 18.9326, -3.51055>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -28944,11 +26779,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.4655, 18.1406, -4.79195>, 0.07412, <-2, 19.0838, -4.48945>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -28957,20 +26787,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.24681, 17.7447, -4>, 0.07412, <-2, 17.8024, -4.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.24681, 17.7447, -4>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.5345, 18.4431, -3.20805>, 0.07412, <-1.24681, 17.7447, -4>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -28983,20 +26803,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.4655, 18.9326, -3.51055>, 0.07412, <-1.5345, 18.4431, -3.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.4655, 18.9326, -3.51055>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2.75319, 18.5366, -4.48945>, 0.07412, <-2.4655, 18.9326, -3.51055>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -29009,11 +26819,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2, 17.8024, -4.79195>, 0.07412, <-2.75319, 18.5366, -4.48945>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -29022,20 +26827,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.930995, 18.2919, -4>, 0.07412, <0.287693, 17.4065, -4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <0.930995, 18.2919, -4>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<0.287693, 19.1773, -4>, 0.07412, <0.930995, 18.2919, -4>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -29048,20 +26843,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.753191, 18.8391, -4>, 0.07412, <0.287693, 19.1773, -4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.753191, 18.8391, -4>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-0.753191, 17.7447, -4>, 0.07412, <-0.753191, 18.8391, -4>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -29074,11 +26859,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.287693, 17.4065, -4>, 0.07412, <-0.753191, 17.7447, -4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -29087,20 +26867,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.753191, 18.8391, -4>, 0.07412, <0.465497, 18.1406, -4.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <0.753191, 18.8391, -4>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.94289e-16, 18.7813, -3.20805>, 0.07412, <0.753191, 18.8391, -4>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -29113,20 +26883,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.753191, 18.0472, -3.51055>, 0.07412, <-1.94289e-16, 18.7813, -3.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.753191, 18.0472, -3.51055>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-0.465497, 17.6512, -4.48945>, 0.07412, <-0.753191, 18.0472, -3.51055>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -29139,11 +26899,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.465497, 18.1406, -4.79195>, 0.07412, <-0.465497, 17.6512, -4.48945>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -29152,20 +26907,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.287693, 19.1773, -4>, 0.07412, <0.287693, 18.6879, -4.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.287693, 19.1773, -4>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-0.465497, 18.4431, -3.20805>, 0.07412, <-0.287693, 19.1773, -4>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -29178,20 +26923,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.66533e-16, 17.4999, -3.51055>, 0.07412, <-0.465497, 18.4431, -3.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.66533e-16, 17.4999, -3.51055>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<0.465497, 17.6512, -4.48945>, 0.07412, <-1.66533e-16, 17.4999, -3.51055>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -29204,11 +26939,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.287693, 18.6879, -4.79195>, 0.07412, <0.465497, 17.6512, -4.48945>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -29217,20 +26947,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.930995, 18.2919, -4>, 0.07412, <-0.287693, 18.6879, -4.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.930995, 18.2919, -4>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-0.287693, 17.8959, -3.20805>, 0.07412, <-0.930995, 18.2919, -4>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -29243,20 +26963,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.753191, 18.0472, -3.51055>, 0.07412, <-0.287693, 17.8959, -3.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <0.753191, 18.0472, -3.51055>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<0.753191, 18.5366, -4.48945>, 0.07412, <0.753191, 18.0472, -3.51055>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -29269,11 +26979,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.287693, 18.6879, -4.79195>, 0.07412, <0.753191, 18.5366, -4.48945>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -29282,20 +26987,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.287693, 17.4065, -4>, 0.07412, <-0.465497, 18.1406, -4.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.287693, 17.4065, -4>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<0.287693, 17.8959, -3.20805>, 0.07412, <-0.287693, 17.4065, -4>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -29308,20 +27003,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.465497, 18.9326, -3.51055>, 0.07412, <0.287693, 17.8959, -3.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <0.465497, 18.9326, -3.51055>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.66533e-16, 19.0838, -4.48945>, 0.07412, <0.465497, 18.9326, -3.51055>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -29334,11 +27019,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.465497, 18.1406, -4.79195>, 0.07412, <-1.66533e-16, 19.0838, -4.48945>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -29347,20 +27027,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.753191, 17.7447, -4>, 0.07412, <-1.94289e-16, 17.8024, -4.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <0.753191, 17.7447, -4>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<0.465497, 18.4431, -3.20805>, 0.07412, <0.753191, 17.7447, -4>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -29373,20 +27043,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.465497, 18.9326, -3.51055>, 0.07412, <0.465497, 18.4431, -3.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.465497, 18.9326, -3.51055>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-0.753191, 18.5366, -4.48945>, 0.07412, <-0.465497, 18.9326, -3.51055>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -29399,11 +27059,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.94289e-16, 17.8024, -4.79195>, 0.07412, <-0.753191, 18.5366, -4.48945>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -29412,20 +27067,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.93099, 18.2919, -4>, 0.07412, <2.28769, 17.4065, -4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2.93099, 18.2919, -4>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2.28769, 19.1773, -4>, 0.07412, <2.93099, 18.2919, -4>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -29438,20 +27083,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.24681, 18.8391, -4>, 0.07412, <2.28769, 19.1773, -4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.24681, 18.8391, -4>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1.24681, 17.7447, -4>, 0.07412, <1.24681, 18.8391, -4>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -29464,11 +27099,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.28769, 17.4065, -4>, 0.07412, <1.24681, 17.7447, -4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -29477,20 +27107,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.75319, 18.8391, -4>, 0.07412, <2.4655, 18.1406, -4.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2.75319, 18.8391, -4>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2, 18.7813, -3.20805>, 0.07412, <2.75319, 18.8391, -4>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -29503,20 +27123,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.24681, 18.0472, -3.51055>, 0.07412, <2, 18.7813, -3.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.24681, 18.0472, -3.51055>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1.5345, 17.6512, -4.48945>, 0.07412, <1.24681, 18.0472, -3.51055>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -29529,11 +27139,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.4655, 18.1406, -4.79195>, 0.07412, <1.5345, 17.6512, -4.48945>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -29542,20 +27147,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.71231, 19.1773, -4>, 0.07412, <2.28769, 18.6879, -4.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.71231, 19.1773, -4>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1.5345, 18.4431, -3.20805>, 0.07412, <1.71231, 19.1773, -4>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -29568,20 +27163,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2, 17.4999, -3.51055>, 0.07412, <1.5345, 18.4431, -3.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2, 17.4999, -3.51055>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2.4655, 17.6512, -4.48945>, 0.07412, <2, 17.4999, -3.51055>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -29594,11 +27179,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.28769, 18.6879, -4.79195>, 0.07412, <2.4655, 17.6512, -4.48945>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -29607,20 +27187,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.06901, 18.2919, -4>, 0.07412, <1.71231, 18.6879, -4.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.06901, 18.2919, -4>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1.71231, 17.8959, -3.20805>, 0.07412, <1.06901, 18.2919, -4>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -29633,20 +27203,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.75319, 18.0472, -3.51055>, 0.07412, <1.71231, 17.8959, -3.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2.75319, 18.0472, -3.51055>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2.75319, 18.5366, -4.48945>, 0.07412, <2.75319, 18.0472, -3.51055>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -29659,11 +27219,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.71231, 18.6879, -4.79195>, 0.07412, <2.75319, 18.5366, -4.48945>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -29672,20 +27227,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.71231, 17.4065, -4>, 0.07412, <1.5345, 18.1406, -4.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.71231, 17.4065, -4>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2.28769, 17.8959, -3.20805>, 0.07412, <1.71231, 17.4065, -4>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -29698,20 +27243,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.4655, 18.9326, -3.51055>, 0.07412, <2.28769, 17.8959, -3.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2.4655, 18.9326, -3.51055>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2, 19.0838, -4.48945>, 0.07412, <2.4655, 18.9326, -3.51055>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -29724,11 +27259,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.5345, 18.1406, -4.79195>, 0.07412, <2, 19.0838, -4.48945>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -29737,20 +27267,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.75319, 17.7447, -4>, 0.07412, <2, 17.8024, -4.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2.75319, 17.7447, -4>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2.4655, 18.4431, -3.20805>, 0.07412, <2.75319, 17.7447, -4>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -29763,20 +27283,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.5345, 18.9326, -3.51055>, 0.07412, <2.4655, 18.4431, -3.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.5345, 18.9326, -3.51055>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1.24681, 18.5366, -4.48945>, 0.07412, <1.5345, 18.9326, -3.51055>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -29789,11 +27299,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2, 17.8024, -4.79195>, 0.07412, <1.24681, 18.5366, -4.48945>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -29802,20 +27307,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.93099, 18.2919, -4>, 0.07412, <4.28769, 17.4065, -4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.93099, 18.2919, -4>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4.28769, 19.1773, -4>, 0.07412, <4.93099, 18.2919, -4>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -29828,20 +27323,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.24681, 18.8391, -4>, 0.07412, <4.28769, 19.1773, -4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.24681, 18.8391, -4>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3.24681, 17.7447, -4>, 0.07412, <3.24681, 18.8391, -4>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -29854,11 +27339,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.28769, 17.4065, -4>, 0.07412, <3.24681, 17.7447, -4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -29867,20 +27347,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.75319, 18.8391, -4>, 0.07412, <4.4655, 18.1406, -4.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.75319, 18.8391, -4>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4, 18.7813, -3.20805>, 0.07412, <4.75319, 18.8391, -4>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -29893,20 +27363,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.24681, 18.0472, -3.51055>, 0.07412, <4, 18.7813, -3.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.24681, 18.0472, -3.51055>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3.5345, 17.6512, -4.48945>, 0.07412, <3.24681, 18.0472, -3.51055>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -29919,11 +27379,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.4655, 18.1406, -4.79195>, 0.07412, <3.5345, 17.6512, -4.48945>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -29932,20 +27387,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.71231, 19.1773, -4>, 0.07412, <4.28769, 18.6879, -4.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.71231, 19.1773, -4>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3.5345, 18.4431, -3.20805>, 0.07412, <3.71231, 19.1773, -4>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -29958,20 +27403,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4, 17.4999, -3.51055>, 0.07412, <3.5345, 18.4431, -3.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4, 17.4999, -3.51055>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4.4655, 17.6512, -4.48945>, 0.07412, <4, 17.4999, -3.51055>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -29984,11 +27419,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.28769, 18.6879, -4.79195>, 0.07412, <4.4655, 17.6512, -4.48945>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -29997,20 +27427,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.06901, 18.2919, -4>, 0.07412, <3.71231, 18.6879, -4.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.06901, 18.2919, -4>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3.71231, 17.8959, -3.20805>, 0.07412, <3.06901, 18.2919, -4>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -30023,20 +27443,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.75319, 18.0472, -3.51055>, 0.07412, <3.71231, 17.8959, -3.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.75319, 18.0472, -3.51055>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4.75319, 18.5366, -4.48945>, 0.07412, <4.75319, 18.0472, -3.51055>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -30049,11 +27459,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.71231, 18.6879, -4.79195>, 0.07412, <4.75319, 18.5366, -4.48945>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -30062,20 +27467,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.71231, 17.4065, -4>, 0.07412, <3.5345, 18.1406, -4.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.71231, 17.4065, -4>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4.28769, 17.8959, -3.20805>, 0.07412, <3.71231, 17.4065, -4>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -30088,20 +27483,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.4655, 18.9326, -3.51055>, 0.07412, <4.28769, 17.8959, -3.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.4655, 18.9326, -3.51055>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4, 19.0838, -4.48945>, 0.07412, <4.4655, 18.9326, -3.51055>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -30114,11 +27499,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.5345, 18.1406, -4.79195>, 0.07412, <4, 19.0838, -4.48945>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -30127,20 +27507,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.75319, 17.7447, -4>, 0.07412, <4, 17.8024, -4.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.75319, 17.7447, -4>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4.4655, 18.4431, -3.20805>, 0.07412, <4.75319, 17.7447, -4>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -30153,20 +27523,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.5345, 18.9326, -3.51055>, 0.07412, <4.4655, 18.4431, -3.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.5345, 18.9326, -3.51055>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3.24681, 18.5366, -4.48945>, 0.07412, <3.5345, 18.9326, -3.51055>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -30179,11 +27539,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4, 17.8024, -4.79195>, 0.07412, <3.24681, 18.5366, -4.48945>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -30192,20 +27547,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.93099, 18.2919, -4>, 0.07412, <6.28769, 17.4065, -4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6.93099, 18.2919, -4>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6.28769, 19.1773, -4>, 0.07412, <6.93099, 18.2919, -4>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -30218,20 +27563,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.24681, 18.8391, -4>, 0.07412, <6.28769, 19.1773, -4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.24681, 18.8391, -4>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<5.24681, 17.7447, -4>, 0.07412, <5.24681, 18.8391, -4>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -30244,11 +27579,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.28769, 17.4065, -4>, 0.07412, <5.24681, 17.7447, -4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -30257,20 +27587,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.75319, 18.8391, -4>, 0.07412, <6.4655, 18.1406, -4.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6.75319, 18.8391, -4>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6, 18.7813, -3.20805>, 0.07412, <6.75319, 18.8391, -4>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -30283,20 +27603,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.24681, 18.0472, -3.51055>, 0.07412, <6, 18.7813, -3.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.24681, 18.0472, -3.51055>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<5.5345, 17.6512, -4.48945>, 0.07412, <5.24681, 18.0472, -3.51055>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -30309,11 +27619,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.4655, 18.1406, -4.79195>, 0.07412, <5.5345, 17.6512, -4.48945>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -30322,20 +27627,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.71231, 19.1773, -4>, 0.07412, <6.28769, 18.6879, -4.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.71231, 19.1773, -4>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<5.5345, 18.4431, -3.20805>, 0.07412, <5.71231, 19.1773, -4>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -30348,20 +27643,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6, 17.4999, -3.51055>, 0.07412, <5.5345, 18.4431, -3.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6, 17.4999, -3.51055>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6.4655, 17.6512, -4.48945>, 0.07412, <6, 17.4999, -3.51055>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -30374,11 +27659,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.28769, 18.6879, -4.79195>, 0.07412, <6.4655, 17.6512, -4.48945>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -30387,20 +27667,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.06901, 18.2919, -4>, 0.07412, <5.71231, 18.6879, -4.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.06901, 18.2919, -4>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<5.71231, 17.8959, -3.20805>, 0.07412, <5.06901, 18.2919, -4>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -30413,20 +27683,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.75319, 18.0472, -3.51055>, 0.07412, <5.71231, 17.8959, -3.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6.75319, 18.0472, -3.51055>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6.75319, 18.5366, -4.48945>, 0.07412, <6.75319, 18.0472, -3.51055>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -30439,11 +27699,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.71231, 18.6879, -4.79195>, 0.07412, <6.75319, 18.5366, -4.48945>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -30452,20 +27707,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.71231, 17.4065, -4>, 0.07412, <5.5345, 18.1406, -4.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.71231, 17.4065, -4>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6.28769, 17.8959, -3.20805>, 0.07412, <5.71231, 17.4065, -4>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -30478,20 +27723,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.4655, 18.9326, -3.51055>, 0.07412, <6.28769, 17.8959, -3.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6.4655, 18.9326, -3.51055>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6, 19.0838, -4.48945>, 0.07412, <6.4655, 18.9326, -3.51055>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -30504,11 +27739,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.5345, 18.1406, -4.79195>, 0.07412, <6, 19.0838, -4.48945>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -30517,20 +27747,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.75319, 17.7447, -4>, 0.07412, <6, 17.8024, -4.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6.75319, 17.7447, -4>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6.4655, 18.4431, -3.20805>, 0.07412, <6.75319, 17.7447, -4>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -30543,20 +27763,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.5345, 18.9326, -3.51055>, 0.07412, <6.4655, 18.4431, -3.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.5345, 18.9326, -3.51055>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<5.24681, 18.5366, -4.48945>, 0.07412, <5.5345, 18.9326, -3.51055>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -30569,11 +27779,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6, 17.8024, -4.79195>, 0.07412, <5.24681, 18.5366, -4.48945>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -30582,20 +27787,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.06901, 18.2919, -2>, 0.07412, <-5.71231, 17.4065, -2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-5.06901, 18.2919, -2>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-5.71231, 19.1773, -2>, 0.07412, <-5.06901, 18.2919, -2>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -30608,20 +27803,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.75319, 18.8391, -2>, 0.07412, <-5.71231, 19.1773, -2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.75319, 18.8391, -2>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6.75319, 17.7447, -2>, 0.07412, <-6.75319, 18.8391, -2>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -30634,11 +27819,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.71231, 17.4065, -2>, 0.07412, <-6.75319, 17.7447, -2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -30647,20 +27827,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.24681, 18.8391, -2>, 0.07412, <-5.5345, 18.1406, -2.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-5.24681, 18.8391, -2>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6, 18.7813, -1.20805>, 0.07412, <-5.24681, 18.8391, -2>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -30673,20 +27843,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.75319, 18.0472, -1.51055>, 0.07412, <-6, 18.7813, -1.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.75319, 18.0472, -1.51055>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6.4655, 17.6512, -2.48945>, 0.07412, <-6.75319, 18.0472, -1.51055>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -30699,11 +27859,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.5345, 18.1406, -2.79195>, 0.07412, <-6.4655, 17.6512, -2.48945>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -30712,20 +27867,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.28769, 19.1773, -2>, 0.07412, <-5.71231, 18.6879, -2.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.28769, 19.1773, -2>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6.4655, 18.4431, -1.20805>, 0.07412, <-6.28769, 19.1773, -2>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -30738,20 +27883,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6, 17.4999, -1.51055>, 0.07412, <-6.4655, 18.4431, -1.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6, 17.4999, -1.51055>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-5.5345, 17.6512, -2.48945>, 0.07412, <-6, 17.4999, -1.51055>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -30764,11 +27899,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.71231, 18.6879, -2.79195>, 0.07412, <-5.5345, 17.6512, -2.48945>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -30777,20 +27907,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.93099, 18.2919, -2>, 0.07412, <-6.28769, 18.6879, -2.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.93099, 18.2919, -2>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6.28769, 17.8959, -1.20805>, 0.07412, <-6.93099, 18.2919, -2>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -30803,20 +27923,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.24681, 18.0472, -1.51055>, 0.07412, <-6.28769, 17.8959, -1.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-5.24681, 18.0472, -1.51055>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-5.24681, 18.5366, -2.48945>, 0.07412, <-5.24681, 18.0472, -1.51055>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -30829,11 +27939,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.28769, 18.6879, -2.79195>, 0.07412, <-5.24681, 18.5366, -2.48945>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -30842,20 +27947,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.28769, 17.4065, -2>, 0.07412, <-6.4655, 18.1406, -2.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.28769, 17.4065, -2>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-5.71231, 17.8959, -1.20805>, 0.07412, <-6.28769, 17.4065, -2>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -30868,20 +27963,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.5345, 18.9326, -1.51055>, 0.07412, <-5.71231, 17.8959, -1.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-5.5345, 18.9326, -1.51055>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6, 19.0838, -2.48945>, 0.07412, <-5.5345, 18.9326, -1.51055>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -30894,11 +27979,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.4655, 18.1406, -2.79195>, 0.07412, <-6, 19.0838, -2.48945>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -30907,20 +27987,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.24681, 17.7447, -2>, 0.07412, <-6, 17.8024, -2.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-5.24681, 17.7447, -2>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-5.5345, 18.4431, -1.20805>, 0.07412, <-5.24681, 17.7447, -2>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -30933,20 +28003,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.4655, 18.9326, -1.51055>, 0.07412, <-5.5345, 18.4431, -1.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.4655, 18.9326, -1.51055>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6.75319, 18.5366, -2.48945>, 0.07412, <-6.4655, 18.9326, -1.51055>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -30959,11 +28019,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6, 17.8024, -2.79195>, 0.07412, <-6.75319, 18.5366, -2.48945>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -30972,20 +28027,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.06901, 18.2919, -2>, 0.07412, <-3.71231, 17.4065, -2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-3.06901, 18.2919, -2>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-3.71231, 19.1773, -2>, 0.07412, <-3.06901, 18.2919, -2>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -30998,20 +28043,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.75319, 18.8391, -2>, 0.07412, <-3.71231, 19.1773, -2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.75319, 18.8391, -2>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4.75319, 17.7447, -2>, 0.07412, <-4.75319, 18.8391, -2>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -31024,11 +28059,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.71231, 17.4065, -2>, 0.07412, <-4.75319, 17.7447, -2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -31037,20 +28067,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.24681, 18.8391, -2>, 0.07412, <-3.5345, 18.1406, -2.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-3.24681, 18.8391, -2>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4, 18.7813, -1.20805>, 0.07412, <-3.24681, 18.8391, -2>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -31063,20 +28083,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.75319, 18.0472, -1.51055>, 0.07412, <-4, 18.7813, -1.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.75319, 18.0472, -1.51055>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4.4655, 17.6512, -2.48945>, 0.07412, <-4.75319, 18.0472, -1.51055>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -31089,11 +28099,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.5345, 18.1406, -2.79195>, 0.07412, <-4.4655, 17.6512, -2.48945>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -31102,20 +28107,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.28769, 19.1773, -2>, 0.07412, <-3.71231, 18.6879, -2.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.28769, 19.1773, -2>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4.4655, 18.4431, -1.20805>, 0.07412, <-4.28769, 19.1773, -2>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -31128,20 +28123,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4, 17.4999, -1.51055>, 0.07412, <-4.4655, 18.4431, -1.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4, 17.4999, -1.51055>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-3.5345, 17.6512, -2.48945>, 0.07412, <-4, 17.4999, -1.51055>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -31154,11 +28139,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.71231, 18.6879, -2.79195>, 0.07412, <-3.5345, 17.6512, -2.48945>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -31167,20 +28147,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.93099, 18.2919, -2>, 0.07412, <-4.28769, 18.6879, -2.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.93099, 18.2919, -2>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4.28769, 17.8959, -1.20805>, 0.07412, <-4.93099, 18.2919, -2>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -31193,20 +28163,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.24681, 18.0472, -1.51055>, 0.07412, <-4.28769, 17.8959, -1.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-3.24681, 18.0472, -1.51055>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-3.24681, 18.5366, -2.48945>, 0.07412, <-3.24681, 18.0472, -1.51055>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -31219,11 +28179,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.28769, 18.6879, -2.79195>, 0.07412, <-3.24681, 18.5366, -2.48945>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -31232,20 +28187,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.28769, 17.4065, -2>, 0.07412, <-4.4655, 18.1406, -2.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.28769, 17.4065, -2>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-3.71231, 17.8959, -1.20805>, 0.07412, <-4.28769, 17.4065, -2>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -31258,20 +28203,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.5345, 18.9326, -1.51055>, 0.07412, <-3.71231, 17.8959, -1.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-3.5345, 18.9326, -1.51055>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4, 19.0838, -2.48945>, 0.07412, <-3.5345, 18.9326, -1.51055>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -31284,11 +28219,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.4655, 18.1406, -2.79195>, 0.07412, <-4, 19.0838, -2.48945>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -31297,20 +28227,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.24681, 17.7447, -2>, 0.07412, <-4, 17.8024, -2.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-3.24681, 17.7447, -2>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-3.5345, 18.4431, -1.20805>, 0.07412, <-3.24681, 17.7447, -2>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -31323,20 +28243,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.4655, 18.9326, -1.51055>, 0.07412, <-3.5345, 18.4431, -1.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.4655, 18.9326, -1.51055>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4.75319, 18.5366, -2.48945>, 0.07412, <-4.4655, 18.9326, -1.51055>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -31349,11 +28259,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4, 17.8024, -2.79195>, 0.07412, <-4.75319, 18.5366, -2.48945>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -31362,20 +28267,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.06901, 18.2919, -2>, 0.07412, <-1.71231, 17.4065, -2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.06901, 18.2919, -2>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.71231, 19.1773, -2>, 0.07412, <-1.06901, 18.2919, -2>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -31388,20 +28283,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.75319, 18.8391, -2>, 0.07412, <-1.71231, 19.1773, -2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.75319, 18.8391, -2>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2.75319, 17.7447, -2>, 0.07412, <-2.75319, 18.8391, -2>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -31414,11 +28299,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.71231, 17.4065, -2>, 0.07412, <-2.75319, 17.7447, -2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -31427,20 +28307,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.24681, 18.8391, -2>, 0.07412, <-1.5345, 18.1406, -2.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.24681, 18.8391, -2>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2, 18.7813, -1.20805>, 0.07412, <-1.24681, 18.8391, -2>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -31453,20 +28323,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.75319, 18.0472, -1.51055>, 0.07412, <-2, 18.7813, -1.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.75319, 18.0472, -1.51055>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2.4655, 17.6512, -2.48945>, 0.07412, <-2.75319, 18.0472, -1.51055>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -31479,11 +28339,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.5345, 18.1406, -2.79195>, 0.07412, <-2.4655, 17.6512, -2.48945>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -31492,20 +28347,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.28769, 19.1773, -2>, 0.07412, <-1.71231, 18.6879, -2.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.28769, 19.1773, -2>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2.4655, 18.4431, -1.20805>, 0.07412, <-2.28769, 19.1773, -2>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -31518,20 +28363,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2, 17.4999, -1.51055>, 0.07412, <-2.4655, 18.4431, -1.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2, 17.4999, -1.51055>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.5345, 17.6512, -2.48945>, 0.07412, <-2, 17.4999, -1.51055>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -31544,11 +28379,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.71231, 18.6879, -2.79195>, 0.07412, <-1.5345, 17.6512, -2.48945>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -31557,20 +28387,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.93099, 18.2919, -2>, 0.07412, <-2.28769, 18.6879, -2.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.93099, 18.2919, -2>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2.28769, 17.8959, -1.20805>, 0.07412, <-2.93099, 18.2919, -2>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -31583,20 +28403,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.24681, 18.0472, -1.51055>, 0.07412, <-2.28769, 17.8959, -1.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.24681, 18.0472, -1.51055>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.24681, 18.5366, -2.48945>, 0.07412, <-1.24681, 18.0472, -1.51055>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -31609,11 +28419,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.28769, 18.6879, -2.79195>, 0.07412, <-1.24681, 18.5366, -2.48945>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -31622,20 +28427,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.28769, 17.4065, -2>, 0.07412, <-2.4655, 18.1406, -2.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.28769, 17.4065, -2>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.71231, 17.8959, -1.20805>, 0.07412, <-2.28769, 17.4065, -2>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -31648,20 +28443,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.5345, 18.9326, -1.51055>, 0.07412, <-1.71231, 17.8959, -1.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.5345, 18.9326, -1.51055>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2, 19.0838, -2.48945>, 0.07412, <-1.5345, 18.9326, -1.51055>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -31674,11 +28459,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.4655, 18.1406, -2.79195>, 0.07412, <-2, 19.0838, -2.48945>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -31687,20 +28467,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.24681, 17.7447, -2>, 0.07412, <-2, 17.8024, -2.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.24681, 17.7447, -2>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.5345, 18.4431, -1.20805>, 0.07412, <-1.24681, 17.7447, -2>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -31713,20 +28483,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.4655, 18.9326, -1.51055>, 0.07412, <-1.5345, 18.4431, -1.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.4655, 18.9326, -1.51055>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2.75319, 18.5366, -2.48945>, 0.07412, <-2.4655, 18.9326, -1.51055>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -31739,11 +28499,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2, 17.8024, -2.79195>, 0.07412, <-2.75319, 18.5366, -2.48945>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -31752,20 +28507,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.930995, 18.2919, -2>, 0.07412, <0.287693, 17.4065, -2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <0.930995, 18.2919, -2>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<0.287693, 19.1773, -2>, 0.07412, <0.930995, 18.2919, -2>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -31778,20 +28523,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.753191, 18.8391, -2>, 0.07412, <0.287693, 19.1773, -2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.753191, 18.8391, -2>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-0.753191, 17.7447, -2>, 0.07412, <-0.753191, 18.8391, -2>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -31804,11 +28539,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.287693, 17.4065, -2>, 0.07412, <-0.753191, 17.7447, -2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -31817,20 +28547,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.753191, 18.8391, -2>, 0.07412, <0.465497, 18.1406, -2.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <0.753191, 18.8391, -2>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.94289e-16, 18.7813, -1.20805>, 0.07412, <0.753191, 18.8391, -2>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -31843,20 +28563,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.753191, 18.0472, -1.51055>, 0.07412, <-1.94289e-16, 18.7813, -1.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.753191, 18.0472, -1.51055>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-0.465497, 17.6512, -2.48945>, 0.07412, <-0.753191, 18.0472, -1.51055>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -31869,11 +28579,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.465497, 18.1406, -2.79195>, 0.07412, <-0.465497, 17.6512, -2.48945>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -31882,20 +28587,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.287693, 19.1773, -2>, 0.07412, <0.287693, 18.6879, -2.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.287693, 19.1773, -2>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-0.465497, 18.4431, -1.20805>, 0.07412, <-0.287693, 19.1773, -2>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -31908,20 +28603,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.66533e-16, 17.4999, -1.51055>, 0.07412, <-0.465497, 18.4431, -1.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.66533e-16, 17.4999, -1.51055>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<0.465497, 17.6512, -2.48945>, 0.07412, <-1.66533e-16, 17.4999, -1.51055>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -31934,11 +28619,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.287693, 18.6879, -2.79195>, 0.07412, <0.465497, 17.6512, -2.48945>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -31947,20 +28627,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.930995, 18.2919, -2>, 0.07412, <-0.287693, 18.6879, -2.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.930995, 18.2919, -2>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-0.287693, 17.8959, -1.20805>, 0.07412, <-0.930995, 18.2919, -2>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -31973,20 +28643,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.753191, 18.0472, -1.51055>, 0.07412, <-0.287693, 17.8959, -1.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <0.753191, 18.0472, -1.51055>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<0.753191, 18.5366, -2.48945>, 0.07412, <0.753191, 18.0472, -1.51055>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -31999,11 +28659,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.287693, 18.6879, -2.79195>, 0.07412, <0.753191, 18.5366, -2.48945>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -32012,20 +28667,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.287693, 17.4065, -2>, 0.07412, <-0.465497, 18.1406, -2.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.287693, 17.4065, -2>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<0.287693, 17.8959, -1.20805>, 0.07412, <-0.287693, 17.4065, -2>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -32038,20 +28683,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.465497, 18.9326, -1.51055>, 0.07412, <0.287693, 17.8959, -1.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <0.465497, 18.9326, -1.51055>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.66533e-16, 19.0838, -2.48945>, 0.07412, <0.465497, 18.9326, -1.51055>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -32064,11 +28699,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.465497, 18.1406, -2.79195>, 0.07412, <-1.66533e-16, 19.0838, -2.48945>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -32077,20 +28707,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.753191, 17.7447, -2>, 0.07412, <-1.94289e-16, 17.8024, -2.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <0.753191, 17.7447, -2>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<0.465497, 18.4431, -1.20805>, 0.07412, <0.753191, 17.7447, -2>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -32103,20 +28723,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.465497, 18.9326, -1.51055>, 0.07412, <0.465497, 18.4431, -1.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.465497, 18.9326, -1.51055>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-0.753191, 18.5366, -2.48945>, 0.07412, <-0.465497, 18.9326, -1.51055>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -32129,11 +28739,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.94289e-16, 17.8024, -2.79195>, 0.07412, <-0.753191, 18.5366, -2.48945>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -32142,20 +28747,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.93099, 18.2919, -2>, 0.07412, <2.28769, 17.4065, -2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2.93099, 18.2919, -2>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2.28769, 19.1773, -2>, 0.07412, <2.93099, 18.2919, -2>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -32168,20 +28763,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.24681, 18.8391, -2>, 0.07412, <2.28769, 19.1773, -2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.24681, 18.8391, -2>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1.24681, 17.7447, -2>, 0.07412, <1.24681, 18.8391, -2>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -32194,11 +28779,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.28769, 17.4065, -2>, 0.07412, <1.24681, 17.7447, -2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -32207,20 +28787,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.75319, 18.8391, -2>, 0.07412, <2.4655, 18.1406, -2.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2.75319, 18.8391, -2>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2, 18.7813, -1.20805>, 0.07412, <2.75319, 18.8391, -2>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -32233,20 +28803,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.24681, 18.0472, -1.51055>, 0.07412, <2, 18.7813, -1.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.24681, 18.0472, -1.51055>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1.5345, 17.6512, -2.48945>, 0.07412, <1.24681, 18.0472, -1.51055>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -32259,11 +28819,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.4655, 18.1406, -2.79195>, 0.07412, <1.5345, 17.6512, -2.48945>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -32272,20 +28827,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.71231, 19.1773, -2>, 0.07412, <2.28769, 18.6879, -2.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.71231, 19.1773, -2>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1.5345, 18.4431, -1.20805>, 0.07412, <1.71231, 19.1773, -2>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -32298,20 +28843,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2, 17.4999, -1.51055>, 0.07412, <1.5345, 18.4431, -1.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2, 17.4999, -1.51055>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2.4655, 17.6512, -2.48945>, 0.07412, <2, 17.4999, -1.51055>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -32324,11 +28859,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.28769, 18.6879, -2.79195>, 0.07412, <2.4655, 17.6512, -2.48945>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -32337,20 +28867,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.06901, 18.2919, -2>, 0.07412, <1.71231, 18.6879, -2.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.06901, 18.2919, -2>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1.71231, 17.8959, -1.20805>, 0.07412, <1.06901, 18.2919, -2>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -32363,20 +28883,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.75319, 18.0472, -1.51055>, 0.07412, <1.71231, 17.8959, -1.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2.75319, 18.0472, -1.51055>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2.75319, 18.5366, -2.48945>, 0.07412, <2.75319, 18.0472, -1.51055>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -32389,11 +28899,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.71231, 18.6879, -2.79195>, 0.07412, <2.75319, 18.5366, -2.48945>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -32402,20 +28907,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.71231, 17.4065, -2>, 0.07412, <1.5345, 18.1406, -2.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.71231, 17.4065, -2>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2.28769, 17.8959, -1.20805>, 0.07412, <1.71231, 17.4065, -2>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -32428,20 +28923,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.4655, 18.9326, -1.51055>, 0.07412, <2.28769, 17.8959, -1.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2.4655, 18.9326, -1.51055>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2, 19.0838, -2.48945>, 0.07412, <2.4655, 18.9326, -1.51055>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -32454,11 +28939,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.5345, 18.1406, -2.79195>, 0.07412, <2, 19.0838, -2.48945>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -32467,20 +28947,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.75319, 17.7447, -2>, 0.07412, <2, 17.8024, -2.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2.75319, 17.7447, -2>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2.4655, 18.4431, -1.20805>, 0.07412, <2.75319, 17.7447, -2>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -32493,20 +28963,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.5345, 18.9326, -1.51055>, 0.07412, <2.4655, 18.4431, -1.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.5345, 18.9326, -1.51055>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1.24681, 18.5366, -2.48945>, 0.07412, <1.5345, 18.9326, -1.51055>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -32519,11 +28979,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2, 17.8024, -2.79195>, 0.07412, <1.24681, 18.5366, -2.48945>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -32532,20 +28987,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.93099, 18.2919, -2>, 0.07412, <4.28769, 17.4065, -2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.93099, 18.2919, -2>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4.28769, 19.1773, -2>, 0.07412, <4.93099, 18.2919, -2>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -32558,20 +29003,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.24681, 18.8391, -2>, 0.07412, <4.28769, 19.1773, -2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.24681, 18.8391, -2>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3.24681, 17.7447, -2>, 0.07412, <3.24681, 18.8391, -2>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -32584,11 +29019,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.28769, 17.4065, -2>, 0.07412, <3.24681, 17.7447, -2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -32597,20 +29027,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.75319, 18.8391, -2>, 0.07412, <4.4655, 18.1406, -2.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.75319, 18.8391, -2>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4, 18.7813, -1.20805>, 0.07412, <4.75319, 18.8391, -2>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -32623,20 +29043,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.24681, 18.0472, -1.51055>, 0.07412, <4, 18.7813, -1.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.24681, 18.0472, -1.51055>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3.5345, 17.6512, -2.48945>, 0.07412, <3.24681, 18.0472, -1.51055>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -32649,11 +29059,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.4655, 18.1406, -2.79195>, 0.07412, <3.5345, 17.6512, -2.48945>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -32662,20 +29067,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.71231, 19.1773, -2>, 0.07412, <4.28769, 18.6879, -2.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.71231, 19.1773, -2>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3.5345, 18.4431, -1.20805>, 0.07412, <3.71231, 19.1773, -2>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -32688,20 +29083,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4, 17.4999, -1.51055>, 0.07412, <3.5345, 18.4431, -1.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4, 17.4999, -1.51055>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4.4655, 17.6512, -2.48945>, 0.07412, <4, 17.4999, -1.51055>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -32714,11 +29099,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.28769, 18.6879, -2.79195>, 0.07412, <4.4655, 17.6512, -2.48945>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -32727,20 +29107,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.06901, 18.2919, -2>, 0.07412, <3.71231, 18.6879, -2.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.06901, 18.2919, -2>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3.71231, 17.8959, -1.20805>, 0.07412, <3.06901, 18.2919, -2>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -32753,20 +29123,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.75319, 18.0472, -1.51055>, 0.07412, <3.71231, 17.8959, -1.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.75319, 18.0472, -1.51055>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4.75319, 18.5366, -2.48945>, 0.07412, <4.75319, 18.0472, -1.51055>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -32779,11 +29139,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.71231, 18.6879, -2.79195>, 0.07412, <4.75319, 18.5366, -2.48945>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -32792,20 +29147,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.71231, 17.4065, -2>, 0.07412, <3.5345, 18.1406, -2.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.71231, 17.4065, -2>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4.28769, 17.8959, -1.20805>, 0.07412, <3.71231, 17.4065, -2>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -32818,20 +29163,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.4655, 18.9326, -1.51055>, 0.07412, <4.28769, 17.8959, -1.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.4655, 18.9326, -1.51055>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4, 19.0838, -2.48945>, 0.07412, <4.4655, 18.9326, -1.51055>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -32844,11 +29179,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.5345, 18.1406, -2.79195>, 0.07412, <4, 19.0838, -2.48945>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -32857,20 +29187,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.75319, 17.7447, -2>, 0.07412, <4, 17.8024, -2.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.75319, 17.7447, -2>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4.4655, 18.4431, -1.20805>, 0.07412, <4.75319, 17.7447, -2>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -32883,20 +29203,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.5345, 18.9326, -1.51055>, 0.07412, <4.4655, 18.4431, -1.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.5345, 18.9326, -1.51055>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3.24681, 18.5366, -2.48945>, 0.07412, <3.5345, 18.9326, -1.51055>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -32909,11 +29219,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4, 17.8024, -2.79195>, 0.07412, <3.24681, 18.5366, -2.48945>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -32922,20 +29227,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.93099, 18.2919, -2>, 0.07412, <6.28769, 17.4065, -2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6.93099, 18.2919, -2>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6.28769, 19.1773, -2>, 0.07412, <6.93099, 18.2919, -2>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -32948,20 +29243,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.24681, 18.8391, -2>, 0.07412, <6.28769, 19.1773, -2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.24681, 18.8391, -2>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<5.24681, 17.7447, -2>, 0.07412, <5.24681, 18.8391, -2>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -32974,11 +29259,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.28769, 17.4065, -2>, 0.07412, <5.24681, 17.7447, -2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -32987,20 +29267,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.75319, 18.8391, -2>, 0.07412, <6.4655, 18.1406, -2.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6.75319, 18.8391, -2>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6, 18.7813, -1.20805>, 0.07412, <6.75319, 18.8391, -2>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -33013,20 +29283,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.24681, 18.0472, -1.51055>, 0.07412, <6, 18.7813, -1.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.24681, 18.0472, -1.51055>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<5.5345, 17.6512, -2.48945>, 0.07412, <5.24681, 18.0472, -1.51055>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -33039,11 +29299,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.4655, 18.1406, -2.79195>, 0.07412, <5.5345, 17.6512, -2.48945>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -33052,20 +29307,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.71231, 19.1773, -2>, 0.07412, <6.28769, 18.6879, -2.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.71231, 19.1773, -2>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<5.5345, 18.4431, -1.20805>, 0.07412, <5.71231, 19.1773, -2>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -33078,20 +29323,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6, 17.4999, -1.51055>, 0.07412, <5.5345, 18.4431, -1.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6, 17.4999, -1.51055>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6.4655, 17.6512, -2.48945>, 0.07412, <6, 17.4999, -1.51055>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -33104,11 +29339,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.28769, 18.6879, -2.79195>, 0.07412, <6.4655, 17.6512, -2.48945>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -33117,20 +29347,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.06901, 18.2919, -2>, 0.07412, <5.71231, 18.6879, -2.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.06901, 18.2919, -2>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<5.71231, 17.8959, -1.20805>, 0.07412, <5.06901, 18.2919, -2>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -33143,20 +29363,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.75319, 18.0472, -1.51055>, 0.07412, <5.71231, 17.8959, -1.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6.75319, 18.0472, -1.51055>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6.75319, 18.5366, -2.48945>, 0.07412, <6.75319, 18.0472, -1.51055>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -33169,11 +29379,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.71231, 18.6879, -2.79195>, 0.07412, <6.75319, 18.5366, -2.48945>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -33182,20 +29387,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.71231, 17.4065, -2>, 0.07412, <5.5345, 18.1406, -2.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.71231, 17.4065, -2>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6.28769, 17.8959, -1.20805>, 0.07412, <5.71231, 17.4065, -2>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -33208,20 +29403,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.4655, 18.9326, -1.51055>, 0.07412, <6.28769, 17.8959, -1.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6.4655, 18.9326, -1.51055>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6, 19.0838, -2.48945>, 0.07412, <6.4655, 18.9326, -1.51055>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -33234,11 +29419,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.5345, 18.1406, -2.79195>, 0.07412, <6, 19.0838, -2.48945>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -33247,20 +29427,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.75319, 17.7447, -2>, 0.07412, <6, 17.8024, -2.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6.75319, 17.7447, -2>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6.4655, 18.4431, -1.20805>, 0.07412, <6.75319, 17.7447, -2>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -33273,20 +29443,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.5345, 18.9326, -1.51055>, 0.07412, <6.4655, 18.4431, -1.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.5345, 18.9326, -1.51055>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<5.24681, 18.5366, -2.48945>, 0.07412, <5.5345, 18.9326, -1.51055>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -33299,11 +29459,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6, 17.8024, -2.79195>, 0.07412, <5.24681, 18.5366, -2.48945>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -33312,20 +29467,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.06901, 18.2919, 0>, 0.07412, <-5.71231, 17.4065, 0>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-5.06901, 18.2919, 0>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-5.71231, 19.1773, 0>, 0.07412, <-5.06901, 18.2919, 0>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -33338,20 +29483,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.75319, 18.8391, 0>, 0.07412, <-5.71231, 19.1773, 0>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.75319, 18.8391, 0>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6.75319, 17.7447, 0>, 0.07412, <-6.75319, 18.8391, 0>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -33364,11 +29499,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.71231, 17.4065, 0>, 0.07412, <-6.75319, 17.7447, 0>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -33377,20 +29507,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.24681, 18.8391, 0>, 0.07412, <-5.5345, 18.1406, -0.791951>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-5.24681, 18.8391, 0>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6, 18.7813, 0.791951>, 0.07412, <-5.24681, 18.8391, 0>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -33403,20 +29523,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.75319, 18.0472, 0.489453>, 0.07412, <-6, 18.7813, 0.791951>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.75319, 18.0472, 0.489453>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6.4655, 17.6512, -0.489453>, 0.07412, <-6.75319, 18.0472, 0.489453>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -33429,11 +29539,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.5345, 18.1406, -0.791951>, 0.07412, <-6.4655, 17.6512, -0.489453>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -33442,20 +29547,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.28769, 19.1773, 0>, 0.07412, <-5.71231, 18.6879, -0.791951>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.28769, 19.1773, 0>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6.4655, 18.4431, 0.791951>, 0.07412, <-6.28769, 19.1773, 0>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -33468,20 +29563,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6, 17.4999, 0.489453>, 0.07412, <-6.4655, 18.4431, 0.791951>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6, 17.4999, 0.489453>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-5.5345, 17.6512, -0.489453>, 0.07412, <-6, 17.4999, 0.489453>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -33494,11 +29579,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.71231, 18.6879, -0.791951>, 0.07412, <-5.5345, 17.6512, -0.489453>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -33507,20 +29587,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.93099, 18.2919, 0>, 0.07412, <-6.28769, 18.6879, -0.791951>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.93099, 18.2919, 0>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6.28769, 17.8959, 0.791951>, 0.07412, <-6.93099, 18.2919, 0>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -33533,20 +29603,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.24681, 18.0472, 0.489453>, 0.07412, <-6.28769, 17.8959, 0.791951>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-5.24681, 18.0472, 0.489453>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-5.24681, 18.5366, -0.489453>, 0.07412, <-5.24681, 18.0472, 0.489453>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -33559,11 +29619,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.28769, 18.6879, -0.791951>, 0.07412, <-5.24681, 18.5366, -0.489453>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -33572,20 +29627,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.28769, 17.4065, 0>, 0.07412, <-6.4655, 18.1406, -0.791951>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.28769, 17.4065, 0>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-5.71231, 17.8959, 0.791951>, 0.07412, <-6.28769, 17.4065, 0>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -33598,20 +29643,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.5345, 18.9326, 0.489453>, 0.07412, <-5.71231, 17.8959, 0.791951>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-5.5345, 18.9326, 0.489453>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6, 19.0838, -0.489453>, 0.07412, <-5.5345, 18.9326, 0.489453>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -33624,11 +29659,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.4655, 18.1406, -0.791951>, 0.07412, <-6, 19.0838, -0.489453>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -33637,20 +29667,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.24681, 17.7447, 0>, 0.07412, <-6, 17.8024, -0.791951>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-5.24681, 17.7447, 0>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-5.5345, 18.4431, 0.791951>, 0.07412, <-5.24681, 17.7447, 0>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -33663,20 +29683,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.4655, 18.9326, 0.489453>, 0.07412, <-5.5345, 18.4431, 0.791951>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.4655, 18.9326, 0.489453>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6.75319, 18.5366, -0.489453>, 0.07412, <-6.4655, 18.9326, 0.489453>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -33689,11 +29699,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6, 17.8024, -0.791951>, 0.07412, <-6.75319, 18.5366, -0.489453>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -33702,20 +29707,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.06901, 18.2919, 0>, 0.07412, <-3.71231, 17.4065, 0>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-3.06901, 18.2919, 0>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-3.71231, 19.1773, 0>, 0.07412, <-3.06901, 18.2919, 0>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -33728,20 +29723,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.75319, 18.8391, 0>, 0.07412, <-3.71231, 19.1773, 0>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.75319, 18.8391, 0>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4.75319, 17.7447, 0>, 0.07412, <-4.75319, 18.8391, 0>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -33754,11 +29739,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.71231, 17.4065, 0>, 0.07412, <-4.75319, 17.7447, 0>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -33767,20 +29747,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.24681, 18.8391, 0>, 0.07412, <-3.5345, 18.1406, -0.791951>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-3.24681, 18.8391, 0>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4, 18.7813, 0.791951>, 0.07412, <-3.24681, 18.8391, 0>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -33793,20 +29763,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.75319, 18.0472, 0.489453>, 0.07412, <-4, 18.7813, 0.791951>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.75319, 18.0472, 0.489453>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4.4655, 17.6512, -0.489453>, 0.07412, <-4.75319, 18.0472, 0.489453>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -33819,11 +29779,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.5345, 18.1406, -0.791951>, 0.07412, <-4.4655, 17.6512, -0.489453>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -33832,20 +29787,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.28769, 19.1773, 0>, 0.07412, <-3.71231, 18.6879, -0.791951>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.28769, 19.1773, 0>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4.4655, 18.4431, 0.791951>, 0.07412, <-4.28769, 19.1773, 0>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -33858,20 +29803,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4, 17.4999, 0.489453>, 0.07412, <-4.4655, 18.4431, 0.791951>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4, 17.4999, 0.489453>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-3.5345, 17.6512, -0.489453>, 0.07412, <-4, 17.4999, 0.489453>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -33884,11 +29819,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.71231, 18.6879, -0.791951>, 0.07412, <-3.5345, 17.6512, -0.489453>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -33897,20 +29827,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.93099, 18.2919, 0>, 0.07412, <-4.28769, 18.6879, -0.791951>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.93099, 18.2919, 0>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4.28769, 17.8959, 0.791951>, 0.07412, <-4.93099, 18.2919, 0>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -33923,20 +29843,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.24681, 18.0472, 0.489453>, 0.07412, <-4.28769, 17.8959, 0.791951>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-3.24681, 18.0472, 0.489453>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-3.24681, 18.5366, -0.489453>, 0.07412, <-3.24681, 18.0472, 0.489453>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -33949,11 +29859,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.28769, 18.6879, -0.791951>, 0.07412, <-3.24681, 18.5366, -0.489453>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -33962,20 +29867,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.28769, 17.4065, 0>, 0.07412, <-4.4655, 18.1406, -0.791951>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.28769, 17.4065, 0>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-3.71231, 17.8959, 0.791951>, 0.07412, <-4.28769, 17.4065, 0>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -33988,20 +29883,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.5345, 18.9326, 0.489453>, 0.07412, <-3.71231, 17.8959, 0.791951>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-3.5345, 18.9326, 0.489453>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4, 19.0838, -0.489453>, 0.07412, <-3.5345, 18.9326, 0.489453>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -34014,11 +29899,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.4655, 18.1406, -0.791951>, 0.07412, <-4, 19.0838, -0.489453>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -34027,20 +29907,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.24681, 17.7447, 0>, 0.07412, <-4, 17.8024, -0.791951>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-3.24681, 17.7447, 0>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-3.5345, 18.4431, 0.791951>, 0.07412, <-3.24681, 17.7447, 0>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -34053,20 +29923,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.4655, 18.9326, 0.489453>, 0.07412, <-3.5345, 18.4431, 0.791951>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.4655, 18.9326, 0.489453>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4.75319, 18.5366, -0.489453>, 0.07412, <-4.4655, 18.9326, 0.489453>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -34079,11 +29939,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4, 17.8024, -0.791951>, 0.07412, <-4.75319, 18.5366, -0.489453>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -34092,20 +29947,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.06901, 18.2919, 0>, 0.07412, <-1.71231, 17.4065, 0>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.06901, 18.2919, 0>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.71231, 19.1773, 0>, 0.07412, <-1.06901, 18.2919, 0>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -34118,20 +29963,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.75319, 18.8391, 0>, 0.07412, <-1.71231, 19.1773, 0>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.75319, 18.8391, 0>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2.75319, 17.7447, 0>, 0.07412, <-2.75319, 18.8391, 0>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -34144,11 +29979,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.71231, 17.4065, 0>, 0.07412, <-2.75319, 17.7447, 0>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -34157,20 +29987,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.24681, 18.8391, 0>, 0.07412, <-1.5345, 18.1406, -0.791951>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.24681, 18.8391, 0>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2, 18.7813, 0.791951>, 0.07412, <-1.24681, 18.8391, 0>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -34183,20 +30003,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.75319, 18.0472, 0.489453>, 0.07412, <-2, 18.7813, 0.791951>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.75319, 18.0472, 0.489453>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2.4655, 17.6512, -0.489453>, 0.07412, <-2.75319, 18.0472, 0.489453>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -34209,11 +30019,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.5345, 18.1406, -0.791951>, 0.07412, <-2.4655, 17.6512, -0.489453>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -34222,20 +30027,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.28769, 19.1773, 0>, 0.07412, <-1.71231, 18.6879, -0.791951>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.28769, 19.1773, 0>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2.4655, 18.4431, 0.791951>, 0.07412, <-2.28769, 19.1773, 0>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -34248,20 +30043,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2, 17.4999, 0.489453>, 0.07412, <-2.4655, 18.4431, 0.791951>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2, 17.4999, 0.489453>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.5345, 17.6512, -0.489453>, 0.07412, <-2, 17.4999, 0.489453>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -34274,11 +30059,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.71231, 18.6879, -0.791951>, 0.07412, <-1.5345, 17.6512, -0.489453>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -34287,20 +30067,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.93099, 18.2919, 0>, 0.07412, <-2.28769, 18.6879, -0.791951>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.93099, 18.2919, 0>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2.28769, 17.8959, 0.791951>, 0.07412, <-2.93099, 18.2919, 0>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -34313,20 +30083,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.24681, 18.0472, 0.489453>, 0.07412, <-2.28769, 17.8959, 0.791951>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.24681, 18.0472, 0.489453>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.24681, 18.5366, -0.489453>, 0.07412, <-1.24681, 18.0472, 0.489453>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -34339,11 +30099,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.28769, 18.6879, -0.791951>, 0.07412, <-1.24681, 18.5366, -0.489453>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -34352,20 +30107,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.28769, 17.4065, 0>, 0.07412, <-2.4655, 18.1406, -0.791951>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.28769, 17.4065, 0>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.71231, 17.8959, 0.791951>, 0.07412, <-2.28769, 17.4065, 0>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -34378,20 +30123,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.5345, 18.9326, 0.489453>, 0.07412, <-1.71231, 17.8959, 0.791951>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.5345, 18.9326, 0.489453>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2, 19.0838, -0.489453>, 0.07412, <-1.5345, 18.9326, 0.489453>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -34404,11 +30139,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.4655, 18.1406, -0.791951>, 0.07412, <-2, 19.0838, -0.489453>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -34417,20 +30147,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.24681, 17.7447, 0>, 0.07412, <-2, 17.8024, -0.791951>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.24681, 17.7447, 0>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.5345, 18.4431, 0.791951>, 0.07412, <-1.24681, 17.7447, 0>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -34443,20 +30163,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.4655, 18.9326, 0.489453>, 0.07412, <-1.5345, 18.4431, 0.791951>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.4655, 18.9326, 0.489453>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2.75319, 18.5366, -0.489453>, 0.07412, <-2.4655, 18.9326, 0.489453>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -34469,11 +30179,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2, 17.8024, -0.791951>, 0.07412, <-2.75319, 18.5366, -0.489453>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -34482,20 +30187,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.930995, 18.2919, 0>, 0.07412, <0.287693, 17.4065, 0>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <0.930995, 18.2919, 0>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<0.287693, 19.1773, 0>, 0.07412, <0.930995, 18.2919, 0>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -34508,20 +30203,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.753191, 18.8391, 0>, 0.07412, <0.287693, 19.1773, 0>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.753191, 18.8391, 0>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-0.753191, 17.7447, 0>, 0.07412, <-0.753191, 18.8391, 0>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -34534,11 +30219,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.287693, 17.4065, 0>, 0.07412, <-0.753191, 17.7447, 0>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -34547,20 +30227,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.753191, 18.8391, 0>, 0.07412, <0.465497, 18.1406, -0.791951>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <0.753191, 18.8391, 0>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.94289e-16, 18.7813, 0.791951>, 0.07412, <0.753191, 18.8391, 0>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -34573,20 +30243,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.753191, 18.0472, 0.489453>, 0.07412, <-1.94289e-16, 18.7813, 0.791951>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.753191, 18.0472, 0.489453>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-0.465497, 17.6512, -0.489453>, 0.07412, <-0.753191, 18.0472, 0.489453>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -34599,11 +30259,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.465497, 18.1406, -0.791951>, 0.07412, <-0.465497, 17.6512, -0.489453>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -34612,20 +30267,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.287693, 19.1773, 0>, 0.07412, <0.287693, 18.6879, -0.791951>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.287693, 19.1773, 0>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-0.465497, 18.4431, 0.791951>, 0.07412, <-0.287693, 19.1773, 0>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -34638,20 +30283,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.66533e-16, 17.4999, 0.489453>, 0.07412, <-0.465497, 18.4431, 0.791951>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.66533e-16, 17.4999, 0.489453>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<0.465497, 17.6512, -0.489453>, 0.07412, <-1.66533e-16, 17.4999, 0.489453>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -34664,11 +30299,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.287693, 18.6879, -0.791951>, 0.07412, <0.465497, 17.6512, -0.489453>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -34677,20 +30307,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.930995, 18.2919, 0>, 0.07412, <-0.287693, 18.6879, -0.791951>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.930995, 18.2919, 0>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-0.287693, 17.8959, 0.791951>, 0.07412, <-0.930995, 18.2919, 0>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -34703,20 +30323,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.753191, 18.0472, 0.489453>, 0.07412, <-0.287693, 17.8959, 0.791951>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <0.753191, 18.0472, 0.489453>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<0.753191, 18.5366, -0.489453>, 0.07412, <0.753191, 18.0472, 0.489453>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -34729,11 +30339,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.287693, 18.6879, -0.791951>, 0.07412, <0.753191, 18.5366, -0.489453>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -34742,20 +30347,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.287693, 17.4065, 0>, 0.07412, <-0.465497, 18.1406, -0.791951>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.287693, 17.4065, 0>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<0.287693, 17.8959, 0.791951>, 0.07412, <-0.287693, 17.4065, 0>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -34768,20 +30363,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.465497, 18.9326, 0.489453>, 0.07412, <0.287693, 17.8959, 0.791951>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <0.465497, 18.9326, 0.489453>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.66533e-16, 19.0838, -0.489453>, 0.07412, <0.465497, 18.9326, 0.489453>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -34794,11 +30379,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.465497, 18.1406, -0.791951>, 0.07412, <-1.66533e-16, 19.0838, -0.489453>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -34807,20 +30387,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.753191, 17.7447, 0>, 0.07412, <-1.94289e-16, 17.8024, -0.791951>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <0.753191, 17.7447, 0>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<0.465497, 18.4431, 0.791951>, 0.07412, <0.753191, 17.7447, 0>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -34833,20 +30403,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.465497, 18.9326, 0.489453>, 0.07412, <0.465497, 18.4431, 0.791951>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.465497, 18.9326, 0.489453>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-0.753191, 18.5366, -0.489453>, 0.07412, <-0.465497, 18.9326, 0.489453>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -34859,11 +30419,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.94289e-16, 17.8024, -0.791951>, 0.07412, <-0.753191, 18.5366, -0.489453>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -34872,20 +30427,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.93099, 18.2919, 0>, 0.07412, <2.28769, 17.4065, 0>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2.93099, 18.2919, 0>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2.28769, 19.1773, 0>, 0.07412, <2.93099, 18.2919, 0>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -34898,20 +30443,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.24681, 18.8391, 0>, 0.07412, <2.28769, 19.1773, 0>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.24681, 18.8391, 0>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1.24681, 17.7447, 0>, 0.07412, <1.24681, 18.8391, 0>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -34924,11 +30459,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.28769, 17.4065, 0>, 0.07412, <1.24681, 17.7447, 0>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -34937,20 +30467,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.75319, 18.8391, 0>, 0.07412, <2.4655, 18.1406, -0.791951>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2.75319, 18.8391, 0>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2, 18.7813, 0.791951>, 0.07412, <2.75319, 18.8391, 0>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -34963,20 +30483,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.24681, 18.0472, 0.489453>, 0.07412, <2, 18.7813, 0.791951>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.24681, 18.0472, 0.489453>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1.5345, 17.6512, -0.489453>, 0.07412, <1.24681, 18.0472, 0.489453>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -34989,11 +30499,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.4655, 18.1406, -0.791951>, 0.07412, <1.5345, 17.6512, -0.489453>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -35002,20 +30507,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.71231, 19.1773, 0>, 0.07412, <2.28769, 18.6879, -0.791951>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.71231, 19.1773, 0>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1.5345, 18.4431, 0.791951>, 0.07412, <1.71231, 19.1773, 0>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -35028,20 +30523,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2, 17.4999, 0.489453>, 0.07412, <1.5345, 18.4431, 0.791951>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2, 17.4999, 0.489453>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2.4655, 17.6512, -0.489453>, 0.07412, <2, 17.4999, 0.489453>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -35054,11 +30539,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.28769, 18.6879, -0.791951>, 0.07412, <2.4655, 17.6512, -0.489453>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -35067,20 +30547,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.06901, 18.2919, 0>, 0.07412, <1.71231, 18.6879, -0.791951>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.06901, 18.2919, 0>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1.71231, 17.8959, 0.791951>, 0.07412, <1.06901, 18.2919, 0>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -35093,20 +30563,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.75319, 18.0472, 0.489453>, 0.07412, <1.71231, 17.8959, 0.791951>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2.75319, 18.0472, 0.489453>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2.75319, 18.5366, -0.489453>, 0.07412, <2.75319, 18.0472, 0.489453>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -35119,11 +30579,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.71231, 18.6879, -0.791951>, 0.07412, <2.75319, 18.5366, -0.489453>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -35132,20 +30587,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.71231, 17.4065, 0>, 0.07412, <1.5345, 18.1406, -0.791951>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.71231, 17.4065, 0>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2.28769, 17.8959, 0.791951>, 0.07412, <1.71231, 17.4065, 0>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -35158,20 +30603,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.4655, 18.9326, 0.489453>, 0.07412, <2.28769, 17.8959, 0.791951>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2.4655, 18.9326, 0.489453>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2, 19.0838, -0.489453>, 0.07412, <2.4655, 18.9326, 0.489453>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -35184,11 +30619,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.5345, 18.1406, -0.791951>, 0.07412, <2, 19.0838, -0.489453>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -35197,20 +30627,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.75319, 17.7447, 0>, 0.07412, <2, 17.8024, -0.791951>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2.75319, 17.7447, 0>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2.4655, 18.4431, 0.791951>, 0.07412, <2.75319, 17.7447, 0>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -35223,20 +30643,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.5345, 18.9326, 0.489453>, 0.07412, <2.4655, 18.4431, 0.791951>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.5345, 18.9326, 0.489453>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1.24681, 18.5366, -0.489453>, 0.07412, <1.5345, 18.9326, 0.489453>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -35249,11 +30659,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2, 17.8024, -0.791951>, 0.07412, <1.24681, 18.5366, -0.489453>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -35262,20 +30667,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.93099, 18.2919, 0>, 0.07412, <4.28769, 17.4065, 0>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.93099, 18.2919, 0>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4.28769, 19.1773, 0>, 0.07412, <4.93099, 18.2919, 0>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -35288,20 +30683,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.24681, 18.8391, 0>, 0.07412, <4.28769, 19.1773, 0>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.24681, 18.8391, 0>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3.24681, 17.7447, 0>, 0.07412, <3.24681, 18.8391, 0>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -35314,11 +30699,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.28769, 17.4065, 0>, 0.07412, <3.24681, 17.7447, 0>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -35327,20 +30707,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.75319, 18.8391, 0>, 0.07412, <4.4655, 18.1406, -0.791951>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.75319, 18.8391, 0>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4, 18.7813, 0.791951>, 0.07412, <4.75319, 18.8391, 0>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -35353,20 +30723,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.24681, 18.0472, 0.489453>, 0.07412, <4, 18.7813, 0.791951>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.24681, 18.0472, 0.489453>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3.5345, 17.6512, -0.489453>, 0.07412, <3.24681, 18.0472, 0.489453>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -35379,11 +30739,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.4655, 18.1406, -0.791951>, 0.07412, <3.5345, 17.6512, -0.489453>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -35392,20 +30747,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.71231, 19.1773, 0>, 0.07412, <4.28769, 18.6879, -0.791951>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.71231, 19.1773, 0>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3.5345, 18.4431, 0.791951>, 0.07412, <3.71231, 19.1773, 0>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -35418,20 +30763,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4, 17.4999, 0.489453>, 0.07412, <3.5345, 18.4431, 0.791951>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4, 17.4999, 0.489453>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4.4655, 17.6512, -0.489453>, 0.07412, <4, 17.4999, 0.489453>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -35444,11 +30779,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.28769, 18.6879, -0.791951>, 0.07412, <4.4655, 17.6512, -0.489453>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -35457,20 +30787,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.06901, 18.2919, 0>, 0.07412, <3.71231, 18.6879, -0.791951>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.06901, 18.2919, 0>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3.71231, 17.8959, 0.791951>, 0.07412, <3.06901, 18.2919, 0>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -35483,20 +30803,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.75319, 18.0472, 0.489453>, 0.07412, <3.71231, 17.8959, 0.791951>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.75319, 18.0472, 0.489453>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4.75319, 18.5366, -0.489453>, 0.07412, <4.75319, 18.0472, 0.489453>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -35509,11 +30819,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.71231, 18.6879, -0.791951>, 0.07412, <4.75319, 18.5366, -0.489453>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -35522,20 +30827,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.71231, 17.4065, 0>, 0.07412, <3.5345, 18.1406, -0.791951>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.71231, 17.4065, 0>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4.28769, 17.8959, 0.791951>, 0.07412, <3.71231, 17.4065, 0>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -35548,20 +30843,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.4655, 18.9326, 0.489453>, 0.07412, <4.28769, 17.8959, 0.791951>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.4655, 18.9326, 0.489453>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4, 19.0838, -0.489453>, 0.07412, <4.4655, 18.9326, 0.489453>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -35574,11 +30859,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.5345, 18.1406, -0.791951>, 0.07412, <4, 19.0838, -0.489453>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -35587,20 +30867,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.75319, 17.7447, 0>, 0.07412, <4, 17.8024, -0.791951>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.75319, 17.7447, 0>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4.4655, 18.4431, 0.791951>, 0.07412, <4.75319, 17.7447, 0>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -35613,20 +30883,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.5345, 18.9326, 0.489453>, 0.07412, <4.4655, 18.4431, 0.791951>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.5345, 18.9326, 0.489453>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3.24681, 18.5366, -0.489453>, 0.07412, <3.5345, 18.9326, 0.489453>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -35639,11 +30899,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4, 17.8024, -0.791951>, 0.07412, <3.24681, 18.5366, -0.489453>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -35652,20 +30907,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.93099, 18.2919, 0>, 0.07412, <6.28769, 17.4065, 0>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6.93099, 18.2919, 0>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6.28769, 19.1773, 0>, 0.07412, <6.93099, 18.2919, 0>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -35678,20 +30923,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.24681, 18.8391, 0>, 0.07412, <6.28769, 19.1773, 0>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.24681, 18.8391, 0>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<5.24681, 17.7447, 0>, 0.07412, <5.24681, 18.8391, 0>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -35704,11 +30939,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.28769, 17.4065, 0>, 0.07412, <5.24681, 17.7447, 0>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -35717,20 +30947,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.75319, 18.8391, 0>, 0.07412, <6.4655, 18.1406, -0.791951>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6.75319, 18.8391, 0>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6, 18.7813, 0.791951>, 0.07412, <6.75319, 18.8391, 0>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -35743,20 +30963,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.24681, 18.0472, 0.489453>, 0.07412, <6, 18.7813, 0.791951>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.24681, 18.0472, 0.489453>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<5.5345, 17.6512, -0.489453>, 0.07412, <5.24681, 18.0472, 0.489453>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -35769,11 +30979,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.4655, 18.1406, -0.791951>, 0.07412, <5.5345, 17.6512, -0.489453>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -35782,20 +30987,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.71231, 19.1773, 0>, 0.07412, <6.28769, 18.6879, -0.791951>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.71231, 19.1773, 0>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<5.5345, 18.4431, 0.791951>, 0.07412, <5.71231, 19.1773, 0>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -35808,20 +31003,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6, 17.4999, 0.489453>, 0.07412, <5.5345, 18.4431, 0.791951>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6, 17.4999, 0.489453>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6.4655, 17.6512, -0.489453>, 0.07412, <6, 17.4999, 0.489453>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -35834,11 +31019,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.28769, 18.6879, -0.791951>, 0.07412, <6.4655, 17.6512, -0.489453>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -35847,20 +31027,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.06901, 18.2919, 0>, 0.07412, <5.71231, 18.6879, -0.791951>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.06901, 18.2919, 0>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<5.71231, 17.8959, 0.791951>, 0.07412, <5.06901, 18.2919, 0>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -35873,20 +31043,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.75319, 18.0472, 0.489453>, 0.07412, <5.71231, 17.8959, 0.791951>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6.75319, 18.0472, 0.489453>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6.75319, 18.5366, -0.489453>, 0.07412, <6.75319, 18.0472, 0.489453>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -35899,11 +31059,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.71231, 18.6879, -0.791951>, 0.07412, <6.75319, 18.5366, -0.489453>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -35912,20 +31067,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.71231, 17.4065, 0>, 0.07412, <5.5345, 18.1406, -0.791951>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.71231, 17.4065, 0>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6.28769, 17.8959, 0.791951>, 0.07412, <5.71231, 17.4065, 0>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -35938,20 +31083,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.4655, 18.9326, 0.489453>, 0.07412, <6.28769, 17.8959, 0.791951>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6.4655, 18.9326, 0.489453>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6, 19.0838, -0.489453>, 0.07412, <6.4655, 18.9326, 0.489453>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -35964,11 +31099,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.5345, 18.1406, -0.791951>, 0.07412, <6, 19.0838, -0.489453>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -35977,20 +31107,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.75319, 17.7447, 0>, 0.07412, <6, 17.8024, -0.791951>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6.75319, 17.7447, 0>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6.4655, 18.4431, 0.791951>, 0.07412, <6.75319, 17.7447, 0>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -36003,20 +31123,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.5345, 18.9326, 0.489453>, 0.07412, <6.4655, 18.4431, 0.791951>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.5345, 18.9326, 0.489453>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<5.24681, 18.5366, -0.489453>, 0.07412, <5.5345, 18.9326, 0.489453>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -36029,11 +31139,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6, 17.8024, -0.791951>, 0.07412, <5.24681, 18.5366, -0.489453>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -36042,20 +31147,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.06901, 18.2919, 2>, 0.07412, <-5.71231, 17.4065, 2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-5.06901, 18.2919, 2>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-5.71231, 19.1773, 2>, 0.07412, <-5.06901, 18.2919, 2>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -36068,20 +31163,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.75319, 18.8391, 2>, 0.07412, <-5.71231, 19.1773, 2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.75319, 18.8391, 2>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6.75319, 17.7447, 2>, 0.07412, <-6.75319, 18.8391, 2>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -36094,11 +31179,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.71231, 17.4065, 2>, 0.07412, <-6.75319, 17.7447, 2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -36107,20 +31187,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.24681, 18.8391, 2>, 0.07412, <-5.5345, 18.1406, 1.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-5.24681, 18.8391, 2>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6, 18.7813, 2.79195>, 0.07412, <-5.24681, 18.8391, 2>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -36133,20 +31203,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.75319, 18.0472, 2.48945>, 0.07412, <-6, 18.7813, 2.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.75319, 18.0472, 2.48945>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6.4655, 17.6512, 1.51055>, 0.07412, <-6.75319, 18.0472, 2.48945>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -36159,11 +31219,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.5345, 18.1406, 1.20805>, 0.07412, <-6.4655, 17.6512, 1.51055>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -36172,20 +31227,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.28769, 19.1773, 2>, 0.07412, <-5.71231, 18.6879, 1.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.28769, 19.1773, 2>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6.4655, 18.4431, 2.79195>, 0.07412, <-6.28769, 19.1773, 2>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -36198,20 +31243,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6, 17.4999, 2.48945>, 0.07412, <-6.4655, 18.4431, 2.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6, 17.4999, 2.48945>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-5.5345, 17.6512, 1.51055>, 0.07412, <-6, 17.4999, 2.48945>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -36224,11 +31259,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.71231, 18.6879, 1.20805>, 0.07412, <-5.5345, 17.6512, 1.51055>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -36237,20 +31267,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.93099, 18.2919, 2>, 0.07412, <-6.28769, 18.6879, 1.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.93099, 18.2919, 2>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6.28769, 17.8959, 2.79195>, 0.07412, <-6.93099, 18.2919, 2>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -36263,20 +31283,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.24681, 18.0472, 2.48945>, 0.07412, <-6.28769, 17.8959, 2.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-5.24681, 18.0472, 2.48945>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-5.24681, 18.5366, 1.51055>, 0.07412, <-5.24681, 18.0472, 2.48945>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -36289,11 +31299,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.28769, 18.6879, 1.20805>, 0.07412, <-5.24681, 18.5366, 1.51055>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -36302,20 +31307,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.28769, 17.4065, 2>, 0.07412, <-6.4655, 18.1406, 1.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.28769, 17.4065, 2>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-5.71231, 17.8959, 2.79195>, 0.07412, <-6.28769, 17.4065, 2>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -36328,20 +31323,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.5345, 18.9326, 2.48945>, 0.07412, <-5.71231, 17.8959, 2.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-5.5345, 18.9326, 2.48945>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6, 19.0838, 1.51055>, 0.07412, <-5.5345, 18.9326, 2.48945>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -36354,11 +31339,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.4655, 18.1406, 1.20805>, 0.07412, <-6, 19.0838, 1.51055>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -36367,20 +31347,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.24681, 17.7447, 2>, 0.07412, <-6, 17.8024, 1.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-5.24681, 17.7447, 2>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-5.5345, 18.4431, 2.79195>, 0.07412, <-5.24681, 17.7447, 2>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -36393,20 +31363,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.4655, 18.9326, 2.48945>, 0.07412, <-5.5345, 18.4431, 2.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.4655, 18.9326, 2.48945>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6.75319, 18.5366, 1.51055>, 0.07412, <-6.4655, 18.9326, 2.48945>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -36419,11 +31379,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6, 17.8024, 1.20805>, 0.07412, <-6.75319, 18.5366, 1.51055>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -36432,20 +31387,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.06901, 18.2919, 2>, 0.07412, <-3.71231, 17.4065, 2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-3.06901, 18.2919, 2>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-3.71231, 19.1773, 2>, 0.07412, <-3.06901, 18.2919, 2>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -36458,20 +31403,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.75319, 18.8391, 2>, 0.07412, <-3.71231, 19.1773, 2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.75319, 18.8391, 2>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4.75319, 17.7447, 2>, 0.07412, <-4.75319, 18.8391, 2>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -36484,11 +31419,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.71231, 17.4065, 2>, 0.07412, <-4.75319, 17.7447, 2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -36497,20 +31427,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.24681, 18.8391, 2>, 0.07412, <-3.5345, 18.1406, 1.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-3.24681, 18.8391, 2>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4, 18.7813, 2.79195>, 0.07412, <-3.24681, 18.8391, 2>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -36523,20 +31443,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.75319, 18.0472, 2.48945>, 0.07412, <-4, 18.7813, 2.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.75319, 18.0472, 2.48945>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4.4655, 17.6512, 1.51055>, 0.07412, <-4.75319, 18.0472, 2.48945>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -36549,11 +31459,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.5345, 18.1406, 1.20805>, 0.07412, <-4.4655, 17.6512, 1.51055>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -36562,20 +31467,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.28769, 19.1773, 2>, 0.07412, <-3.71231, 18.6879, 1.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.28769, 19.1773, 2>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4.4655, 18.4431, 2.79195>, 0.07412, <-4.28769, 19.1773, 2>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -36588,20 +31483,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4, 17.4999, 2.48945>, 0.07412, <-4.4655, 18.4431, 2.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4, 17.4999, 2.48945>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-3.5345, 17.6512, 1.51055>, 0.07412, <-4, 17.4999, 2.48945>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -36614,11 +31499,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.71231, 18.6879, 1.20805>, 0.07412, <-3.5345, 17.6512, 1.51055>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -36627,20 +31507,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.93099, 18.2919, 2>, 0.07412, <-4.28769, 18.6879, 1.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.93099, 18.2919, 2>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4.28769, 17.8959, 2.79195>, 0.07412, <-4.93099, 18.2919, 2>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -36653,20 +31523,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.24681, 18.0472, 2.48945>, 0.07412, <-4.28769, 17.8959, 2.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-3.24681, 18.0472, 2.48945>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-3.24681, 18.5366, 1.51055>, 0.07412, <-3.24681, 18.0472, 2.48945>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -36679,11 +31539,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.28769, 18.6879, 1.20805>, 0.07412, <-3.24681, 18.5366, 1.51055>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -36692,20 +31547,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.28769, 17.4065, 2>, 0.07412, <-4.4655, 18.1406, 1.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.28769, 17.4065, 2>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-3.71231, 17.8959, 2.79195>, 0.07412, <-4.28769, 17.4065, 2>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -36718,20 +31563,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.5345, 18.9326, 2.48945>, 0.07412, <-3.71231, 17.8959, 2.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-3.5345, 18.9326, 2.48945>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4, 19.0838, 1.51055>, 0.07412, <-3.5345, 18.9326, 2.48945>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -36744,11 +31579,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.4655, 18.1406, 1.20805>, 0.07412, <-4, 19.0838, 1.51055>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -36757,20 +31587,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.24681, 17.7447, 2>, 0.07412, <-4, 17.8024, 1.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-3.24681, 17.7447, 2>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-3.5345, 18.4431, 2.79195>, 0.07412, <-3.24681, 17.7447, 2>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -36783,20 +31603,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.4655, 18.9326, 2.48945>, 0.07412, <-3.5345, 18.4431, 2.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.4655, 18.9326, 2.48945>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4.75319, 18.5366, 1.51055>, 0.07412, <-4.4655, 18.9326, 2.48945>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -36809,11 +31619,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4, 17.8024, 1.20805>, 0.07412, <-4.75319, 18.5366, 1.51055>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -36822,20 +31627,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.06901, 18.2919, 2>, 0.07412, <-1.71231, 17.4065, 2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.06901, 18.2919, 2>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.71231, 19.1773, 2>, 0.07412, <-1.06901, 18.2919, 2>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -36848,20 +31643,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.75319, 18.8391, 2>, 0.07412, <-1.71231, 19.1773, 2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.75319, 18.8391, 2>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2.75319, 17.7447, 2>, 0.07412, <-2.75319, 18.8391, 2>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -36874,11 +31659,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.71231, 17.4065, 2>, 0.07412, <-2.75319, 17.7447, 2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -36887,20 +31667,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.24681, 18.8391, 2>, 0.07412, <-1.5345, 18.1406, 1.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.24681, 18.8391, 2>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2, 18.7813, 2.79195>, 0.07412, <-1.24681, 18.8391, 2>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -36913,20 +31683,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.75319, 18.0472, 2.48945>, 0.07412, <-2, 18.7813, 2.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.75319, 18.0472, 2.48945>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2.4655, 17.6512, 1.51055>, 0.07412, <-2.75319, 18.0472, 2.48945>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -36939,11 +31699,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.5345, 18.1406, 1.20805>, 0.07412, <-2.4655, 17.6512, 1.51055>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -36952,20 +31707,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.28769, 19.1773, 2>, 0.07412, <-1.71231, 18.6879, 1.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.28769, 19.1773, 2>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2.4655, 18.4431, 2.79195>, 0.07412, <-2.28769, 19.1773, 2>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -36978,20 +31723,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2, 17.4999, 2.48945>, 0.07412, <-2.4655, 18.4431, 2.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2, 17.4999, 2.48945>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.5345, 17.6512, 1.51055>, 0.07412, <-2, 17.4999, 2.48945>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -37004,11 +31739,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.71231, 18.6879, 1.20805>, 0.07412, <-1.5345, 17.6512, 1.51055>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -37017,20 +31747,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.93099, 18.2919, 2>, 0.07412, <-2.28769, 18.6879, 1.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.93099, 18.2919, 2>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2.28769, 17.8959, 2.79195>, 0.07412, <-2.93099, 18.2919, 2>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -37043,20 +31763,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.24681, 18.0472, 2.48945>, 0.07412, <-2.28769, 17.8959, 2.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.24681, 18.0472, 2.48945>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.24681, 18.5366, 1.51055>, 0.07412, <-1.24681, 18.0472, 2.48945>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -37069,11 +31779,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.28769, 18.6879, 1.20805>, 0.07412, <-1.24681, 18.5366, 1.51055>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -37082,20 +31787,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.28769, 17.4065, 2>, 0.07412, <-2.4655, 18.1406, 1.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.28769, 17.4065, 2>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.71231, 17.8959, 2.79195>, 0.07412, <-2.28769, 17.4065, 2>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -37108,20 +31803,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.5345, 18.9326, 2.48945>, 0.07412, <-1.71231, 17.8959, 2.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.5345, 18.9326, 2.48945>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2, 19.0838, 1.51055>, 0.07412, <-1.5345, 18.9326, 2.48945>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -37134,11 +31819,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.4655, 18.1406, 1.20805>, 0.07412, <-2, 19.0838, 1.51055>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -37147,20 +31827,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.24681, 17.7447, 2>, 0.07412, <-2, 17.8024, 1.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.24681, 17.7447, 2>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.5345, 18.4431, 2.79195>, 0.07412, <-1.24681, 17.7447, 2>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -37173,20 +31843,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.4655, 18.9326, 2.48945>, 0.07412, <-1.5345, 18.4431, 2.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.4655, 18.9326, 2.48945>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2.75319, 18.5366, 1.51055>, 0.07412, <-2.4655, 18.9326, 2.48945>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -37199,11 +31859,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2, 17.8024, 1.20805>, 0.07412, <-2.75319, 18.5366, 1.51055>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -37212,20 +31867,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.930995, 18.2919, 2>, 0.07412, <0.287693, 17.4065, 2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <0.930995, 18.2919, 2>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<0.287693, 19.1773, 2>, 0.07412, <0.930995, 18.2919, 2>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -37238,20 +31883,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.753191, 18.8391, 2>, 0.07412, <0.287693, 19.1773, 2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.753191, 18.8391, 2>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-0.753191, 17.7447, 2>, 0.07412, <-0.753191, 18.8391, 2>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -37264,11 +31899,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.287693, 17.4065, 2>, 0.07412, <-0.753191, 17.7447, 2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -37277,20 +31907,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.753191, 18.8391, 2>, 0.07412, <0.465497, 18.1406, 1.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <0.753191, 18.8391, 2>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.94289e-16, 18.7813, 2.79195>, 0.07412, <0.753191, 18.8391, 2>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -37303,20 +31923,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.753191, 18.0472, 2.48945>, 0.07412, <-1.94289e-16, 18.7813, 2.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.753191, 18.0472, 2.48945>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-0.465497, 17.6512, 1.51055>, 0.07412, <-0.753191, 18.0472, 2.48945>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -37329,11 +31939,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.465497, 18.1406, 1.20805>, 0.07412, <-0.465497, 17.6512, 1.51055>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -37342,20 +31947,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.287693, 19.1773, 2>, 0.07412, <0.287693, 18.6879, 1.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.287693, 19.1773, 2>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-0.465497, 18.4431, 2.79195>, 0.07412, <-0.287693, 19.1773, 2>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -37368,20 +31963,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.66533e-16, 17.4999, 2.48945>, 0.07412, <-0.465497, 18.4431, 2.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.66533e-16, 17.4999, 2.48945>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<0.465497, 17.6512, 1.51055>, 0.07412, <-1.66533e-16, 17.4999, 2.48945>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -37394,11 +31979,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.287693, 18.6879, 1.20805>, 0.07412, <0.465497, 17.6512, 1.51055>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -37407,20 +31987,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.930995, 18.2919, 2>, 0.07412, <-0.287693, 18.6879, 1.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.930995, 18.2919, 2>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-0.287693, 17.8959, 2.79195>, 0.07412, <-0.930995, 18.2919, 2>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -37433,20 +32003,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.753191, 18.0472, 2.48945>, 0.07412, <-0.287693, 17.8959, 2.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <0.753191, 18.0472, 2.48945>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<0.753191, 18.5366, 1.51055>, 0.07412, <0.753191, 18.0472, 2.48945>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -37459,11 +32019,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.287693, 18.6879, 1.20805>, 0.07412, <0.753191, 18.5366, 1.51055>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -37472,20 +32027,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.287693, 17.4065, 2>, 0.07412, <-0.465497, 18.1406, 1.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.287693, 17.4065, 2>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<0.287693, 17.8959, 2.79195>, 0.07412, <-0.287693, 17.4065, 2>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -37498,20 +32043,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.465497, 18.9326, 2.48945>, 0.07412, <0.287693, 17.8959, 2.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <0.465497, 18.9326, 2.48945>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.66533e-16, 19.0838, 1.51055>, 0.07412, <0.465497, 18.9326, 2.48945>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -37524,11 +32059,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.465497, 18.1406, 1.20805>, 0.07412, <-1.66533e-16, 19.0838, 1.51055>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -37537,20 +32067,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.753191, 17.7447, 2>, 0.07412, <-1.94289e-16, 17.8024, 1.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <0.753191, 17.7447, 2>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<0.465497, 18.4431, 2.79195>, 0.07412, <0.753191, 17.7447, 2>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -37563,20 +32083,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.465497, 18.9326, 2.48945>, 0.07412, <0.465497, 18.4431, 2.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.465497, 18.9326, 2.48945>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-0.753191, 18.5366, 1.51055>, 0.07412, <-0.465497, 18.9326, 2.48945>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -37589,11 +32099,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.94289e-16, 17.8024, 1.20805>, 0.07412, <-0.753191, 18.5366, 1.51055>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -37602,20 +32107,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.93099, 18.2919, 2>, 0.07412, <2.28769, 17.4065, 2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2.93099, 18.2919, 2>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2.28769, 19.1773, 2>, 0.07412, <2.93099, 18.2919, 2>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -37628,20 +32123,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.24681, 18.8391, 2>, 0.07412, <2.28769, 19.1773, 2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.24681, 18.8391, 2>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1.24681, 17.7447, 2>, 0.07412, <1.24681, 18.8391, 2>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -37654,11 +32139,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.28769, 17.4065, 2>, 0.07412, <1.24681, 17.7447, 2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -37667,20 +32147,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.75319, 18.8391, 2>, 0.07412, <2.4655, 18.1406, 1.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2.75319, 18.8391, 2>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2, 18.7813, 2.79195>, 0.07412, <2.75319, 18.8391, 2>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -37693,20 +32163,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.24681, 18.0472, 2.48945>, 0.07412, <2, 18.7813, 2.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.24681, 18.0472, 2.48945>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1.5345, 17.6512, 1.51055>, 0.07412, <1.24681, 18.0472, 2.48945>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -37719,11 +32179,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.4655, 18.1406, 1.20805>, 0.07412, <1.5345, 17.6512, 1.51055>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -37732,20 +32187,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.71231, 19.1773, 2>, 0.07412, <2.28769, 18.6879, 1.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.71231, 19.1773, 2>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1.5345, 18.4431, 2.79195>, 0.07412, <1.71231, 19.1773, 2>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -37758,20 +32203,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2, 17.4999, 2.48945>, 0.07412, <1.5345, 18.4431, 2.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2, 17.4999, 2.48945>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2.4655, 17.6512, 1.51055>, 0.07412, <2, 17.4999, 2.48945>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -37784,11 +32219,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.28769, 18.6879, 1.20805>, 0.07412, <2.4655, 17.6512, 1.51055>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -37797,20 +32227,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.06901, 18.2919, 2>, 0.07412, <1.71231, 18.6879, 1.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.06901, 18.2919, 2>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1.71231, 17.8959, 2.79195>, 0.07412, <1.06901, 18.2919, 2>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -37823,20 +32243,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.75319, 18.0472, 2.48945>, 0.07412, <1.71231, 17.8959, 2.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2.75319, 18.0472, 2.48945>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2.75319, 18.5366, 1.51055>, 0.07412, <2.75319, 18.0472, 2.48945>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -37849,11 +32259,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.71231, 18.6879, 1.20805>, 0.07412, <2.75319, 18.5366, 1.51055>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -37862,20 +32267,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.71231, 17.4065, 2>, 0.07412, <1.5345, 18.1406, 1.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.71231, 17.4065, 2>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2.28769, 17.8959, 2.79195>, 0.07412, <1.71231, 17.4065, 2>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -37888,20 +32283,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.4655, 18.9326, 2.48945>, 0.07412, <2.28769, 17.8959, 2.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2.4655, 18.9326, 2.48945>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2, 19.0838, 1.51055>, 0.07412, <2.4655, 18.9326, 2.48945>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -37914,11 +32299,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.5345, 18.1406, 1.20805>, 0.07412, <2, 19.0838, 1.51055>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -37927,20 +32307,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.75319, 17.7447, 2>, 0.07412, <2, 17.8024, 1.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2.75319, 17.7447, 2>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2.4655, 18.4431, 2.79195>, 0.07412, <2.75319, 17.7447, 2>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -37953,20 +32323,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.5345, 18.9326, 2.48945>, 0.07412, <2.4655, 18.4431, 2.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.5345, 18.9326, 2.48945>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1.24681, 18.5366, 1.51055>, 0.07412, <1.5345, 18.9326, 2.48945>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -37979,11 +32339,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2, 17.8024, 1.20805>, 0.07412, <1.24681, 18.5366, 1.51055>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -37992,20 +32347,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.93099, 18.2919, 2>, 0.07412, <4.28769, 17.4065, 2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.93099, 18.2919, 2>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4.28769, 19.1773, 2>, 0.07412, <4.93099, 18.2919, 2>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -38018,20 +32363,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.24681, 18.8391, 2>, 0.07412, <4.28769, 19.1773, 2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.24681, 18.8391, 2>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3.24681, 17.7447, 2>, 0.07412, <3.24681, 18.8391, 2>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -38044,11 +32379,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.28769, 17.4065, 2>, 0.07412, <3.24681, 17.7447, 2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -38057,20 +32387,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.75319, 18.8391, 2>, 0.07412, <4.4655, 18.1406, 1.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.75319, 18.8391, 2>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4, 18.7813, 2.79195>, 0.07412, <4.75319, 18.8391, 2>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -38083,20 +32403,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.24681, 18.0472, 2.48945>, 0.07412, <4, 18.7813, 2.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.24681, 18.0472, 2.48945>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3.5345, 17.6512, 1.51055>, 0.07412, <3.24681, 18.0472, 2.48945>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -38109,11 +32419,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.4655, 18.1406, 1.20805>, 0.07412, <3.5345, 17.6512, 1.51055>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -38122,20 +32427,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.71231, 19.1773, 2>, 0.07412, <4.28769, 18.6879, 1.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.71231, 19.1773, 2>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3.5345, 18.4431, 2.79195>, 0.07412, <3.71231, 19.1773, 2>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -38148,20 +32443,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4, 17.4999, 2.48945>, 0.07412, <3.5345, 18.4431, 2.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4, 17.4999, 2.48945>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4.4655, 17.6512, 1.51055>, 0.07412, <4, 17.4999, 2.48945>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -38174,11 +32459,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.28769, 18.6879, 1.20805>, 0.07412, <4.4655, 17.6512, 1.51055>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -38187,20 +32467,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.06901, 18.2919, 2>, 0.07412, <3.71231, 18.6879, 1.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.06901, 18.2919, 2>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3.71231, 17.8959, 2.79195>, 0.07412, <3.06901, 18.2919, 2>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -38213,20 +32483,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.75319, 18.0472, 2.48945>, 0.07412, <3.71231, 17.8959, 2.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.75319, 18.0472, 2.48945>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4.75319, 18.5366, 1.51055>, 0.07412, <4.75319, 18.0472, 2.48945>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -38239,11 +32499,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.71231, 18.6879, 1.20805>, 0.07412, <4.75319, 18.5366, 1.51055>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -38252,20 +32507,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.71231, 17.4065, 2>, 0.07412, <3.5345, 18.1406, 1.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.71231, 17.4065, 2>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4.28769, 17.8959, 2.79195>, 0.07412, <3.71231, 17.4065, 2>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -38278,20 +32523,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.4655, 18.9326, 2.48945>, 0.07412, <4.28769, 17.8959, 2.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.4655, 18.9326, 2.48945>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4, 19.0838, 1.51055>, 0.07412, <4.4655, 18.9326, 2.48945>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -38304,11 +32539,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.5345, 18.1406, 1.20805>, 0.07412, <4, 19.0838, 1.51055>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -38317,20 +32547,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.75319, 17.7447, 2>, 0.07412, <4, 17.8024, 1.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.75319, 17.7447, 2>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4.4655, 18.4431, 2.79195>, 0.07412, <4.75319, 17.7447, 2>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -38343,20 +32563,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.5345, 18.9326, 2.48945>, 0.07412, <4.4655, 18.4431, 2.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.5345, 18.9326, 2.48945>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3.24681, 18.5366, 1.51055>, 0.07412, <3.5345, 18.9326, 2.48945>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -38369,11 +32579,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4, 17.8024, 1.20805>, 0.07412, <3.24681, 18.5366, 1.51055>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -38382,20 +32587,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.93099, 18.2919, 2>, 0.07412, <6.28769, 17.4065, 2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6.93099, 18.2919, 2>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6.28769, 19.1773, 2>, 0.07412, <6.93099, 18.2919, 2>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -38408,20 +32603,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.24681, 18.8391, 2>, 0.07412, <6.28769, 19.1773, 2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.24681, 18.8391, 2>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<5.24681, 17.7447, 2>, 0.07412, <5.24681, 18.8391, 2>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -38434,11 +32619,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.28769, 17.4065, 2>, 0.07412, <5.24681, 17.7447, 2>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -38447,20 +32627,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.75319, 18.8391, 2>, 0.07412, <6.4655, 18.1406, 1.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6.75319, 18.8391, 2>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6, 18.7813, 2.79195>, 0.07412, <6.75319, 18.8391, 2>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -38473,20 +32643,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.24681, 18.0472, 2.48945>, 0.07412, <6, 18.7813, 2.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.24681, 18.0472, 2.48945>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<5.5345, 17.6512, 1.51055>, 0.07412, <5.24681, 18.0472, 2.48945>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -38499,11 +32659,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.4655, 18.1406, 1.20805>, 0.07412, <5.5345, 17.6512, 1.51055>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -38512,20 +32667,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.71231, 19.1773, 2>, 0.07412, <6.28769, 18.6879, 1.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.71231, 19.1773, 2>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<5.5345, 18.4431, 2.79195>, 0.07412, <5.71231, 19.1773, 2>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -38538,20 +32683,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6, 17.4999, 2.48945>, 0.07412, <5.5345, 18.4431, 2.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6, 17.4999, 2.48945>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6.4655, 17.6512, 1.51055>, 0.07412, <6, 17.4999, 2.48945>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -38564,11 +32699,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.28769, 18.6879, 1.20805>, 0.07412, <6.4655, 17.6512, 1.51055>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -38577,20 +32707,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.06901, 18.2919, 2>, 0.07412, <5.71231, 18.6879, 1.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.06901, 18.2919, 2>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<5.71231, 17.8959, 2.79195>, 0.07412, <5.06901, 18.2919, 2>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -38603,20 +32723,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.75319, 18.0472, 2.48945>, 0.07412, <5.71231, 17.8959, 2.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6.75319, 18.0472, 2.48945>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6.75319, 18.5366, 1.51055>, 0.07412, <6.75319, 18.0472, 2.48945>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -38629,11 +32739,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.71231, 18.6879, 1.20805>, 0.07412, <6.75319, 18.5366, 1.51055>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -38642,20 +32747,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.71231, 17.4065, 2>, 0.07412, <5.5345, 18.1406, 1.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.71231, 17.4065, 2>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6.28769, 17.8959, 2.79195>, 0.07412, <5.71231, 17.4065, 2>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -38668,20 +32763,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.4655, 18.9326, 2.48945>, 0.07412, <6.28769, 17.8959, 2.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6.4655, 18.9326, 2.48945>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6, 19.0838, 1.51055>, 0.07412, <6.4655, 18.9326, 2.48945>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -38694,11 +32779,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.5345, 18.1406, 1.20805>, 0.07412, <6, 19.0838, 1.51055>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -38707,20 +32787,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.75319, 17.7447, 2>, 0.07412, <6, 17.8024, 1.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6.75319, 17.7447, 2>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6.4655, 18.4431, 2.79195>, 0.07412, <6.75319, 17.7447, 2>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -38733,20 +32803,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.5345, 18.9326, 2.48945>, 0.07412, <6.4655, 18.4431, 2.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.5345, 18.9326, 2.48945>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<5.24681, 18.5366, 1.51055>, 0.07412, <5.5345, 18.9326, 2.48945>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -38759,11 +32819,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6, 17.8024, 1.20805>, 0.07412, <5.24681, 18.5366, 1.51055>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -38772,20 +32827,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.06901, 18.2919, 4>, 0.07412, <-5.71231, 17.4065, 4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-5.06901, 18.2919, 4>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-5.71231, 19.1773, 4>, 0.07412, <-5.06901, 18.2919, 4>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -38798,20 +32843,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.75319, 18.8391, 4>, 0.07412, <-5.71231, 19.1773, 4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.75319, 18.8391, 4>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6.75319, 17.7447, 4>, 0.07412, <-6.75319, 18.8391, 4>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -38824,11 +32859,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.71231, 17.4065, 4>, 0.07412, <-6.75319, 17.7447, 4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -38837,20 +32867,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.24681, 18.8391, 4>, 0.07412, <-5.5345, 18.1406, 3.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-5.24681, 18.8391, 4>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6, 18.7813, 4.79195>, 0.07412, <-5.24681, 18.8391, 4>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -38863,20 +32883,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.75319, 18.0472, 4.48945>, 0.07412, <-6, 18.7813, 4.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.75319, 18.0472, 4.48945>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6.4655, 17.6512, 3.51055>, 0.07412, <-6.75319, 18.0472, 4.48945>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -38889,11 +32899,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.5345, 18.1406, 3.20805>, 0.07412, <-6.4655, 17.6512, 3.51055>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -38902,20 +32907,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.28769, 19.1773, 4>, 0.07412, <-5.71231, 18.6879, 3.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.28769, 19.1773, 4>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6.4655, 18.4431, 4.79195>, 0.07412, <-6.28769, 19.1773, 4>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -38928,20 +32923,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6, 17.4999, 4.48945>, 0.07412, <-6.4655, 18.4431, 4.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6, 17.4999, 4.48945>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-5.5345, 17.6512, 3.51055>, 0.07412, <-6, 17.4999, 4.48945>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -38954,11 +32939,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.71231, 18.6879, 3.20805>, 0.07412, <-5.5345, 17.6512, 3.51055>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -38967,20 +32947,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.93099, 18.2919, 4>, 0.07412, <-6.28769, 18.6879, 3.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.93099, 18.2919, 4>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6.28769, 17.8959, 4.79195>, 0.07412, <-6.93099, 18.2919, 4>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -38993,20 +32963,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.24681, 18.0472, 4.48945>, 0.07412, <-6.28769, 17.8959, 4.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-5.24681, 18.0472, 4.48945>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-5.24681, 18.5366, 3.51055>, 0.07412, <-5.24681, 18.0472, 4.48945>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -39019,11 +32979,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.28769, 18.6879, 3.20805>, 0.07412, <-5.24681, 18.5366, 3.51055>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -39032,20 +32987,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.28769, 17.4065, 4>, 0.07412, <-6.4655, 18.1406, 3.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.28769, 17.4065, 4>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-5.71231, 17.8959, 4.79195>, 0.07412, <-6.28769, 17.4065, 4>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -39058,20 +33003,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.5345, 18.9326, 4.48945>, 0.07412, <-5.71231, 17.8959, 4.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-5.5345, 18.9326, 4.48945>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6, 19.0838, 3.51055>, 0.07412, <-5.5345, 18.9326, 4.48945>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -39084,11 +33019,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.4655, 18.1406, 3.20805>, 0.07412, <-6, 19.0838, 3.51055>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -39097,20 +33027,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.24681, 17.7447, 4>, 0.07412, <-6, 17.8024, 3.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-5.24681, 17.7447, 4>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-5.5345, 18.4431, 4.79195>, 0.07412, <-5.24681, 17.7447, 4>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -39123,20 +33043,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.4655, 18.9326, 4.48945>, 0.07412, <-5.5345, 18.4431, 4.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.4655, 18.9326, 4.48945>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6.75319, 18.5366, 3.51055>, 0.07412, <-6.4655, 18.9326, 4.48945>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -39149,11 +33059,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6, 17.8024, 3.20805>, 0.07412, <-6.75319, 18.5366, 3.51055>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -39162,20 +33067,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.06901, 18.2919, 4>, 0.07412, <-3.71231, 17.4065, 4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-3.06901, 18.2919, 4>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-3.71231, 19.1773, 4>, 0.07412, <-3.06901, 18.2919, 4>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -39188,20 +33083,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.75319, 18.8391, 4>, 0.07412, <-3.71231, 19.1773, 4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.75319, 18.8391, 4>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4.75319, 17.7447, 4>, 0.07412, <-4.75319, 18.8391, 4>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -39214,11 +33099,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.71231, 17.4065, 4>, 0.07412, <-4.75319, 17.7447, 4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -39227,20 +33107,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.24681, 18.8391, 4>, 0.07412, <-3.5345, 18.1406, 3.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-3.24681, 18.8391, 4>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4, 18.7813, 4.79195>, 0.07412, <-3.24681, 18.8391, 4>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -39253,20 +33123,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.75319, 18.0472, 4.48945>, 0.07412, <-4, 18.7813, 4.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.75319, 18.0472, 4.48945>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4.4655, 17.6512, 3.51055>, 0.07412, <-4.75319, 18.0472, 4.48945>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -39279,11 +33139,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.5345, 18.1406, 3.20805>, 0.07412, <-4.4655, 17.6512, 3.51055>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -39292,20 +33147,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.28769, 19.1773, 4>, 0.07412, <-3.71231, 18.6879, 3.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.28769, 19.1773, 4>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4.4655, 18.4431, 4.79195>, 0.07412, <-4.28769, 19.1773, 4>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -39318,20 +33163,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4, 17.4999, 4.48945>, 0.07412, <-4.4655, 18.4431, 4.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4, 17.4999, 4.48945>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-3.5345, 17.6512, 3.51055>, 0.07412, <-4, 17.4999, 4.48945>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -39344,11 +33179,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.71231, 18.6879, 3.20805>, 0.07412, <-3.5345, 17.6512, 3.51055>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -39357,20 +33187,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.93099, 18.2919, 4>, 0.07412, <-4.28769, 18.6879, 3.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.93099, 18.2919, 4>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4.28769, 17.8959, 4.79195>, 0.07412, <-4.93099, 18.2919, 4>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -39383,20 +33203,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.24681, 18.0472, 4.48945>, 0.07412, <-4.28769, 17.8959, 4.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-3.24681, 18.0472, 4.48945>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-3.24681, 18.5366, 3.51055>, 0.07412, <-3.24681, 18.0472, 4.48945>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -39409,11 +33219,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.28769, 18.6879, 3.20805>, 0.07412, <-3.24681, 18.5366, 3.51055>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -39422,20 +33227,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.28769, 17.4065, 4>, 0.07412, <-4.4655, 18.1406, 3.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.28769, 17.4065, 4>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-3.71231, 17.8959, 4.79195>, 0.07412, <-4.28769, 17.4065, 4>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -39448,20 +33243,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.5345, 18.9326, 4.48945>, 0.07412, <-3.71231, 17.8959, 4.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-3.5345, 18.9326, 4.48945>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4, 19.0838, 3.51055>, 0.07412, <-3.5345, 18.9326, 4.48945>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -39474,11 +33259,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.4655, 18.1406, 3.20805>, 0.07412, <-4, 19.0838, 3.51055>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -39487,20 +33267,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.24681, 17.7447, 4>, 0.07412, <-4, 17.8024, 3.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-3.24681, 17.7447, 4>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-3.5345, 18.4431, 4.79195>, 0.07412, <-3.24681, 17.7447, 4>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -39513,20 +33283,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.4655, 18.9326, 4.48945>, 0.07412, <-3.5345, 18.4431, 4.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.4655, 18.9326, 4.48945>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4.75319, 18.5366, 3.51055>, 0.07412, <-4.4655, 18.9326, 4.48945>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -39539,11 +33299,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4, 17.8024, 3.20805>, 0.07412, <-4.75319, 18.5366, 3.51055>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -39552,20 +33307,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.06901, 18.2919, 4>, 0.07412, <-1.71231, 17.4065, 4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.06901, 18.2919, 4>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.71231, 19.1773, 4>, 0.07412, <-1.06901, 18.2919, 4>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -39578,20 +33323,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.75319, 18.8391, 4>, 0.07412, <-1.71231, 19.1773, 4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.75319, 18.8391, 4>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2.75319, 17.7447, 4>, 0.07412, <-2.75319, 18.8391, 4>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -39604,11 +33339,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.71231, 17.4065, 4>, 0.07412, <-2.75319, 17.7447, 4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -39617,20 +33347,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.24681, 18.8391, 4>, 0.07412, <-1.5345, 18.1406, 3.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.24681, 18.8391, 4>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2, 18.7813, 4.79195>, 0.07412, <-1.24681, 18.8391, 4>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -39643,20 +33363,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.75319, 18.0472, 4.48945>, 0.07412, <-2, 18.7813, 4.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.75319, 18.0472, 4.48945>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2.4655, 17.6512, 3.51055>, 0.07412, <-2.75319, 18.0472, 4.48945>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -39669,11 +33379,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.5345, 18.1406, 3.20805>, 0.07412, <-2.4655, 17.6512, 3.51055>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -39682,20 +33387,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.28769, 19.1773, 4>, 0.07412, <-1.71231, 18.6879, 3.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.28769, 19.1773, 4>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2.4655, 18.4431, 4.79195>, 0.07412, <-2.28769, 19.1773, 4>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -39708,20 +33403,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2, 17.4999, 4.48945>, 0.07412, <-2.4655, 18.4431, 4.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2, 17.4999, 4.48945>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.5345, 17.6512, 3.51055>, 0.07412, <-2, 17.4999, 4.48945>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -39734,11 +33419,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.71231, 18.6879, 3.20805>, 0.07412, <-1.5345, 17.6512, 3.51055>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -39747,20 +33427,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.93099, 18.2919, 4>, 0.07412, <-2.28769, 18.6879, 3.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.93099, 18.2919, 4>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2.28769, 17.8959, 4.79195>, 0.07412, <-2.93099, 18.2919, 4>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -39773,20 +33443,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.24681, 18.0472, 4.48945>, 0.07412, <-2.28769, 17.8959, 4.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.24681, 18.0472, 4.48945>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.24681, 18.5366, 3.51055>, 0.07412, <-1.24681, 18.0472, 4.48945>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -39799,11 +33459,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.28769, 18.6879, 3.20805>, 0.07412, <-1.24681, 18.5366, 3.51055>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -39812,20 +33467,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.28769, 17.4065, 4>, 0.07412, <-2.4655, 18.1406, 3.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.28769, 17.4065, 4>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.71231, 17.8959, 4.79195>, 0.07412, <-2.28769, 17.4065, 4>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -39838,20 +33483,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.5345, 18.9326, 4.48945>, 0.07412, <-1.71231, 17.8959, 4.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.5345, 18.9326, 4.48945>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2, 19.0838, 3.51055>, 0.07412, <-1.5345, 18.9326, 4.48945>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -39864,11 +33499,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.4655, 18.1406, 3.20805>, 0.07412, <-2, 19.0838, 3.51055>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -39877,20 +33507,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.24681, 17.7447, 4>, 0.07412, <-2, 17.8024, 3.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.24681, 17.7447, 4>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.5345, 18.4431, 4.79195>, 0.07412, <-1.24681, 17.7447, 4>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -39903,20 +33523,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.4655, 18.9326, 4.48945>, 0.07412, <-1.5345, 18.4431, 4.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.4655, 18.9326, 4.48945>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2.75319, 18.5366, 3.51055>, 0.07412, <-2.4655, 18.9326, 4.48945>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -39929,11 +33539,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2, 17.8024, 3.20805>, 0.07412, <-2.75319, 18.5366, 3.51055>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -39942,20 +33547,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.930995, 18.2919, 4>, 0.07412, <0.287693, 17.4065, 4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <0.930995, 18.2919, 4>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<0.287693, 19.1773, 4>, 0.07412, <0.930995, 18.2919, 4>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -39968,20 +33563,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.753191, 18.8391, 4>, 0.07412, <0.287693, 19.1773, 4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.753191, 18.8391, 4>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-0.753191, 17.7447, 4>, 0.07412, <-0.753191, 18.8391, 4>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -39994,11 +33579,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.287693, 17.4065, 4>, 0.07412, <-0.753191, 17.7447, 4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -40007,20 +33587,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.753191, 18.8391, 4>, 0.07412, <0.465497, 18.1406, 3.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <0.753191, 18.8391, 4>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.94289e-16, 18.7813, 4.79195>, 0.07412, <0.753191, 18.8391, 4>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -40033,20 +33603,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.753191, 18.0472, 4.48945>, 0.07412, <-1.94289e-16, 18.7813, 4.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.753191, 18.0472, 4.48945>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-0.465497, 17.6512, 3.51055>, 0.07412, <-0.753191, 18.0472, 4.48945>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -40059,11 +33619,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.465497, 18.1406, 3.20805>, 0.07412, <-0.465497, 17.6512, 3.51055>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -40072,20 +33627,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.287693, 19.1773, 4>, 0.07412, <0.287693, 18.6879, 3.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.287693, 19.1773, 4>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-0.465497, 18.4431, 4.79195>, 0.07412, <-0.287693, 19.1773, 4>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -40098,20 +33643,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.66533e-16, 17.4999, 4.48945>, 0.07412, <-0.465497, 18.4431, 4.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.66533e-16, 17.4999, 4.48945>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<0.465497, 17.6512, 3.51055>, 0.07412, <-1.66533e-16, 17.4999, 4.48945>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -40124,11 +33659,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.287693, 18.6879, 3.20805>, 0.07412, <0.465497, 17.6512, 3.51055>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -40137,20 +33667,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.930995, 18.2919, 4>, 0.07412, <-0.287693, 18.6879, 3.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.930995, 18.2919, 4>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-0.287693, 17.8959, 4.79195>, 0.07412, <-0.930995, 18.2919, 4>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -40163,20 +33683,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.753191, 18.0472, 4.48945>, 0.07412, <-0.287693, 17.8959, 4.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <0.753191, 18.0472, 4.48945>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<0.753191, 18.5366, 3.51055>, 0.07412, <0.753191, 18.0472, 4.48945>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -40189,11 +33699,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.287693, 18.6879, 3.20805>, 0.07412, <0.753191, 18.5366, 3.51055>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -40202,20 +33707,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.287693, 17.4065, 4>, 0.07412, <-0.465497, 18.1406, 3.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.287693, 17.4065, 4>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<0.287693, 17.8959, 4.79195>, 0.07412, <-0.287693, 17.4065, 4>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -40228,20 +33723,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.465497, 18.9326, 4.48945>, 0.07412, <0.287693, 17.8959, 4.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <0.465497, 18.9326, 4.48945>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.66533e-16, 19.0838, 3.51055>, 0.07412, <0.465497, 18.9326, 4.48945>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -40254,11 +33739,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.465497, 18.1406, 3.20805>, 0.07412, <-1.66533e-16, 19.0838, 3.51055>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -40267,20 +33747,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.753191, 17.7447, 4>, 0.07412, <-1.94289e-16, 17.8024, 3.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <0.753191, 17.7447, 4>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<0.465497, 18.4431, 4.79195>, 0.07412, <0.753191, 17.7447, 4>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -40293,20 +33763,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.465497, 18.9326, 4.48945>, 0.07412, <0.465497, 18.4431, 4.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.465497, 18.9326, 4.48945>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-0.753191, 18.5366, 3.51055>, 0.07412, <-0.465497, 18.9326, 4.48945>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -40319,11 +33779,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.94289e-16, 17.8024, 3.20805>, 0.07412, <-0.753191, 18.5366, 3.51055>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -40332,20 +33787,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.93099, 18.2919, 4>, 0.07412, <2.28769, 17.4065, 4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2.93099, 18.2919, 4>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2.28769, 19.1773, 4>, 0.07412, <2.93099, 18.2919, 4>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -40358,20 +33803,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.24681, 18.8391, 4>, 0.07412, <2.28769, 19.1773, 4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.24681, 18.8391, 4>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1.24681, 17.7447, 4>, 0.07412, <1.24681, 18.8391, 4>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -40384,11 +33819,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.28769, 17.4065, 4>, 0.07412, <1.24681, 17.7447, 4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -40397,20 +33827,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.75319, 18.8391, 4>, 0.07412, <2.4655, 18.1406, 3.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2.75319, 18.8391, 4>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2, 18.7813, 4.79195>, 0.07412, <2.75319, 18.8391, 4>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -40423,20 +33843,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.24681, 18.0472, 4.48945>, 0.07412, <2, 18.7813, 4.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.24681, 18.0472, 4.48945>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1.5345, 17.6512, 3.51055>, 0.07412, <1.24681, 18.0472, 4.48945>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -40449,11 +33859,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.4655, 18.1406, 3.20805>, 0.07412, <1.5345, 17.6512, 3.51055>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -40462,20 +33867,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.71231, 19.1773, 4>, 0.07412, <2.28769, 18.6879, 3.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.71231, 19.1773, 4>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1.5345, 18.4431, 4.79195>, 0.07412, <1.71231, 19.1773, 4>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -40488,20 +33883,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2, 17.4999, 4.48945>, 0.07412, <1.5345, 18.4431, 4.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2, 17.4999, 4.48945>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2.4655, 17.6512, 3.51055>, 0.07412, <2, 17.4999, 4.48945>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -40514,11 +33899,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.28769, 18.6879, 3.20805>, 0.07412, <2.4655, 17.6512, 3.51055>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -40527,20 +33907,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.06901, 18.2919, 4>, 0.07412, <1.71231, 18.6879, 3.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.06901, 18.2919, 4>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1.71231, 17.8959, 4.79195>, 0.07412, <1.06901, 18.2919, 4>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -40553,20 +33923,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.75319, 18.0472, 4.48945>, 0.07412, <1.71231, 17.8959, 4.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2.75319, 18.0472, 4.48945>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2.75319, 18.5366, 3.51055>, 0.07412, <2.75319, 18.0472, 4.48945>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -40579,11 +33939,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.71231, 18.6879, 3.20805>, 0.07412, <2.75319, 18.5366, 3.51055>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -40592,20 +33947,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.71231, 17.4065, 4>, 0.07412, <1.5345, 18.1406, 3.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.71231, 17.4065, 4>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2.28769, 17.8959, 4.79195>, 0.07412, <1.71231, 17.4065, 4>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -40618,20 +33963,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.4655, 18.9326, 4.48945>, 0.07412, <2.28769, 17.8959, 4.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2.4655, 18.9326, 4.48945>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2, 19.0838, 3.51055>, 0.07412, <2.4655, 18.9326, 4.48945>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -40644,11 +33979,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.5345, 18.1406, 3.20805>, 0.07412, <2, 19.0838, 3.51055>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -40657,20 +33987,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.75319, 17.7447, 4>, 0.07412, <2, 17.8024, 3.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2.75319, 17.7447, 4>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2.4655, 18.4431, 4.79195>, 0.07412, <2.75319, 17.7447, 4>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -40683,20 +34003,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.5345, 18.9326, 4.48945>, 0.07412, <2.4655, 18.4431, 4.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.5345, 18.9326, 4.48945>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1.24681, 18.5366, 3.51055>, 0.07412, <1.5345, 18.9326, 4.48945>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -40709,11 +34019,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2, 17.8024, 3.20805>, 0.07412, <1.24681, 18.5366, 3.51055>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -40722,20 +34027,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.93099, 18.2919, 4>, 0.07412, <4.28769, 17.4065, 4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.93099, 18.2919, 4>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4.28769, 19.1773, 4>, 0.07412, <4.93099, 18.2919, 4>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -40748,20 +34043,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.24681, 18.8391, 4>, 0.07412, <4.28769, 19.1773, 4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.24681, 18.8391, 4>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3.24681, 17.7447, 4>, 0.07412, <3.24681, 18.8391, 4>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -40774,11 +34059,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.28769, 17.4065, 4>, 0.07412, <3.24681, 17.7447, 4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -40787,20 +34067,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.75319, 18.8391, 4>, 0.07412, <4.4655, 18.1406, 3.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.75319, 18.8391, 4>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4, 18.7813, 4.79195>, 0.07412, <4.75319, 18.8391, 4>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -40813,20 +34083,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.24681, 18.0472, 4.48945>, 0.07412, <4, 18.7813, 4.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.24681, 18.0472, 4.48945>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3.5345, 17.6512, 3.51055>, 0.07412, <3.24681, 18.0472, 4.48945>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -40839,11 +34099,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.4655, 18.1406, 3.20805>, 0.07412, <3.5345, 17.6512, 3.51055>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -40852,20 +34107,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.71231, 19.1773, 4>, 0.07412, <4.28769, 18.6879, 3.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.71231, 19.1773, 4>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3.5345, 18.4431, 4.79195>, 0.07412, <3.71231, 19.1773, 4>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -40878,20 +34123,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4, 17.4999, 4.48945>, 0.07412, <3.5345, 18.4431, 4.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4, 17.4999, 4.48945>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4.4655, 17.6512, 3.51055>, 0.07412, <4, 17.4999, 4.48945>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -40904,11 +34139,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.28769, 18.6879, 3.20805>, 0.07412, <4.4655, 17.6512, 3.51055>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -40917,20 +34147,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.06901, 18.2919, 4>, 0.07412, <3.71231, 18.6879, 3.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.06901, 18.2919, 4>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3.71231, 17.8959, 4.79195>, 0.07412, <3.06901, 18.2919, 4>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -40943,20 +34163,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.75319, 18.0472, 4.48945>, 0.07412, <3.71231, 17.8959, 4.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.75319, 18.0472, 4.48945>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4.75319, 18.5366, 3.51055>, 0.07412, <4.75319, 18.0472, 4.48945>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -40969,11 +34179,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.71231, 18.6879, 3.20805>, 0.07412, <4.75319, 18.5366, 3.51055>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -40982,20 +34187,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.71231, 17.4065, 4>, 0.07412, <3.5345, 18.1406, 3.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.71231, 17.4065, 4>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4.28769, 17.8959, 4.79195>, 0.07412, <3.71231, 17.4065, 4>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -41008,20 +34203,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.4655, 18.9326, 4.48945>, 0.07412, <4.28769, 17.8959, 4.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.4655, 18.9326, 4.48945>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4, 19.0838, 3.51055>, 0.07412, <4.4655, 18.9326, 4.48945>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -41034,11 +34219,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.5345, 18.1406, 3.20805>, 0.07412, <4, 19.0838, 3.51055>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -41047,20 +34227,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.75319, 17.7447, 4>, 0.07412, <4, 17.8024, 3.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.75319, 17.7447, 4>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4.4655, 18.4431, 4.79195>, 0.07412, <4.75319, 17.7447, 4>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -41073,20 +34243,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.5345, 18.9326, 4.48945>, 0.07412, <4.4655, 18.4431, 4.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.5345, 18.9326, 4.48945>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3.24681, 18.5366, 3.51055>, 0.07412, <3.5345, 18.9326, 4.48945>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -41099,11 +34259,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4, 17.8024, 3.20805>, 0.07412, <3.24681, 18.5366, 3.51055>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -41112,20 +34267,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.93099, 18.2919, 4>, 0.07412, <6.28769, 17.4065, 4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6.93099, 18.2919, 4>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6.28769, 19.1773, 4>, 0.07412, <6.93099, 18.2919, 4>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -41138,20 +34283,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.24681, 18.8391, 4>, 0.07412, <6.28769, 19.1773, 4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.24681, 18.8391, 4>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<5.24681, 17.7447, 4>, 0.07412, <5.24681, 18.8391, 4>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -41164,11 +34299,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.28769, 17.4065, 4>, 0.07412, <5.24681, 17.7447, 4>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -41177,20 +34307,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.75319, 18.8391, 4>, 0.07412, <6.4655, 18.1406, 3.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6.75319, 18.8391, 4>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6, 18.7813, 4.79195>, 0.07412, <6.75319, 18.8391, 4>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -41203,20 +34323,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.24681, 18.0472, 4.48945>, 0.07412, <6, 18.7813, 4.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.24681, 18.0472, 4.48945>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<5.5345, 17.6512, 3.51055>, 0.07412, <5.24681, 18.0472, 4.48945>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -41229,11 +34339,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.4655, 18.1406, 3.20805>, 0.07412, <5.5345, 17.6512, 3.51055>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -41242,20 +34347,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.71231, 19.1773, 4>, 0.07412, <6.28769, 18.6879, 3.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.71231, 19.1773, 4>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<5.5345, 18.4431, 4.79195>, 0.07412, <5.71231, 19.1773, 4>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -41268,20 +34363,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6, 17.4999, 4.48945>, 0.07412, <5.5345, 18.4431, 4.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6, 17.4999, 4.48945>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6.4655, 17.6512, 3.51055>, 0.07412, <6, 17.4999, 4.48945>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -41294,11 +34379,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.28769, 18.6879, 3.20805>, 0.07412, <6.4655, 17.6512, 3.51055>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -41307,20 +34387,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.06901, 18.2919, 4>, 0.07412, <5.71231, 18.6879, 3.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.06901, 18.2919, 4>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<5.71231, 17.8959, 4.79195>, 0.07412, <5.06901, 18.2919, 4>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -41333,20 +34403,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.75319, 18.0472, 4.48945>, 0.07412, <5.71231, 17.8959, 4.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6.75319, 18.0472, 4.48945>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6.75319, 18.5366, 3.51055>, 0.07412, <6.75319, 18.0472, 4.48945>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -41359,11 +34419,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.71231, 18.6879, 3.20805>, 0.07412, <6.75319, 18.5366, 3.51055>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -41372,20 +34427,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.71231, 17.4065, 4>, 0.07412, <5.5345, 18.1406, 3.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.71231, 17.4065, 4>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6.28769, 17.8959, 4.79195>, 0.07412, <5.71231, 17.4065, 4>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -41398,20 +34443,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.4655, 18.9326, 4.48945>, 0.07412, <6.28769, 17.8959, 4.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6.4655, 18.9326, 4.48945>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6, 19.0838, 3.51055>, 0.07412, <6.4655, 18.9326, 4.48945>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -41424,11 +34459,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.5345, 18.1406, 3.20805>, 0.07412, <6, 19.0838, 3.51055>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -41437,20 +34467,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.75319, 17.7447, 4>, 0.07412, <6, 17.8024, 3.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6.75319, 17.7447, 4>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6.4655, 18.4431, 4.79195>, 0.07412, <6.75319, 17.7447, 4>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -41463,20 +34483,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.5345, 18.9326, 4.48945>, 0.07412, <6.4655, 18.4431, 4.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.5345, 18.9326, 4.48945>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<5.24681, 18.5366, 3.51055>, 0.07412, <5.5345, 18.9326, 4.48945>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -41489,11 +34499,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6, 17.8024, 3.20805>, 0.07412, <5.24681, 18.5366, 3.51055>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -41502,20 +34507,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.06901, 18.2919, 6>, 0.07412, <-5.71231, 17.4065, 6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-5.06901, 18.2919, 6>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-5.71231, 19.1773, 6>, 0.07412, <-5.06901, 18.2919, 6>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -41528,20 +34523,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.75319, 18.8391, 6>, 0.07412, <-5.71231, 19.1773, 6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.75319, 18.8391, 6>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6.75319, 17.7447, 6>, 0.07412, <-6.75319, 18.8391, 6>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -41554,11 +34539,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.71231, 17.4065, 6>, 0.07412, <-6.75319, 17.7447, 6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -41567,20 +34547,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.24681, 18.8391, 6>, 0.07412, <-5.5345, 18.1406, 5.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-5.24681, 18.8391, 6>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6, 18.7813, 6.79195>, 0.07412, <-5.24681, 18.8391, 6>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -41593,20 +34563,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.75319, 18.0472, 6.48945>, 0.07412, <-6, 18.7813, 6.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.75319, 18.0472, 6.48945>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6.4655, 17.6512, 5.51055>, 0.07412, <-6.75319, 18.0472, 6.48945>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -41619,11 +34579,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.5345, 18.1406, 5.20805>, 0.07412, <-6.4655, 17.6512, 5.51055>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -41632,20 +34587,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.28769, 19.1773, 6>, 0.07412, <-5.71231, 18.6879, 5.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.28769, 19.1773, 6>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6.4655, 18.4431, 6.79195>, 0.07412, <-6.28769, 19.1773, 6>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -41658,20 +34603,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6, 17.4999, 6.48945>, 0.07412, <-6.4655, 18.4431, 6.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6, 17.4999, 6.48945>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-5.5345, 17.6512, 5.51055>, 0.07412, <-6, 17.4999, 6.48945>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -41684,11 +34619,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.71231, 18.6879, 5.20805>, 0.07412, <-5.5345, 17.6512, 5.51055>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -41697,20 +34627,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.93099, 18.2919, 6>, 0.07412, <-6.28769, 18.6879, 5.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.93099, 18.2919, 6>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6.28769, 17.8959, 6.79195>, 0.07412, <-6.93099, 18.2919, 6>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -41723,20 +34643,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.24681, 18.0472, 6.48945>, 0.07412, <-6.28769, 17.8959, 6.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-5.24681, 18.0472, 6.48945>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-5.24681, 18.5366, 5.51055>, 0.07412, <-5.24681, 18.0472, 6.48945>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -41749,11 +34659,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.28769, 18.6879, 5.20805>, 0.07412, <-5.24681, 18.5366, 5.51055>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -41762,20 +34667,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.28769, 17.4065, 6>, 0.07412, <-6.4655, 18.1406, 5.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.28769, 17.4065, 6>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-5.71231, 17.8959, 6.79195>, 0.07412, <-6.28769, 17.4065, 6>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -41788,20 +34683,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.5345, 18.9326, 6.48945>, 0.07412, <-5.71231, 17.8959, 6.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-5.5345, 18.9326, 6.48945>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6, 19.0838, 5.51055>, 0.07412, <-5.5345, 18.9326, 6.48945>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -41814,11 +34699,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.4655, 18.1406, 5.20805>, 0.07412, <-6, 19.0838, 5.51055>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -41827,20 +34707,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-5.24681, 17.7447, 6>, 0.07412, <-6, 17.8024, 5.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-5.24681, 17.7447, 6>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-5.5345, 18.4431, 6.79195>, 0.07412, <-5.24681, 17.7447, 6>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -41853,20 +34723,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6.4655, 18.9326, 6.48945>, 0.07412, <-5.5345, 18.4431, 6.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-6.4655, 18.9326, 6.48945>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-6.75319, 18.5366, 5.51055>, 0.07412, <-6.4655, 18.9326, 6.48945>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -41879,11 +34739,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-6, 17.8024, 5.20805>, 0.07412, <-6.75319, 18.5366, 5.51055>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -41892,20 +34747,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.06901, 18.2919, 6>, 0.07412, <-3.71231, 17.4065, 6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-3.06901, 18.2919, 6>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-3.71231, 19.1773, 6>, 0.07412, <-3.06901, 18.2919, 6>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -41918,20 +34763,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.75319, 18.8391, 6>, 0.07412, <-3.71231, 19.1773, 6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.75319, 18.8391, 6>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4.75319, 17.7447, 6>, 0.07412, <-4.75319, 18.8391, 6>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -41944,11 +34779,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.71231, 17.4065, 6>, 0.07412, <-4.75319, 17.7447, 6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -41957,20 +34787,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.24681, 18.8391, 6>, 0.07412, <-3.5345, 18.1406, 5.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-3.24681, 18.8391, 6>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4, 18.7813, 6.79195>, 0.07412, <-3.24681, 18.8391, 6>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -41983,20 +34803,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.75319, 18.0472, 6.48945>, 0.07412, <-4, 18.7813, 6.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.75319, 18.0472, 6.48945>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4.4655, 17.6512, 5.51055>, 0.07412, <-4.75319, 18.0472, 6.48945>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -42009,11 +34819,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.5345, 18.1406, 5.20805>, 0.07412, <-4.4655, 17.6512, 5.51055>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -42022,20 +34827,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.28769, 19.1773, 6>, 0.07412, <-3.71231, 18.6879, 5.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.28769, 19.1773, 6>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4.4655, 18.4431, 6.79195>, 0.07412, <-4.28769, 19.1773, 6>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -42048,20 +34843,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4, 17.4999, 6.48945>, 0.07412, <-4.4655, 18.4431, 6.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4, 17.4999, 6.48945>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-3.5345, 17.6512, 5.51055>, 0.07412, <-4, 17.4999, 6.48945>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -42074,11 +34859,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.71231, 18.6879, 5.20805>, 0.07412, <-3.5345, 17.6512, 5.51055>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -42087,20 +34867,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.93099, 18.2919, 6>, 0.07412, <-4.28769, 18.6879, 5.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.93099, 18.2919, 6>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4.28769, 17.8959, 6.79195>, 0.07412, <-4.93099, 18.2919, 6>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -42113,20 +34883,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.24681, 18.0472, 6.48945>, 0.07412, <-4.28769, 17.8959, 6.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-3.24681, 18.0472, 6.48945>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-3.24681, 18.5366, 5.51055>, 0.07412, <-3.24681, 18.0472, 6.48945>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -42139,11 +34899,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.28769, 18.6879, 5.20805>, 0.07412, <-3.24681, 18.5366, 5.51055>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -42152,20 +34907,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.28769, 17.4065, 6>, 0.07412, <-4.4655, 18.1406, 5.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.28769, 17.4065, 6>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-3.71231, 17.8959, 6.79195>, 0.07412, <-4.28769, 17.4065, 6>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -42178,20 +34923,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.5345, 18.9326, 6.48945>, 0.07412, <-3.71231, 17.8959, 6.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-3.5345, 18.9326, 6.48945>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4, 19.0838, 5.51055>, 0.07412, <-3.5345, 18.9326, 6.48945>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -42204,11 +34939,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.4655, 18.1406, 5.20805>, 0.07412, <-4, 19.0838, 5.51055>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -42217,20 +34947,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-3.24681, 17.7447, 6>, 0.07412, <-4, 17.8024, 5.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-3.24681, 17.7447, 6>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-3.5345, 18.4431, 6.79195>, 0.07412, <-3.24681, 17.7447, 6>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -42243,20 +34963,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4.4655, 18.9326, 6.48945>, 0.07412, <-3.5345, 18.4431, 6.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-4.4655, 18.9326, 6.48945>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-4.75319, 18.5366, 5.51055>, 0.07412, <-4.4655, 18.9326, 6.48945>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -42269,11 +34979,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-4, 17.8024, 5.20805>, 0.07412, <-4.75319, 18.5366, 5.51055>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -42282,20 +34987,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.06901, 18.2919, 6>, 0.07412, <-1.71231, 17.4065, 6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.06901, 18.2919, 6>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.71231, 19.1773, 6>, 0.07412, <-1.06901, 18.2919, 6>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -42308,20 +35003,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.75319, 18.8391, 6>, 0.07412, <-1.71231, 19.1773, 6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.75319, 18.8391, 6>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2.75319, 17.7447, 6>, 0.07412, <-2.75319, 18.8391, 6>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -42334,11 +35019,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.71231, 17.4065, 6>, 0.07412, <-2.75319, 17.7447, 6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -42347,20 +35027,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.24681, 18.8391, 6>, 0.07412, <-1.5345, 18.1406, 5.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.24681, 18.8391, 6>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2, 18.7813, 6.79195>, 0.07412, <-1.24681, 18.8391, 6>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -42373,20 +35043,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.75319, 18.0472, 6.48945>, 0.07412, <-2, 18.7813, 6.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.75319, 18.0472, 6.48945>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2.4655, 17.6512, 5.51055>, 0.07412, <-2.75319, 18.0472, 6.48945>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -42399,11 +35059,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.5345, 18.1406, 5.20805>, 0.07412, <-2.4655, 17.6512, 5.51055>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -42412,20 +35067,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.28769, 19.1773, 6>, 0.07412, <-1.71231, 18.6879, 5.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.28769, 19.1773, 6>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2.4655, 18.4431, 6.79195>, 0.07412, <-2.28769, 19.1773, 6>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -42438,20 +35083,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2, 17.4999, 6.48945>, 0.07412, <-2.4655, 18.4431, 6.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2, 17.4999, 6.48945>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.5345, 17.6512, 5.51055>, 0.07412, <-2, 17.4999, 6.48945>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -42464,11 +35099,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.71231, 18.6879, 5.20805>, 0.07412, <-1.5345, 17.6512, 5.51055>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -42477,20 +35107,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.93099, 18.2919, 6>, 0.07412, <-2.28769, 18.6879, 5.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.93099, 18.2919, 6>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2.28769, 17.8959, 6.79195>, 0.07412, <-2.93099, 18.2919, 6>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -42503,20 +35123,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.24681, 18.0472, 6.48945>, 0.07412, <-2.28769, 17.8959, 6.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.24681, 18.0472, 6.48945>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.24681, 18.5366, 5.51055>, 0.07412, <-1.24681, 18.0472, 6.48945>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -42529,11 +35139,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.28769, 18.6879, 5.20805>, 0.07412, <-1.24681, 18.5366, 5.51055>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -42542,20 +35147,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.28769, 17.4065, 6>, 0.07412, <-2.4655, 18.1406, 5.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.28769, 17.4065, 6>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.71231, 17.8959, 6.79195>, 0.07412, <-2.28769, 17.4065, 6>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -42568,20 +35163,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.5345, 18.9326, 6.48945>, 0.07412, <-1.71231, 17.8959, 6.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.5345, 18.9326, 6.48945>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2, 19.0838, 5.51055>, 0.07412, <-1.5345, 18.9326, 6.48945>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -42594,11 +35179,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.4655, 18.1406, 5.20805>, 0.07412, <-2, 19.0838, 5.51055>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -42607,20 +35187,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.24681, 17.7447, 6>, 0.07412, <-2, 17.8024, 5.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.24681, 17.7447, 6>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.5345, 18.4431, 6.79195>, 0.07412, <-1.24681, 17.7447, 6>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -42633,20 +35203,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2.4655, 18.9326, 6.48945>, 0.07412, <-1.5345, 18.4431, 6.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-2.4655, 18.9326, 6.48945>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-2.75319, 18.5366, 5.51055>, 0.07412, <-2.4655, 18.9326, 6.48945>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -42659,11 +35219,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-2, 17.8024, 5.20805>, 0.07412, <-2.75319, 18.5366, 5.51055>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -42672,20 +35227,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.930995, 18.2919, 6>, 0.07412, <0.287693, 17.4065, 6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <0.930995, 18.2919, 6>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<0.287693, 19.1773, 6>, 0.07412, <0.930995, 18.2919, 6>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -42698,20 +35243,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.753191, 18.8391, 6>, 0.07412, <0.287693, 19.1773, 6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.753191, 18.8391, 6>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-0.753191, 17.7447, 6>, 0.07412, <-0.753191, 18.8391, 6>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -42724,11 +35259,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.287693, 17.4065, 6>, 0.07412, <-0.753191, 17.7447, 6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -42737,20 +35267,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.753191, 18.8391, 6>, 0.07412, <0.465497, 18.1406, 5.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <0.753191, 18.8391, 6>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.94289e-16, 18.7813, 6.79195>, 0.07412, <0.753191, 18.8391, 6>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -42763,20 +35283,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.753191, 18.0472, 6.48945>, 0.07412, <-1.94289e-16, 18.7813, 6.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.753191, 18.0472, 6.48945>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-0.465497, 17.6512, 5.51055>, 0.07412, <-0.753191, 18.0472, 6.48945>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -42789,11 +35299,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.465497, 18.1406, 5.20805>, 0.07412, <-0.465497, 17.6512, 5.51055>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -42802,20 +35307,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.287693, 19.1773, 6>, 0.07412, <0.287693, 18.6879, 5.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.287693, 19.1773, 6>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-0.465497, 18.4431, 6.79195>, 0.07412, <-0.287693, 19.1773, 6>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -42828,20 +35323,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.66533e-16, 17.4999, 6.48945>, 0.07412, <-0.465497, 18.4431, 6.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-1.66533e-16, 17.4999, 6.48945>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<0.465497, 17.6512, 5.51055>, 0.07412, <-1.66533e-16, 17.4999, 6.48945>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -42854,11 +35339,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.287693, 18.6879, 5.20805>, 0.07412, <0.465497, 17.6512, 5.51055>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -42867,20 +35347,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.930995, 18.2919, 6>, 0.07412, <-0.287693, 18.6879, 5.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.930995, 18.2919, 6>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-0.287693, 17.8959, 6.79195>, 0.07412, <-0.930995, 18.2919, 6>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -42893,20 +35363,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.753191, 18.0472, 6.48945>, 0.07412, <-0.287693, 17.8959, 6.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <0.753191, 18.0472, 6.48945>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<0.753191, 18.5366, 5.51055>, 0.07412, <0.753191, 18.0472, 6.48945>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -42919,11 +35379,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.287693, 18.6879, 5.20805>, 0.07412, <0.753191, 18.5366, 5.51055>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -42932,20 +35387,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.287693, 17.4065, 6>, 0.07412, <-0.465497, 18.1406, 5.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.287693, 17.4065, 6>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<0.287693, 17.8959, 6.79195>, 0.07412, <-0.287693, 17.4065, 6>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -42958,20 +35403,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.465497, 18.9326, 6.48945>, 0.07412, <0.287693, 17.8959, 6.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <0.465497, 18.9326, 6.48945>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-1.66533e-16, 19.0838, 5.51055>, 0.07412, <0.465497, 18.9326, 6.48945>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -42984,11 +35419,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.465497, 18.1406, 5.20805>, 0.07412, <-1.66533e-16, 19.0838, 5.51055>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -42997,20 +35427,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<0.753191, 17.7447, 6>, 0.07412, <-1.94289e-16, 17.8024, 5.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <0.753191, 17.7447, 6>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<0.465497, 18.4431, 6.79195>, 0.07412, <0.753191, 17.7447, 6>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -43023,20 +35443,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-0.465497, 18.9326, 6.48945>, 0.07412, <0.465497, 18.4431, 6.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <-0.465497, 18.9326, 6.48945>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<-0.753191, 18.5366, 5.51055>, 0.07412, <-0.465497, 18.9326, 6.48945>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -43049,11 +35459,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<-1.94289e-16, 17.8024, 5.20805>, 0.07412, <-0.753191, 18.5366, 5.51055>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -43062,20 +35467,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.93099, 18.2919, 6>, 0.07412, <2.28769, 17.4065, 6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2.93099, 18.2919, 6>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2.28769, 19.1773, 6>, 0.07412, <2.93099, 18.2919, 6>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -43088,20 +35483,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.24681, 18.8391, 6>, 0.07412, <2.28769, 19.1773, 6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.24681, 18.8391, 6>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1.24681, 17.7447, 6>, 0.07412, <1.24681, 18.8391, 6>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -43114,11 +35499,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.28769, 17.4065, 6>, 0.07412, <1.24681, 17.7447, 6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -43127,20 +35507,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.75319, 18.8391, 6>, 0.07412, <2.4655, 18.1406, 5.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2.75319, 18.8391, 6>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2, 18.7813, 6.79195>, 0.07412, <2.75319, 18.8391, 6>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -43153,20 +35523,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.24681, 18.0472, 6.48945>, 0.07412, <2, 18.7813, 6.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.24681, 18.0472, 6.48945>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1.5345, 17.6512, 5.51055>, 0.07412, <1.24681, 18.0472, 6.48945>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -43179,11 +35539,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.4655, 18.1406, 5.20805>, 0.07412, <1.5345, 17.6512, 5.51055>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -43192,20 +35547,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.71231, 19.1773, 6>, 0.07412, <2.28769, 18.6879, 5.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.71231, 19.1773, 6>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1.5345, 18.4431, 6.79195>, 0.07412, <1.71231, 19.1773, 6>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -43218,20 +35563,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2, 17.4999, 6.48945>, 0.07412, <1.5345, 18.4431, 6.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2, 17.4999, 6.48945>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2.4655, 17.6512, 5.51055>, 0.07412, <2, 17.4999, 6.48945>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -43244,11 +35579,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.28769, 18.6879, 5.20805>, 0.07412, <2.4655, 17.6512, 5.51055>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -43257,20 +35587,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.06901, 18.2919, 6>, 0.07412, <1.71231, 18.6879, 5.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.06901, 18.2919, 6>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1.71231, 17.8959, 6.79195>, 0.07412, <1.06901, 18.2919, 6>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -43283,20 +35603,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.75319, 18.0472, 6.48945>, 0.07412, <1.71231, 17.8959, 6.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2.75319, 18.0472, 6.48945>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2.75319, 18.5366, 5.51055>, 0.07412, <2.75319, 18.0472, 6.48945>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -43309,11 +35619,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.71231, 18.6879, 5.20805>, 0.07412, <2.75319, 18.5366, 5.51055>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -43322,20 +35627,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.71231, 17.4065, 6>, 0.07412, <1.5345, 18.1406, 5.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.71231, 17.4065, 6>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2.28769, 17.8959, 6.79195>, 0.07412, <1.71231, 17.4065, 6>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -43348,20 +35643,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.4655, 18.9326, 6.48945>, 0.07412, <2.28769, 17.8959, 6.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2.4655, 18.9326, 6.48945>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2, 19.0838, 5.51055>, 0.07412, <2.4655, 18.9326, 6.48945>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -43374,11 +35659,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.5345, 18.1406, 5.20805>, 0.07412, <2, 19.0838, 5.51055>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -43387,20 +35667,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2.75319, 17.7447, 6>, 0.07412, <2, 17.8024, 5.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <2.75319, 17.7447, 6>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<2.4655, 18.4431, 6.79195>, 0.07412, <2.75319, 17.7447, 6>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -43413,20 +35683,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<1.5345, 18.9326, 6.48945>, 0.07412, <2.4655, 18.4431, 6.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <1.5345, 18.9326, 6.48945>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<1.24681, 18.5366, 5.51055>, 0.07412, <1.5345, 18.9326, 6.48945>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -43439,11 +35699,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<2, 17.8024, 5.20805>, 0.07412, <1.24681, 18.5366, 5.51055>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -43452,20 +35707,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.93099, 18.2919, 6>, 0.07412, <4.28769, 17.4065, 6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.93099, 18.2919, 6>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4.28769, 19.1773, 6>, 0.07412, <4.93099, 18.2919, 6>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -43478,20 +35723,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.24681, 18.8391, 6>, 0.07412, <4.28769, 19.1773, 6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.24681, 18.8391, 6>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3.24681, 17.7447, 6>, 0.07412, <3.24681, 18.8391, 6>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -43504,11 +35739,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.28769, 17.4065, 6>, 0.07412, <3.24681, 17.7447, 6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -43517,20 +35747,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.75319, 18.8391, 6>, 0.07412, <4.4655, 18.1406, 5.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.75319, 18.8391, 6>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4, 18.7813, 6.79195>, 0.07412, <4.75319, 18.8391, 6>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -43543,20 +35763,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.24681, 18.0472, 6.48945>, 0.07412, <4, 18.7813, 6.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.24681, 18.0472, 6.48945>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3.5345, 17.6512, 5.51055>, 0.07412, <3.24681, 18.0472, 6.48945>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -43569,11 +35779,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.4655, 18.1406, 5.20805>, 0.07412, <3.5345, 17.6512, 5.51055>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -43582,20 +35787,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.71231, 19.1773, 6>, 0.07412, <4.28769, 18.6879, 5.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.71231, 19.1773, 6>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3.5345, 18.4431, 6.79195>, 0.07412, <3.71231, 19.1773, 6>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -43608,20 +35803,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4, 17.4999, 6.48945>, 0.07412, <3.5345, 18.4431, 6.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4, 17.4999, 6.48945>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4.4655, 17.6512, 5.51055>, 0.07412, <4, 17.4999, 6.48945>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -43634,11 +35819,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.28769, 18.6879, 5.20805>, 0.07412, <4.4655, 17.6512, 5.51055>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -43647,20 +35827,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.06901, 18.2919, 6>, 0.07412, <3.71231, 18.6879, 5.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.06901, 18.2919, 6>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3.71231, 17.8959, 6.79195>, 0.07412, <3.06901, 18.2919, 6>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -43673,20 +35843,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.75319, 18.0472, 6.48945>, 0.07412, <3.71231, 17.8959, 6.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.75319, 18.0472, 6.48945>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4.75319, 18.5366, 5.51055>, 0.07412, <4.75319, 18.0472, 6.48945>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -43699,11 +35859,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.71231, 18.6879, 5.20805>, 0.07412, <4.75319, 18.5366, 5.51055>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -43712,20 +35867,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.71231, 17.4065, 6>, 0.07412, <3.5345, 18.1406, 5.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.71231, 17.4065, 6>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4.28769, 17.8959, 6.79195>, 0.07412, <3.71231, 17.4065, 6>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -43738,20 +35883,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.4655, 18.9326, 6.48945>, 0.07412, <4.28769, 17.8959, 6.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.4655, 18.9326, 6.48945>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4, 19.0838, 5.51055>, 0.07412, <4.4655, 18.9326, 6.48945>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -43764,11 +35899,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.5345, 18.1406, 5.20805>, 0.07412, <4, 19.0838, 5.51055>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -43777,20 +35907,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4.75319, 17.7447, 6>, 0.07412, <4, 17.8024, 5.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <4.75319, 17.7447, 6>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<4.4655, 18.4431, 6.79195>, 0.07412, <4.75319, 17.7447, 6>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -43803,20 +35923,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<3.5345, 18.9326, 6.48945>, 0.07412, <4.4655, 18.4431, 6.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <3.5345, 18.9326, 6.48945>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<3.24681, 18.5366, 5.51055>, 0.07412, <3.5345, 18.9326, 6.48945>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -43829,11 +35939,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<4, 17.8024, 5.20805>, 0.07412, <3.24681, 18.5366, 5.51055>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -43842,20 +35947,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.93099, 18.2919, 6>, 0.07412, <6.28769, 17.4065, 6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6.93099, 18.2919, 6>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6.28769, 19.1773, 6>, 0.07412, <6.93099, 18.2919, 6>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -43868,20 +35963,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.24681, 18.8391, 6>, 0.07412, <6.28769, 19.1773, 6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.24681, 18.8391, 6>
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<5.24681, 17.7447, 6>, 0.07412, <5.24681, 18.8391, 6>, 0.07412
   pigment { color rgbf <1, 0, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -43894,11 +35979,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.28769, 17.4065, 6>, 0.07412, <5.24681, 17.7447, 6>, 0.07412
-  pigment { color rgbf <1, 0, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -43907,20 +35987,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.75319, 18.8391, 6>, 0.07412, <6.4655, 18.1406, 5.20805>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6.75319, 18.8391, 6>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6, 18.7813, 6.79195>, 0.07412, <6.75319, 18.8391, 6>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -43933,20 +36003,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.24681, 18.0472, 6.48945>, 0.07412, <6, 18.7813, 6.79195>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.24681, 18.0472, 6.48945>
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<5.5345, 17.6512, 5.51055>, 0.07412, <5.24681, 18.0472, 6.48945>, 0.07412
   pigment { color rgbf <0, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -43959,11 +36019,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.4655, 18.1406, 5.20805>, 0.07412, <5.5345, 17.6512, 5.51055>, 0.07412
-  pigment { color rgbf <0, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -43972,20 +36027,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.71231, 19.1773, 6>, 0.07412, <6.28769, 18.6879, 5.20805>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.71231, 19.1773, 6>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<5.5345, 18.4431, 6.79195>, 0.07412, <5.71231, 19.1773, 6>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -43998,20 +36043,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6, 17.4999, 6.48945>, 0.07412, <5.5345, 18.4431, 6.79195>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6, 17.4999, 6.48945>
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6.4655, 17.6512, 5.51055>, 0.07412, <6, 17.4999, 6.48945>, 0.07412
   pigment { color rgbf <0, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -44024,11 +36059,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.28769, 18.6879, 5.20805>, 0.07412, <6.4655, 17.6512, 5.51055>, 0.07412
-  pigment { color rgbf <0, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -44037,20 +36067,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.06901, 18.2919, 6>, 0.07412, <5.71231, 18.6879, 5.20805>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.06901, 18.2919, 6>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<5.71231, 17.8959, 6.79195>, 0.07412, <5.06901, 18.2919, 6>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -44063,20 +36083,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.75319, 18.0472, 6.48945>, 0.07412, <5.71231, 17.8959, 6.79195>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6.75319, 18.0472, 6.48945>
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6.75319, 18.5366, 5.51055>, 0.07412, <6.75319, 18.0472, 6.48945>, 0.07412
   pigment { color rgbf <0, 1, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -44089,11 +36099,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.71231, 18.6879, 5.20805>, 0.07412, <6.75319, 18.5366, 5.51055>, 0.07412
-  pigment { color rgbf <0, 1, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -44102,20 +36107,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.71231, 17.4065, 6>, 0.07412, <5.5345, 18.1406, 5.20805>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.71231, 17.4065, 6>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6.28769, 17.8959, 6.79195>, 0.07412, <5.71231, 17.4065, 6>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -44128,20 +36123,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.4655, 18.9326, 6.48945>, 0.07412, <6.28769, 17.8959, 6.79195>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6.4655, 18.9326, 6.48945>
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6, 19.0838, 5.51055>, 0.07412, <6.4655, 18.9326, 6.48945>, 0.07412
   pigment { color rgbf <1, 0, 1, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -44154,11 +36139,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.5345, 18.1406, 5.20805>, 0.07412, <6, 19.0838, 5.51055>, 0.07412
-  pigment { color rgbf <1, 0, 1, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -44167,20 +36147,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<6.75319, 17.7447, 6>, 0.07412, <6, 17.8024, 5.20805>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <6.75319, 17.7447, 6>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6.4655, 18.4431, 6.79195>, 0.07412, <6.75319, 17.7447, 6>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
@@ -44193,11 +36163,6 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.5345, 18.9326, 6.48945>, 0.07412, <6.4655, 18.4431, 6.79195>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
@@ -44206,20 +36171,10 @@ sphere {<0, 0, 0>, 1
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
 
-cone {<5.24681, 18.5366, 5.51055>, 0.07412, <5.5345, 18.9326, 6.48945>, 0.07412
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
 sphere {<0, 0, 0>, 1
   rotate <0, 48.7, 0>
   scale <0.07412, 0.07412, 0.07412>
   translate <5.24681, 18.5366, 5.51055>
-  pigment { color rgbf <1, 1, 0, 0> }
-  finish { ambient 0.125 diffuse 0.5 reflection 0.5}
-}
-
-cone {<6, 17.8024, 5.20805>, 0.07412, <5.24681, 18.5366, 5.51055>, 0.07412
   pigment { color rgbf <1, 1, 0, 0> }
   finish { ambient 0.125 diffuse 0.5 reflection 0.5}
 }
