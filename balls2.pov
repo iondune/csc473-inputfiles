@@ -15,16 +15,16 @@ light_source {<-3, 1, -5> color rgb <1.0, 1.0, 1.0>}
 
 triangle {
   <12, 12, 0.5>,
-  <-12, 12, 0.5>,
-  <-12, -12, 0.5>
+  <-12, -12, 0.5>,
+  <-12, 12, 0.5>
   pigment { color rgbf <1, 0.75, 0.33, 0> }
   finish { ambient 0.25 diffuse 1 reflection 0}
 }
 
 triangle {
   <12, 12, 0.5>,
-  <-12, -12, 0.5>,
-  <12, -12, 0.5>
+  <12, -12, 0.5>,
+  <-12, -12, 0.5>
   pigment { color rgbf <1, 0.75, 0.33, 0> }
   finish { ambient 0.25 diffuse 1 reflection 0}
 }
