@@ -25,25 +25,25 @@ plane {<0, 0, 1>, -5
 
 
 sphere { <2, 1, -3.74305>, 2
-  pigment { color rgbf <1.0, 1.0, 1.0>}
+  pigment { color rgb <1.0, 1.0, 1.0>}
   finish {ambient 0.1 diffuse 0.8}
   translate <-4, -3, 2>
 }
 
 sphere { <6, 1, -3.74305>, 2
-  pigment { color rgbf <1.0, 1.0, 1.0>}
+  pigment { color rgb <1.0, 1.0, 1.0>}
   finish {ambient 0.1 diffuse 0.8}
   translate <-4, -3, 2>
 }
 
 sphere { <4, 1, -0.25695>, 2
-  pigment { color rgbf <1.0, 1.0, 1.0>}
+  pigment { color rgb <1.0, 1.0, 1.0>}
   finish {ambient 0.2 diffuse 0.8}
   translate <-4, -3, 2>
 }
 
 sphere { <4, 4, -2>, 2
-  pigment { color rgbf <1.0, 1.0, 1.0>}
+  pigment { color rgb <1.0, 1.0, 1.0>}
   finish {ambient 0.1 diffuse 0.8}
   translate <-4, -3, 2>
 }
