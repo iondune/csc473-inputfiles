@@ -25,7 +25,7 @@ pigment {color rgb <0.8, 0.4, 0.2>}
 finish {ambient 0.4 diffuse 0.2 reflection 0.2}}
 
 // back wall on the right
-plane {<-.34, 0, -.94>, 30
+plane {<.34, 0, .94>, -30
 pigment {color rgb <0.0, 0.2, 0.2>}
 finish {ambient 0.4 diffuse 0.8 reflection 0.2}}
 
