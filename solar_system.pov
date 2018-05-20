@@ -93,7 +93,7 @@ sphere { <0, 0, 0>, 0.5
 }
 sphere { <0, 0, 0>, 0.5
   pigment { color rgbf <1, 1, 0.6, 0.5>}
-  finish {ambient 0.5, diffuse 0.8 specular 0.1, roughness 0.4 ior 1.1 }
+  finish {ambient 0.5 diffuse 0.8 specular 0.1 roughness 0.4 ior 1.1 }
   scale <1, 0.5, 0.5>
   translate <-0.9, -0.7, 1.5>
 }
