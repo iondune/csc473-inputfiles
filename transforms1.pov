@@ -64,8 +64,8 @@ sphere { <0, 0, 0>, 1.0
 
 // Triangle
 triangle {
-  <0, -3, -5>,
   <10, 5, 10>,
+  <0, -3, -5>,
   <-10, 5, 10>
   pigment {color rgb <1.0, 1.0, 1.0>}
   finish {ambient 0.4 diffuse 1.0 reflection 0.7}
