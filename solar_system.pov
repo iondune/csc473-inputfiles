@@ -106,7 +106,7 @@ sphere { <-5.8, 0, 0>, 1.6
 }
 sphere { <0, 0, 0>, 2.7
   pigment { color rgbf <1, 1, 1, 0.8> }
-  finish { ambient 0.5 diffuse 0.5 specular 0.2 roughness 0.2 reflection 0 }
+  finish { ambient 0.5 diffuse 0.5 specular 0.2 roughness 0.2 reflection 0 ior 1.0 }
   scale <1, 0.05, 1>
   rotate <0, -25, -30>
   translate <-5.8, 0, 0>
