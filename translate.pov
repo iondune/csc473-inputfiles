@@ -13,28 +13,28 @@ light_source {<-10, 10, 10> color rgb <1.5, 1.5, 1.5>}
 // red
 sphere { <0, 0, 0>, 2
   pigment { color rgb <0.8, 0.2, 0.2>}
-  finish { ambient 0.2 diffuse 0.4 specular 0.6 }
+  finish { ambient 0.2 diffuse 0.4 specular 0.6 roughness 0.1 }
   translate <-5, 0, 0>
 }
 
 // yellow
 sphere { <0, 0, 0>, 2
   pigment { color rgb <0.8, 0.8, 0.2>}
-  finish { ambient 0.2 diffuse 0.4 specular 0.6 }
+  finish { ambient 0.2 diffuse 0.4 specular 0.6 roughness 0.1 }
   translate <0, 2.5, 0>
 }
 
 // green
 sphere { <0, 0, 0>, 1
   pigment { color rgb <0.2, 0.8, 0.2>}
-  finish { ambient 0.2 diffuse 0.4 specular 0.6 }
+  finish { ambient 0.2 diffuse 0.4 specular 0.6 roughness 0.1 }
   translate <0, 0, 2>
 }
 
 // blue
 sphere { <0, 0, 0>, 2
   pigment { color rgb <0.2, 0.4, 0.8>}
-  finish { ambient 0.2 diffuse 0.4 specular 0.6 }
+  finish { ambient 0.2 diffuse 0.4 specular 0.6 roughness 0.1 }
   translate <5, 0, 0>
 }
 
